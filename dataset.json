@@ -1,0 +1,3135 @@
+[
+    {
+        "phrases": [
+            "few",
+            "a few",
+            "bit",
+            "little",
+            "not much",
+            "scarce"
+        ],
+        "video": "A-Few.mp4"
+    },
+    {
+        "phrases": [
+            "a little bit",
+            "little",
+            "few",
+            "minimal",
+            "scarce"
+        ],
+        "video": "A-little-bit.mp4"
+    },
+    {
+        "phrases": [
+            "abhor",
+            "detest",
+            "dislike",
+            "don't like",
+            "hate",
+            "throw up",
+            "vomit"
+        ],
+        "video": "Abhor.mp4"
+    },
+    {
+        "phrases": [
+            "about",
+            "regarding",
+            "with reference to"
+        ],
+        "video": "About.mp4"
+    },
+    {
+        "phrases": [
+            "above",
+            "beyond",
+            "more than",
+            "on top of",
+            "over",
+            "minimum"
+        ],
+        "video": "Above.mp4"
+    },
+    {
+        "phrases": [
+            "absolutely nothing",
+            "all out",
+            "depleted",
+            "empty",
+            "none",
+            "nothing",
+            "zilch"
+        ],
+        "video": "Absolutely-nothing.mp4"
+    },
+    {
+        "phrases": [
+            "accent",
+            "dialect",
+            "language",
+            "regional language"
+        ],
+        "video": "Accent.mp4"
+    },
+    {
+        "phrases": [
+            "accept",
+            "acceptable",
+            "adopt",
+            "agree to",
+            "embrace",
+            "own",
+            "passive",
+            "take responsibility for",
+            "tolerate",
+            "begrudgingly",
+            "enduring",
+            "indignant",
+            "indignation",
+            "sore loser",
+            "strong patience",
+            "unwillingly",
+            "suppress",
+            "restrain"
+        ],
+        "video": "Accept.mp4"
+    },
+    {
+        "phrases": [
+            "access",
+            "accessible",
+            "accessibility",
+            "admission",
+            "entrance"
+        ],
+        "video": "Access.mp4"
+    },
+    {
+        "phrases": [
+            "accident",
+            "collide",
+            "collision",
+            "crash",
+            "hit",
+            "oops",
+            "vehicle",
+            "wreck"
+        ],
+        "video": "Accident.mp4"
+    },
+    {
+        "phrases": [
+            "accomplish",
+            "it works",
+            "it's working",
+            "succeed",
+            "successful",
+            "win",
+            "success",
+            "triumph",
+            "come first",
+            "prevail",
+            "beat the odds",
+            "victory",
+            "conquest"
+        ],
+        "video": "Accomplish.mp4"
+    },
+    {
+        "phrases": [
+            "accordion",
+            "musical instrument"
+        ],
+        "video": "Accordion.mp4"
+    },
+    {
+        "phrases": [
+            "account",
+            "agenda"
+        ],
+        "video": "Account.mp4"
+    },
+    {
+        "phrases": [
+            "accountant",
+            "count",
+            "money",
+            "person"
+        ],
+        "video": "Accountant.mp4"
+    },
+    {
+        "phrases": [
+            "accustomed",
+            "habit",
+            "habituate",
+            "tendency",
+            "used to"
+        ],
+        "video": "Accustomed.mp4"
+    },
+    {
+        "phrases": [
+            "accept",
+            "acquiesce",
+            "be quiet",
+            "be speechless",
+            "no reply",
+            "passive",
+            "realize",
+            "resigned"
+        ],
+        "video": "Acquiesce.mp4"
+    },
+    {
+        "phrases": [
+            "acquire",
+            "acquisition",
+            "pick up"
+        ],
+        "video": "Acquire.mp4"
+    },
+    {
+        "phrases": [
+            "act",
+            "acting",
+            "drama",
+            "dramatic",
+            "perform",
+            "performance",
+            "put on a play",
+            "show",
+            "theater",
+            "theatre"
+        ],
+        "video": "Act.mp4"
+    },
+    {
+        "phrases": [
+            "act",
+            "action",
+            "active",
+            "activity",
+            "be involved",
+            "behavior",
+            "do",
+            "event"
+        ],
+        "video": "Action.mp4"
+    },
+    {
+        "phrases": [
+            "act",
+            "acting",
+            "actor",
+            "actress",
+            "entertainer",
+            "performer",
+            "thespian"
+        ],
+        "video": "Actor.mp4"
+    },
+    {
+        "phrases": [
+            "add",
+            "bonus",
+            "enhance",
+            "extra",
+            "in addition to",
+            "math"
+        ],
+        "video": "Add.mp4"
+    },
+    {
+        "phrases": [
+            "addict",
+            "addicted",
+            "addiction",
+            "habit",
+            "hooked"
+        ],
+        "video": "Addict.mp4"
+    },
+    {
+        "phrases": [
+            "address",
+            "live",
+            "mailing address",
+            "residence",
+            "resident"
+        ],
+        "video": "Address.mp4"
+    },
+    {
+        "phrases": [
+            "admire",
+            "anticipate",
+            "look up to",
+            "regard",
+            "respect",
+            "think highly of"
+        ],
+        "video": "Admire.mp4"
+    },
+    {
+        "phrases": [
+            "admit",
+            "be willing",
+            "confess",
+            "declare"
+        ],
+        "video": "Admit.mp4"
+    },
+    {
+        "phrases": [
+            "adopt",
+            "assume",
+            "host",
+            "take",
+            "take on",
+            "take over",
+            "take responsibility for",
+            "take up",
+            "undertake"
+        ],
+        "video": "Adopt.mp4"
+    },
+    {
+        "phrases": [
+            "adult",
+            "grown up"
+        ],
+        "video": "Adult.mp4"
+    },
+    {
+        "phrases": [
+            "advantage",
+            "exploit",
+            "opportunity",
+            "privilege",
+            "to take advantage",
+            "benefit from"
+        ],
+        "video": "Advantage.mp4"
+    },
+    {
+        "phrases": [
+            "ad",
+            "advertise",
+            "advertisement",
+            "commercial",
+            "marketing",
+            "publicize",
+            "flyer",
+            "promote",
+            "promotion",
+            "to market"
+        ],
+        "video": "Advertise.mp4"
+    },
+    {
+        "phrases": [
+            "affection",
+            "affectionate",
+            "hug",
+            "love"
+        ],
+        "video": "Affection.mp4"
+    },
+    {
+        "phrases": [
+            "Afghan",
+            "Afghanistan",
+            "country"
+        ],
+        "video": "Afghanistan.mp4"
+    },
+    {
+        "phrases": [
+            "Africa",
+            "continent",
+            "geography"
+        ],
+        "video": "Africa.mp4"
+    },
+    {
+        "phrases": [
+            "across",
+            "after",
+            "next",
+            "over"
+        ],
+        "video": "After.mp4"
+    },
+    {
+        "phrases": [
+            "afternoon",
+            "noon"
+        ],
+        "video": "Afternoon.mp4"
+    },
+    {
+        "phrases": [
+            "again",
+            "another",
+            "frequent",
+            "frequently",
+            "over and over again",
+            "repeat",
+            "repetition"
+        ],
+        "video": "Again.mp4"
+    },
+    {
+        "phrases": [
+            "against",
+            "anti",
+            "lawsuit",
+            "opposed",
+            "sue",
+            "versus",
+            "decline", 
+            "reject", 
+            "turn down"
+        ],
+        "video": "Against.mp4"
+    },
+    {
+        "phrases": [
+            "age",
+            "age group",
+            "generation",
+            "how old",
+            "length of life",
+            "number of years",
+            "old"
+        ],
+        "video": "Age.mp4"
+    },
+    {
+        "phrases": [
+            "agency",
+            "association",
+            "organization"
+        ],
+        "video": "Agency.mp4"
+    },
+    {
+        "phrases": [
+            "aggressive",
+            "assertive"
+        ],
+        "video": "Aggressive.mp4"
+    },
+    {
+        "phrases": [
+            "agree",
+            "agreement",
+            "consensus",
+            "mutual",
+            "AGREEMENTix"
+        ],
+        "video": "Agreement.mp4"
+    },
+    {
+        "phrases": [
+            "ahem",
+            "laugh",
+            "laughing",
+            "make fun of",
+            "taunt",
+            "tease"
+        ],
+        "video": "Ahem.mp4"
+    },
+    {
+        "phrases": [
+            "airline",
+            "airplane",
+            "airport",
+            "flight",
+            "fly",
+            "flying",
+            "plane"
+        ],
+        "video": "Airplane.mp4"
+    },
+    {
+        "phrases": [
+            "alarm",
+            "alert",
+            "bell",
+            "doorbell-ring",
+            "phone-ring",
+            "ring",
+            "signal"
+        ],
+        "video": "Alarm.mp4"
+    },
+    {
+        "phrases": [
+            "Alaska",
+            "state"
+        ],
+        "video": "Alaska.mp4"
+    },
+    {
+        "phrases": [
+            "Albania",
+            "Albanian",
+            "country"
+        ],
+        "video": "Albania.mp4"
+    },
+    {
+        "phrases": [
+            "alcohol",
+            "booze",
+            "drink",
+            "liquor",
+            "whisky",
+            "whiskey"
+        ],
+        "video": "Alcohol.mp4"
+    },
+    {
+        "phrases": [
+            "align",
+            "alignment",
+            "come together",
+            "goes well",
+            "match",
+            "organize",
+            "to combine",
+            "to flow",
+            "to put together",
+            "to work out",
+            "works out"
+        ],
+        "video": "Align.mp4"
+    },
+    {
+        "phrases": [
+            "all",
+            "entire",
+            "everything",
+            "whole"
+        ],
+        "video": "All.mp4"
+    },
+    {
+        "phrases": [
+            "allergy",
+            "allergic",
+            "allergies",
+            "allergy",
+            "ALLERGYflex"
+        ],
+        "video": "Allergy.mp4"
+    },
+    {
+        "phrases": [
+            "allow",
+            "give permission",
+            "let",
+            "permit",
+            "way",
+            "ALLOWb",
+            "let's",
+            "ALLOW"
+        ],
+        "video": "Allow.mp4"
+    },
+    {
+        "phrases": [
+            "all right",
+            "alright",
+            "okay",
+            "sure",
+            "ALRIGHT",
+            "ok",
+            "fine",
+            "yeah",
+            "yes",
+            "yep",
+            "sure",
+            "certainly",
+            "absolutely"
+        ],
+        "video": "Alright.mp4"
+    },
+    {
+        "phrases": [
+            "almost",
+            "nearly",
+            "close to",
+            "just about",
+            "ALMOST"
+        ],
+        "video": "Almost.mp4"
+    },
+    {
+        "phrases": [
+            "alone",
+            "by oneself",
+            "lonely",
+            "only one",
+            "on my own",
+            "ALONE"
+        ],
+        "video": "Alone.mp4"
+    },
+    {
+        "phrases": [
+            "also",
+            "and",
+            "as well as",
+            "be like",
+            "same",
+            "too",
+            "ALSO"
+        ],
+        "video": "Also.mp4"
+    },
+    {
+        "phrases": [
+            "alternate",
+            "alternative",
+            "instead of",
+            "next in line",
+            "other",
+            "switch",
+            "your turn",
+            "ALTERNATIVE"
+        ],
+        "video": "Alternative.mp4"
+    },
+    {
+        "phrases": [
+            "alumni",
+            "graduate",
+            "school",
+            "year",
+            "ALUMNIa"
+        ],
+        "video": "Alumni.mp4"
+    },
+    {
+        "phrases": [
+            "alone",
+            "always",
+            "only",
+            "somebody",
+            "someone",
+            "something",
+            "ALWAYS"
+        ],
+        "video": "Always.mp4"
+    },
+    {
+        "phrases": [
+            "am",
+            "are",
+            "is",
+            "to be",
+            "copula",
+            "AM"
+        ],
+        "video": "Am.mp4"
+    },
+    {
+        "phrases": [
+            "amazing",
+            "awesome",
+            "disbelief",
+            "fascinating",
+            "favorite",
+            "incredible",
+            "whoa",
+            "wow",
+            "AMAZING"
+        ],
+        "video": "Amazing.mp4"
+    },
+    {
+        "phrases": [
+            "America",
+            "United States",
+            "US",
+            "USA",
+            "AMERICA"
+        ],
+        "video": "America.mp4"
+    },
+    {
+        "phrases": [
+            "American Indian",
+            "Indian",
+            "indigenous",
+            "Native American",
+            "AMERICAN-INDIAN"
+        ],
+        "video": "AmericanIndian.mp4"
+    },
+    {
+        "phrases": [
+            "amino acid",
+            "protein",
+            "genetic",
+            "molecule",
+            "AMINO-ACID"
+        ],
+        "video": "AminoAcid.mp4"
+    },
+    {
+        "phrases": [
+            "VEE",
+            "VEE-VEE",
+            "analysis",
+            "analyze",
+            "assess",
+            "assessment",
+            "examine",
+            "interesting",
+            "study",
+            "vee",
+            "vee vee",
+            "ANALYZE"
+        ],
+        "video": "Analyze.mp4"
+    },
+    {
+        "phrases": [
+            "angel",
+            "cherub",
+            "cherubim",
+            "ANGEL"
+        ],
+        "video": "Angel.mp4"
+    },
+    {
+        "phrases": [
+            "anger",
+            "angry",
+            "enraged",
+            "furious",
+            "infuriated",
+            "mad",
+            "\ud83d\ude21",
+            "\ud83d\ude24",
+            "\ud83d\ude20",
+            "ANGRY"
+        ],
+        "video": "Angry.mp4"
+    },
+    {
+        "phrases": [
+            "animal",
+            "beast",
+            "creature",
+            "ANIMAL"
+        ],
+        "video": "Animal.mp4"
+    },
+    {
+        "phrases": [
+            "annotate",
+            "annotation",
+            "document",
+            "documentation",
+            "fill out",
+            "filling out",
+            "transcribe",
+            "transcription",
+            "writing",
+            "ANNOTATE"
+        ],
+        "video": "Annotate.mp4"
+    },
+    {
+        "phrases": [
+            "announce",
+            "announcement",
+            "declaration",
+            "declare",
+            "make known",
+            "ANNOUNCE"
+        ],
+        "video": "Announce.mp4"
+    },
+    {
+        "phrases": [
+            "annoy",
+            "annoyed",
+            "annoying",
+            "bothered",
+            "dumb",
+            "exasperated",
+            "frustrated",
+            "geez",
+            "haha",
+            "jeez",
+            "not funny",
+            "nuisance",
+            "oh boy",
+            "oh gosh",
+            "oh no",
+            "oh please",
+            "sick",
+            "sick of",
+            "silly",
+            "you're funny",
+            "SICKtwist",
+            "ANNOYINGtwist"
+        ],
+        "video": "Annoying.mp4"
+    },
+    {
+        "phrases": [
+            "answer",
+            "reply",
+            "report",
+            "respond",
+            "response",
+            "order",
+            "ANSWER"
+        ],
+        "video": "Answer.mp4"
+    },
+    {
+        "phrases": [
+            "anthem",
+            "national anthem",
+            "song",
+            "pledge",
+            "ANTHEM"
+        ],
+        "video": "Anthem.mp4"
+    },
+    {
+        "phrases": [
+            "antlers",
+            "deer",
+            "moose",
+            "ANTLERSrep"
+        ],
+        "video": "Antler.mp4"
+    },
+    {
+        "phrases": [
+            "anxiety",
+            "apprehension",
+            "nervous",
+            "nervousness",
+            "tension",
+            "\ud83d\ude29",
+            "ANXIETY"
+        ],
+        "video": "Anxiety.mp4"
+    },
+    {
+        "phrases": [
+            "any",
+            "some",
+            "ANY"
+        ],
+        "video": "Any.mp4"
+    },
+    {
+        "phrases": [
+            "anything",
+            "ANYTHING"
+        ],
+        "video": "Anything.mp4"
+    },
+    {
+        "phrases": [
+            "appear",
+            "come into view",
+            "occur",
+            "pop up",
+            "show",
+            "show up",
+            "APPEAR"
+        ],
+        "video": "Appear.mp4"
+    },
+    {
+        "phrases": [
+            "applicable",
+            "application",
+            "apply",
+            "assign",
+            "assignment",
+            "file",
+            "APPLY"
+        ],
+        "video": "Apply.mp4"
+    },
+    {
+        "phrases": [
+            "appoint",
+            "appointment",
+            "assign",
+            "book",
+            "reservation",
+            "reserve",
+            "APPOINTMENTarc"
+        ],
+        "video": "Appointment.mp4"
+    },
+    {
+        "phrases": [
+            "approach",
+            "confront",
+            "encounter",
+            "to face",
+            "meet",
+            "method",
+            "to address",
+            "APPROACH"
+        ],
+        "video": "Approach.mp4"
+    },
+    {
+        "phrases": [
+            "allow",
+            "approval",
+            "approve",
+            "authorize",
+            "okay",
+            "stamp",
+            "validate",
+            "APPROVE",
+            "validate",
+            "confirm",
+            "confirmation", 
+            "evidence", 
+            "prove",
+            "authenticate",
+            "copyright",
+            "notarize", 
+            "notary",
+            "permit",
+            "trademark",
+            "recommend",
+            "recommendation"
+        ],
+        "video": "Approve.mp4"
+    },
+    {
+        "phrases": [
+            "about",
+            "approximate",
+            "around",
+            "estimate",
+            "ish",
+            "roughly",
+            "range",
+            "around there",
+            "something like that",
+            "APPROXIMATE"
+        ],
+        "video": "Approximate.mp4"
+    },
+    {
+        "phrases": [
+            "April",
+            "April-month",
+            "month",
+            "APRIL-MONTH"
+        ],
+        "video": "April.mp4"
+    },
+    {
+        "phrases": [
+            "archaeology",
+            "archeology",
+            "dig",
+            "mine",
+            "ARCHEOLOGY"
+        ],
+        "video": "Archeology.mp4"
+    },
+    {
+        "phrases": [
+            "am",
+            "are",
+            "copula",
+            "is",
+            "real",
+            "to be",
+            "ARE"
+        ],
+        "video": "Are.mp4"
+    },
+    {
+        "phrases": [
+            "area",
+            "domain",
+            "field",
+            "local",
+            "location",
+            "place",
+            "region",
+            "sector",
+            "space",
+            "zone",
+            "AREA"
+        ],
+        "video": "Area.mp4"
+    },
+    {
+        "phrases": [
+            "Argentina",
+            "Argentinan",
+            "ARGENTINA"
+        ],
+        "video": "Argentina.mp4"
+    },
+    {
+        "phrases": [
+            "argue",
+            "debate",
+            "fight",
+            "ARGUE"
+        ],
+        "video": "Argue.mp4"
+    },
+    {
+        "phrases": [
+            "Arizona",
+            "state",
+            "ARIZONA"
+        ],
+        "video": "Arizona.mp4"
+    },
+    {
+        "phrases": [
+            "arm",
+            "body part",
+            "limb",
+            "ARM"
+        ],
+        "video": "Arm.mp4"
+    },
+    {
+        "phrases": [
+            "army",
+            "military",
+            "soldier",
+            "ARMY"
+        ],
+        "video": "Army.mp4"
+    },
+    {
+        "phrases": [
+            "arrest",
+            "arrested",
+            "capture",
+            "catch",
+            "caught",
+            "detain",
+            "shackle",
+            "ARRESTasym"
+        ],
+        "video": "Arrest.mp4"
+    },
+    {
+        "phrases": [
+            "arrival",
+            "arrive",
+            "come",
+            "get here",
+            "ARRIVE"
+        ],
+        "video": "Arrive.mp4"
+    },
+    {
+        "phrases": [
+            "arrogant",
+            "arrogance",
+            "ego",
+            "big-headed",
+            "ARROGANT"
+        ],
+        "video": "Arrogant.mp4"
+    },
+    {
+        "phrases": [
+            "art",
+            "design",
+            "draw",
+            "drawing",
+            "illustrate",
+            "illustration",
+            "picture",
+            "ART"
+        ],
+        "video": "Art.mp4"
+    },
+    {
+        "phrases": [
+            "academic article",
+            "article",
+            "column",
+            "essay",
+            "journal",
+            "literature",
+            "research",
+            "ARTICLE"
+        ],
+        "video": "Article.mp4"
+    },
+    {
+        "phrases": [
+            "artist",
+            "creator",
+            "designer",
+            "illustrator",
+            "ARTIST"
+        ],
+        "video": "Artist.mp4"
+    },
+    {
+        "phrases": [
+            "as",
+            "like",
+            "same",
+            "AS"
+        ],
+        "video": "As.mp4"
+    },
+    {
+        "phrases": [
+            "Asia",
+            "Asian",
+            "continent",
+            "geography",
+            "ASIA"
+        ],
+        "video": "Asia.mp4"
+    },
+    {
+        "phrases": [
+            "ask",
+            "inquire",
+            "query",
+            "question",
+            "request",
+            "ASKix"
+        ],
+        "video": "Ask.mp4"
+    },
+    {
+        "phrases": [
+            "assembly",
+            "Atlanta",
+            "city",
+            "ASSEMBLY"
+        ],
+        "video": "Assembly.mp4"
+    },
+    {
+        "phrases": [
+            "assess",
+            "assessment",
+            "evaluate",
+            "evaluation",
+            "analyze",
+            "analysis",
+            "ASSESS"
+        ],
+        "video": "Assess.mp4"
+    },
+    {
+        "phrases": [
+            "assign",
+            "assignment",
+            "move",
+            "place",
+            "placement",
+            "put there",
+            "set",
+            "set in place",
+            "ASSIGN"
+        ],
+        "video": "Assign.mp4"
+    },
+    {
+        "phrases": [
+            "assignment",
+            "homework",
+            "task",
+            "work",
+            "ASSIGNMENT"
+        ],
+        "video": "Assignment.mp4"
+    },
+    {
+        "phrases": [
+            "aid",
+            "aide",
+            "assist",
+            "assistant",
+            "help",
+            "volunteer",
+            "ASSIST",
+            "offer",
+            "step up",
+            "help out",
+            "give time",
+            "pitch in"
+        ],
+        "video": "Assist.mp4"
+    },
+    {
+        "phrases": [
+            "astronaut",
+            "rocket",
+            "space",
+            "ASTRONAUT"
+        ],
+        "video": "Astronaut.mp4"
+    },
+    {
+        "phrases": [
+            "at",
+            "location",
+            "place",
+            "AT"
+        ],
+        "video": "At.mp4"
+    },
+    {
+        "phrases": [
+            "athlete",
+            "athletic",
+            "ATHLETE"
+        ],
+        "video": "Athlete.mp4"
+    },
+    {
+        "phrases": [
+            "alert",
+            "attention",
+            "attentive",
+            "aware",
+            "focus",
+            "pay attention",
+            "ATTENTION",
+            "concentrate",
+            "pay attention",
+            "zero in",
+            "target",
+            "pinpoint",
+            "hone in"
+
+        ],
+        "video": "Attention.mp4"
+    },
+    {
+        "phrases": [
+            "attitude",
+            "ATTITUDE"
+        ],
+        "video": "Attitude.mp4"
+    },
+    {
+        "phrases": [
+            "a lot",
+            "audience",
+            "auditorium",
+            "crowd",
+            "full",
+            "many",
+            "people",
+            "AUDIENCE"
+        ],
+        "video": "Audience.mp4"
+    },
+    {
+        "phrases": [
+            "August",
+            "month",
+            "AUGUST"
+        ],
+        "video": "August.mp4"
+    },
+    {
+        "phrases": [
+            "aunt",
+            "family",
+            "female relative",
+            "relative",
+            "AUNTtwist"
+        ],
+        "video": "Aunt.mp4"
+    },
+    {
+        "phrases": [
+            "Australia",
+            "continent",
+            "country",
+            "geography",
+            "AUSTRALIA"
+        ],
+        "video": "Australia.mp4"
+    },
+    {
+        "phrases": [
+            "autistic",
+            "autism",
+            "AUTISM"
+        ],
+        "video": "Autism.mp4"
+    },
+    {
+        "phrases": [
+            "automated",
+            "automatic",
+            "default",
+            "instantly",
+            "AUTOMATIC"
+        ],
+        "video": "Automatic.mp4"
+    },
+    {
+        "phrases": [
+            "autumn",
+            "fall",
+            "season",
+            "AUTUMN"
+        ],
+        "video": "Autumn.mp4"
+    },
+    {
+        "phrases": [
+            "animation",
+            "avatar",
+            "computer technology",
+            "AVATAR"
+        ],
+        "video": "Avatar.mp4"
+    },
+    {
+        "phrases": [
+            "average",
+            "math",
+            "medium",
+            "mid",
+            "range",
+            "AVERAGE"
+        ],
+        "video": "Average.mp4"
+    },
+    {
+        "phrases": [
+            "avoid",
+            "behind",
+            "fall behind",
+            "keep away",
+            "refrain",
+            "AVOIDa"
+        ],
+        "video": "Avoid.mp4"
+    },
+    {
+        "phrases": [
+            "awake",
+            "open eyes",
+            "open your eyes",
+            "surprise",
+            "wake",
+            "wake up",
+            "AWAKE"
+        ],
+        "video": "Awake.mp4"
+    },
+    {
+        "phrases": [
+            "away",
+            "be away",
+            "far away",
+            "go away",
+            "going",
+            "leave",
+            "let go",
+            "went",
+            "went away",
+            "AWAY"
+        ],
+        "video": "Away.mp4"
+    },
+    {
+        "phrases": [
+            "amazing",
+            "awful",
+            "disbelief",
+            "dislike",
+            "evil",
+            "gross",
+            "hate",
+            "horrible",
+            "horror",
+            "I can't believe it",
+            "ick",
+            "icky",
+            "nasty",
+            "terrible",
+            "whoa",
+            "wow",
+            "yuck",
+            "yucky"
+        ],
+        "video": "Awful.mp4"
+    },
+    {
+        "phrases": [
+            "awkward",
+            "clumsy",
+            "tricky",
+            "problematic"
+        ],
+        "video": "Awkward.mp4"
+    },
+    {
+        "phrases": [
+            "baby",
+            "infant"
+        ],
+        "video": "Baby.mp4"
+    },
+    {
+        "phrases": [
+            "babysitter",
+            "caretaker",
+            "supervise"
+        ],
+        "video": "Babysitter.mp4"
+    },
+    {
+        "phrases": [
+            "bachelor",
+            "bachelorette"
+        ],
+        "video": "Bachelor.mp4"
+    },
+    {
+        "phrases": [
+            "back",
+            "back of something",
+            "behind",
+            "in the back",
+            "in the rear of",
+            "posterior",
+            "rear",
+            "to back up",
+            "to go backward",
+            "towards the back"
+        ],
+        "video": "Back.mp4"
+    },
+    {
+        "phrases": [
+            "background",
+            "history"
+        ],
+        "video": "Background.mp4"
+    },
+    {
+        "phrases": [
+            "backpack",
+            "knapsack"
+        ],
+        "video": "Backpack.mp4"
+    },
+    {
+        "phrases": [
+            "bad",
+            "naughty",
+            "spank",
+            "don't do that",
+            "wrong",
+            "stop that"
+        ],
+        "video": "Bad.mp4"
+    },
+    {
+        "phrases": [
+            "badge",
+            "crest",
+            "emblem",
+            "sign"
+        ],
+        "video": "Badge.mp4"
+    },
+    {
+        "phrases": [
+            "bag",
+            "handbag",
+            "luggage",
+            "purse",
+            "suitcase",
+            "bucket",
+            "pail",
+            "container"
+        ],
+        "video": "Bag.mp4"
+    },
+    {
+        "phrases": [
+            "bake",
+            "cook",
+            "food",
+            "oven"
+        ],
+        "video": "Bake.mp4"
+    },
+    {
+        "phrases": [
+            "balance",
+            "balanced",
+            "equal",
+            "equilibrium",
+            "even",
+            "level",
+            "unequal",
+            "uneven"
+        ],
+        "video": "Balance.mp4"
+    },
+    {
+        "phrases": [
+            "bald",
+            "bare",
+            "bareheaded"
+        ],
+        "video": "Bald.mp4"
+    },
+    {
+        "phrases": [
+            "ball",
+            "softball"
+        ],
+        "video": "Ball.mp4"
+    },
+    {
+        "phrases": [
+            "balloon",
+            "blow up",
+            "inflate"
+        ],
+        "video": "Balloon.mp4"
+    },
+    {
+        "phrases": [
+            "banana",
+            "fruit"
+        ],
+        "video": "Banana.mp4"
+    },
+    {
+        "phrases": [
+            "bandage",
+            "gauze",
+            "covering",
+            "wrap",
+            "\ud83e\udd15"
+        ],
+        "video": "Bandage.mp4"
+    },
+    {
+        "phrases": [
+            "bankrupt",
+            "broke",
+            "no money"
+        ],
+        "video": "Bankrupt.mp4"
+    },
+    {
+        "phrases": [
+            "banquet",
+            "barbecue",
+            "BBQ",
+            "cookout",
+            "eat",
+            "food",
+            "gathering",
+            "party",
+            "reception"
+        ],
+        "video": "Banquet.mp4"
+    },
+    {
+        "phrases": [
+            "banter",
+            "conversation",
+            "joshing",
+            "joking",
+            "talk",
+            "wisecracking"
+        ],
+        "video": "Banter.mp4"
+    },
+    {
+        "phrases": [
+            "alcohol",
+            "bar",
+            "booze",
+            "drink",
+            "pub"
+        ],
+        "video": "Bar.mp4"
+    },
+    {
+        "phrases": [
+            "barely",
+            "close call",
+            "narrowly"
+        ],
+        "video": "Barely.mp4"
+    },
+    {
+        "phrases": [
+            "bark",
+            "dog",
+            "growl",
+            "snarl",
+            "woof"
+        ],
+        "video": "Bark.mp4"
+    },
+    {
+        "phrases": [
+            "at the plate",
+            "baseball",
+            "baseball bat",
+            "bat",
+            "batter",
+            "hitter",
+            "softball",
+            "sports",
+            "up to bat"
+        ],
+        "video": "Baseball.mp4"
+    },
+    {
+        "phrases": [
+            "basement",
+            "below",
+            "below ground",
+            "cellar",
+            "underground"
+        ],
+        "video": "Basement.mp4"
+    },
+    {
+        "phrases": [
+            "base",
+            "basic",
+            "basically",
+            "simple"
+        ],
+        "video": "Basic.mp4"
+    },
+    {
+        "phrases": [
+            "basket"
+        ],
+        "video": "Basket.mp4"
+    },
+    {
+        "phrases": [
+            "basketball",
+            "dunk",
+            "slam dunk",
+            "BASKETBALL-DUNK",
+            "dribble",
+            "hoops"
+        ],
+        "video": "Basketball-Dunk.mp4"
+    },
+    {
+        "phrases": [
+            "bass",
+            "drum",
+            "music"
+        ],
+        "video": "Bass.mp4"
+    },
+    {
+        "phrases": [
+            "bath",
+            "bathe",
+            "wash"
+        ],
+        "video": "Bath.mp4"
+    },
+    {
+        "phrases": [
+            "bathroom",
+            "pee",
+            "restroom",
+            "toilet"
+        ],
+        "video": "Bathroom.mp4"
+    },
+    {
+        "phrases": [
+            "battery",
+            "electric",
+            "electrical",
+            "electricity",
+            "electronic",
+            "rubber",
+            "sneakers",
+            "to charge"
+        ],
+        "video": "Battery.mp4"
+    },
+    {
+        "phrases": [
+            "bawl",
+            "cry",
+            "sob",
+            "tears",
+            "bawl-out",
+            "scold",
+            "shout",
+            "tell off",
+            "yell at"
+        ],
+        "video": "Bawl.mp4"
+    },
+    {
+        "phrases": [
+            "beach",
+            "ocean",
+            "sand",
+            "shore"
+        ],
+        "video": "Beach.mp4"
+    },
+    {
+        "phrases": [
+            "bean",
+            "beans",
+            "green beans",
+            "peas"
+        ],
+        "video": "Bean.mp4"
+    },
+    {
+        "phrases": [
+            "beard",
+            "facial hair",
+            "hair"
+        ],
+        "video": "Beard.mp4"
+    },
+    {
+        "phrases": [
+            "beat",
+            "compete",
+            "competition",
+            "overcome",
+            "sports",
+            "to defeat",
+            "trounce",
+            "win"
+        ],
+        "video": "Beat.mp4"
+    },
+    {
+        "phrases": [
+            "as a result of",
+            "because",
+            "cause",
+            "reason",
+            "why"
+        ],
+        "video": "Because.mp4"
+    },
+    {
+        "phrases": [
+            "be",
+            "become",
+            "change",
+            "change into",
+            "convert",
+            "transform",
+            "turn into"
+        ],
+        "video": "Become.mp4"
+    },
+    {
+        "phrases": [
+            "asleep",
+            "bed",
+            "bedroom",
+            "room"
+        ],
+        "video": "Bedroom.mp4"
+    },
+    {
+        "phrases": [
+            "alcohol",
+            "beer",
+            "beverage",
+            "brew",
+            "drink"
+        ],
+        "video": "Beer.mp4"
+    },
+    {
+        "phrases": [
+            "bee",
+            "bug",
+            "bumblebee",
+            "honeybee",
+            "insect",
+            "sting"
+        ],
+        "video": "Bee.mp4"
+    },
+    {
+        "phrases": [
+            "before",
+            "behind",
+            "pre",
+            "precedent",
+            "preceding",
+            "previous",
+            "prior"
+        ],
+        "video": "Before.mp4"
+    },
+    {
+        "phrases": [
+            "beg",
+            "plead"
+        ],
+        "video": "Beg.mp4"
+    },
+    {
+        "phrases": [
+            "action",
+            "acts like",
+            "behave",
+            "behavior",
+            "conduct"
+        ],
+        "video": "Behavior.mp4"
+    },
+    {
+        "phrases": [
+            "back of",
+            "backup",
+            "behind",
+            "in the back",
+            "posterior"
+        ],
+        "video": "Behind.mp4"
+    },
+    {
+        "phrases": [
+            "belief",
+            "believe",
+            "position",
+            "thinking",
+            "view"
+        ],
+        "video": "Believe.mp4"
+    },
+    {
+        "phrases": [
+            "bell",
+            "alarm",
+            "chime"
+        ],
+        "video": "Bell.mp4"
+    },
+    {
+        "phrases": [
+            "associated with",
+            "attach",
+            "be linked to",
+            "be owned by",
+            "belong",
+            "possess",
+            "relate to",
+            "related",
+            "relevant"
+        ],
+        "video": "Belong.mp4"
+    },
+    {
+        "phrases": [
+            "belt",
+            "beltband",
+            "strap"
+        ],
+        "video": "Belt.mp4"
+    },
+    {
+        "phrases": [
+            "bend",
+            "break",
+            "snap"
+        ],
+        "video": "Bend.mp4"
+    },
+    {
+        "phrases": [
+            "advantage",
+            "benefit",
+            "benefits",
+            "credit",
+            "gain",
+            "point(s)",
+            "privilege",
+            "profit"
+        ],
+        "video": "Benefit.mp4"
+    },
+    {
+        "phrases": [
+            "berry",
+            "cherry",
+            "fruit"
+        ],
+        "video": "Berry.mp4"
+    },
+    {
+        "phrases": [
+            "best friend",
+            "buddy",
+            "close friend",
+            "friend",
+            "relation"
+        ],
+        "video": "Best-friend.mp4"
+    },
+    {
+        "phrases": [
+            "bet",
+            "gamble",
+            "guess",
+            "to think"
+        ],
+        "video": "Bet.mp4"
+    },
+    {
+        "phrases": [
+            "best",
+            "better",
+            "comparative"
+        ],
+        "video": "Better.mp4"
+    },
+    {
+        "phrases": [
+            "average",
+            "between",
+            "in the middle"
+        ],
+        "video": "Between.mp4"
+    },
+    {
+        "phrases": [
+            "ahead of",
+            "beyond",
+            "ahead"
+        ],
+        "video": "Beyond.mp4"
+    },
+    {
+        "phrases": [
+            "bicycle",
+            "bike",
+            "pedal",
+            "ride a bike"
+        ],
+        "video": "Bicycle.mp4"
+    },
+    {
+        "phrases": [
+            "acquire",
+            "auction",
+            "bid",
+            "buy",
+            "purchase"
+        ],
+        "video": "Bid.mp4"
+    },
+    {
+        "phrases": [
+            "big",
+            "enormous",
+            "giant",
+            "gigantic",
+            "huge",
+            "large",
+            "length",
+            "size"
+        ],
+        "video": "Big.mp4"
+    },
+    {
+        "phrases": [
+            "biological",
+            "biology",
+            "science"
+        ],
+        "video": "Biology.mp4"
+    },
+    {
+        "phrases": [
+            "animal",
+            "bird",
+            "chicken",
+            "food"
+        ],
+        "video": "Bird.mp4"
+    },
+    {
+        "phrases": [
+            "baby",
+            "birth",
+            "birthday",
+            "born",
+            "to give birth to"
+        ],
+        "video": "Birth.mp4"
+    },
+    {
+        "phrases": [
+            "bread",
+            "roll",
+            "biscuit",
+            "dough",
+            "sticky"
+        ],
+        "video": "Biscuit.mp4"
+    },
+    {
+        "phrases": [
+            "bitch"
+        ],
+        "video": "Bitch.mp4"
+    },
+    {
+        "phrases": [
+            "bite",
+            "chomp"
+        ],
+        "video": "Bite.mp4"
+    },
+    {
+        "phrases": [
+            "bitter",
+            "disappoint",
+            "nasty",
+            "sour",
+            "yucky",
+            "pickle"
+        ],
+        "video": "Bitter.mp4"
+    },
+    {
+        "phrases": [
+            "black",
+            "color"
+        ],
+        "video": "Black.mp4"
+    },
+    {
+        "phrases": [
+            "blade",
+            "cut",
+            "knife",
+            "slice",
+            "utensil"
+        ],
+        "video": "Blade.mp4"
+    },
+    {
+        "phrases": [
+            "accuse",
+            "blame",
+            "fault"
+        ],
+        "video": "Blame.mp4"
+    },
+    {
+        "phrases": [
+            "bare",
+            "blank",
+            "clear",
+            "depleted",
+            "empty"
+        ],
+        "video": "Blank.mp4"
+    },
+    {
+        "phrases": [
+            "blanket",
+            "cover",
+            "cover up",
+            "covering"
+        ],
+        "video": "Blanket.mp4"
+    },
+    {
+        "phrases": [
+            "blender",
+            "smoothie"
+        ],
+        "video": "Blender.mp4"
+    },
+    {
+        "phrases": [
+            "bless",
+            "bless you",
+            "blessing"
+        ],
+        "video": "Bless.mp4"
+    },
+    {
+        "phrases": [
+            "blind"
+        ],
+        "video": "Blind.mp4"
+    },
+
+
+
+
+
+
+
+
+
+
+    
+    
+    {
+        "phrases": [
+            "badge",
+            "decoration",
+            "ornament",
+            "pin"
+        ],
+        "video": "Pin.mp4"
+    },
+    {
+        "phrases": [
+            "pinch",
+            "squeeze"
+        ],
+        "video": "Pinch.mp4"
+    },
+    {
+        "phrases": [
+            "policy",
+            "principle",
+            "property",
+            "protocol",
+            "rule",
+            "guidelines",
+            "register",
+            "registration",
+            "insurance"
+        ],
+        "video": "Policy.mp4"
+    },
+    {
+        "phrases": [
+            "presentation",
+            "address",
+            "lecture",
+            "presentation",
+            "speech",
+            "talk"
+        ],
+        "video": "Presentation.mp4"
+    },
+    {
+        "phrases": [
+            "present",
+            "introduce",
+            "introduction"
+        ],
+        "video": "Present.mp4"
+    },
+    {
+        "phrases": [
+            "main",
+            "most important",
+            "priority",
+            "primary",
+            "career",
+            "field",
+            "major",
+            "specialty"
+        ],
+        "video": "Primary.mp4"
+    },
+    {
+        "phrases": [
+            "create",
+            "make",
+            "produce",
+            "manufacture"
+        ],
+        "video": "Produce.mp4"
+    },
+    {
+        "phrases": [
+            "program",
+            "project"
+        ],
+        "video": "Program.mp4"
+    },
+    {
+        "phrases": [
+            "establish",
+            "founded",
+            "put in place",
+            "set up"
+        ],
+        "video": "Put-In-Place.mp4"
+    },
+    {
+        "phrases": [
+            "answer",
+            "order",
+            "react",
+            "reaction",
+            "reply",
+            "report",
+            "respond",
+            "response"
+        ],
+        "video": "Report.mp4"
+    },
+    {
+        "phrases": [
+            "characteristic",
+            "known for",
+            "reputation",
+            "possession",
+            "tendency",
+            "their",
+            "typical of"
+        ],
+        "video": "Reputation.mp4"
+    },
+    {
+        "phrases": [
+            "consequence",
+            "outcome",
+            "result",
+            "end result"
+        ],
+        "video": "Result.mp4"
+    },
+    {
+        "phrases": [
+            "review",
+            "look",
+            "look around",
+            "look on",
+            "look over",
+            "observation",
+            "observe",
+            "take a look",
+            "take-look"
+        ],
+        "video": "Review.mp4"
+    },
+    {
+        "phrases": [
+            "alter",
+            "edit",
+            "fix",
+            "revise",
+            "revision",
+            "modify",
+            "clip"
+        ],
+        "video": "Revise.mp4"
+    }, 
+    {
+        "phrases": [
+            "alter",
+            "edit",
+            "fix",
+            "revise",
+            "revision",
+            "modify",
+            "clip"
+        ],
+        "video": "Revise.mp4"
+    }, 
+    {
+        "phrases": [
+            "afraid", 
+            "fearful", 
+            "scared", 
+            "scary", 
+            "timid",
+            "scare",
+            "frightened",
+            "shocked",
+            "suprised"
+        ],
+        "video": "Scare.mp4"
+    }, 
+    {
+        "phrases": [
+            "clever", 
+            "insightful", 
+            "intelligent", 
+            "smart", 
+            "wisdom", 
+            "wise"
+        ],
+        "video": "Sight.mp4"
+    }, 
+    {
+        "phrases": [
+            "book it", 
+            "run", 
+            "rush out", 
+            "rush over", 
+            "skedaddle", 
+            "sprint", 
+            "take off",
+            "rush",
+            "fast", 
+            "quick", 
+            "rapid", 
+            "right away", 
+            "speed", 
+            "speedy",
+            "sudden", 
+            "swift" 
+        ],
+        "video": "Skeddadle.mp4"
+    }, 
+    {
+        "phrases": [
+            "flow", 
+            "fluency", 
+            "fluent", 
+            "fluid",
+            "smooth"
+        ],
+        "video": "Smooth.mp4"
+    }, 
+    {
+        "phrases": [
+            "discipline", 
+            "field", 
+            "profession", 
+            "professional", 
+            "specialist"
+        ],
+        "video": "Specialist.mp4"
+    }, 
+    {
+        "phrases": [
+            "divide", 
+            "separate", 
+            "split up",
+            "apart", 
+            "distinct from", 
+            "divide", 
+            "keep away from each other", 
+            "segregate", 
+            "segregation", 
+            "separate", 
+            "split", 
+            "take apart"
+        ],
+        "video": "Split-Up.mp4"
+    }, 
+    {
+        "phrases": [
+            "begin", 
+            "beginning", 
+            "commence", 
+            "inception", 
+            "initiate", 
+            "original",
+            "outset", 
+            "start",
+            "initiator",
+            "starter",
+            "initiator"
+        ],
+        "video": "Starter.mp4"
+    }, 
+    {
+        "phrases": [
+            "boyfriend", 
+            "dating", 
+            "girlfriend", 
+            "loved one", 
+            "partner", 
+            "romantic", 
+            "sweetheart",
+            "lovers",
+            "sweeties"
+        ],
+        "video": "Sweetheart.mp4"
+
+    }, 
+    {
+        "phrases": [
+            "biggest",
+            "tallest",
+            "tall",
+            "big"
+        ],
+        "video": "Tall.mp4"
+    },
+    {
+        "phrases": [
+            "tutor",
+            "teach",
+            "instruct",
+            "educate"
+        ],
+        "video": "Tutor.mp4"
+    },
+
+    {
+        "phrases": [
+            "common", 
+            "conform", 
+            "convention", 
+            "conventionalized", 
+            "norms", 
+            "pattern", 
+            "standard", 
+            "standardize",
+            "universal"
+        ],
+        "video": "Universal.mp4"
+    },
+    {
+        "phrases": [
+            "boost", 
+            "encourage", 
+            "encouragement", 
+            "foster", 
+            "motivate", 
+            "support", 
+            "uplift", 
+            "urge"
+        ],
+        "video": "Uplift.mp4"
+    },
+    {
+        "phrases": [
+            "adapt", 
+            "adjust", 
+            "become", 
+            "change", 
+            "modify", 
+            "urge",
+            "uproot"
+        ],
+        "video": "Uproot.mp4"
+    },
+    {
+        "phrases": [
+            "vacation",
+            "holiday",
+            "break",
+            "time off",
+            "getaway",
+            "trip"
+        ],
+        "video": "Vacation.mp4"
+    },
+    {
+        "phrases": [
+            "vanish",
+            "disappear",
+            "fade away",
+            "go missing",
+            "evaporate",
+            "be gone",
+            "all out",
+            "depleted", 
+            "gone", 
+            "not there"
+
+        ],
+        "video": "Vanish.mp4"
+    },
+    {
+        "phrases": [
+            "very",
+            "extremely",
+            "super",
+            "really",
+            "highly",
+            "so"
+        ],
+        "video": "Very.mp4"
+    },
+    {
+        "phrases": [
+            "vote",
+            "elect",
+            "choose",
+            "cast a ballot",
+            "decide",
+            "make a choice",
+            "election"
+        ],
+        "video": "Vote.mp4"
+    },
+    {
+        "phrases": [
+            "visit",
+            "drop by",
+            "stop in",
+            "come over",
+            "go see",
+            "pay a visit"
+        ],
+        "video": "Visit.mp4"
+    },
+   
+    
+    {
+        "phrases": [
+            "value",
+            "worth",
+            "importance",
+            "significance",
+            "price",
+            "cost",
+            "how much",
+            "merit"
+        ],
+        "video": "Value.mp4"
+    },
+    
+    {
+        "phrases": [
+            "voice",
+            "speak",
+            "say",
+            "talk",
+            "express",
+            "communicate",
+            "chat", 
+            "conversation", 
+            "converse", 
+            "socialize", 
+            "to converse with", 
+            "to talk with"
+        ],
+        "video": "Voice.mp4"
+    },
+
+    {
+        "phrases": [
+            "venture",
+            "journey",
+            "adventure",
+            "undertake",
+            "explore",
+            "go out",
+            "travel",
+            "trip",
+            "trajectory",
+            "field trip"
+        ],
+        "video": "Venture.mp4"
+    },
+    {
+        "phrases": [
+            "vivid",
+            "bright",
+            "colorful",
+            "intense",
+            "vibrant",
+            "clear",
+            "clarify"
+        ],
+        "video": "Vivid.mp4"
+    },
+    {
+        "phrases": [
+            "vulnerable",
+            "exposed",
+            "at risk",
+            "unprotected",
+            "fragile",
+            "sensitive",
+            "sensitivity"
+        ],
+        "video": "Vulnerable.mp4"
+    },
+    {
+        "phrases": [
+            "van",
+            "vehicle",
+            "minivan",
+            "car",
+            "transport",
+            "ride",
+            "automobile"
+        ],
+        "video": "Van.mp4"
+    },
+    
+   
+    {
+        "phrases": [
+            "vow",
+            "promise",
+            "pledge",
+            "swear",
+            "commit",
+            "declare",
+            "swear",
+            "tell the truth",
+            "cross heart"
+        ],
+        "video": "Vow.mp4"
+    },
+    {
+        "phrases": [
+            "vibrate",
+            "buzz",
+            "quiver",
+            "shake",
+            "tremble",
+            "hum",
+            "rumble", 
+            "shake", 
+            "shaking", 
+            "tremor", 
+            "vibration"
+        ],
+        "video": "Vibrate.mp4"
+    },
+    {
+        "phrases": [
+            "vanity",
+            "pride",
+            "self-importance",
+            "ego",
+            "conceit",
+            "narcissism"
+        ],
+        "video": "Vanity.mp4"
+    },
+    {
+        "phrases": [
+            "variety",
+            "diversity",
+            "range",
+            "selection",
+            "mix",
+            "assortment",
+            "varied",
+            "vary"
+        ],
+        "video": "Variety.mp4"
+    },
+    {
+        "phrases": [
+            "verify",
+            "check",
+            "confirm",
+            "validate",
+            "prove",
+            "double-check",
+            "check on",
+            "inspect"
+        ],
+        "video": "Verify.mp4"
+    },
+
+
+
+
+    {
+        "phrases": [
+            "wait",
+            "hold on",
+            "pause",
+            "hang on",
+            "just a moment",
+            "stand by",
+            "halt"
+            
+        ],
+        "video": "Wait.mp4"
+    },
+    {
+        "phrases": [
+            "walk",
+            "stroll",
+            "saunter",
+            "amble",
+            "take a walk",
+            "wander",
+            "steps",
+            "saunter",
+            "walked",
+            "walking"
+        ],
+        "video": "Walk.mp4"
+    },
+  
+    {
+        "phrases": [
+            "warm",
+            "cozy",
+            "snug",
+            "toasty",
+            "heated",
+            "lukewarm"
+        ],
+        "video": "Warm.mp4"
+    },
+    {
+        "phrases": [
+            "watch",
+            "observe",
+            "look at",
+            "view",
+            "see",
+            "keep an eye on",
+            "watch out",
+            "look",
+            "view",
+            "to watch"
+        ],
+        "video": "Watch.mp4"
+    },
+    {
+        "phrases": [
+            "wave",
+            "greet",
+            "say hi",
+            "signal",
+            "salute",
+            "beckon",
+            "hi",
+            "hello",
+            "hey",
+            "heya",
+            "greetings"
+        ],
+        "video": "Wave.mp4"
+    },
+    {
+        "phrases": [
+            "wet",
+            "damp",
+            "soaked",
+            "soggy",
+            "dripping",
+            "moist",
+            "damp",
+            "drenched",
+            "saturated"
+        ],
+        "video": "Wet.mp4"
+    },
+    {
+        "phrases": [
+            "whisper",
+            "speak softly",
+            "murmur",
+            "hush",
+            "low voice",
+            "quiet talk",
+            "talk privately", 
+            "talk quietly"
+        ],
+        "video": "Whisper.mp4"
+    },
+    {
+        "phrases": [
+            "worry",
+            "stress",
+            "fret",
+            "be anxious",
+            "be nervous",
+            "be concerned",
+            "difficulty", 
+            "predicament", 
+            "problem", 
+            "trouble",
+            "concerned"
+        ],
+        "video": "Worry.mp4"
+    },
+
+
+
+
+    
+    {
+        "phrases": [
+            "x marks the spot",
+            "target",
+            "destination",
+            "location",
+            "spot",
+            "goal",
+            "here", 
+            "point", 
+            "right here"
+        ],
+        "video": "X-Marks-the-Spot.mp4"
+    },
+    {
+        "phrases": [
+            "x out",
+            "cross out",
+            "delete",
+            "remove",
+            "cancel",
+            "strike through",
+            "cancellation", 
+            "critical", 
+            "criticize", 
+            "critique", 
+            "absolutely",
+            "grade"
+        ],
+        "video": "X-Out.mp4"
+    },
+
+
+    {
+        "phrases": [
+            "extra",
+            "excessive",
+            "over the top",
+            "too much",
+            "dramatic",
+            "exaggerated"
+        ],
+        "video": "Extra.mp4"
+    },
+    {
+        "phrases": [
+            "exhale",
+            "breathe out",
+            "sigh",
+            "release breath",
+            "let it out",
+            "breathe"
+        ],
+        "video": "Exhale.mp4"
+    },
+    {
+        "phrases": [
+            "excited",
+            "thrilled",
+            "pumped",
+            "overjoyed",
+            "eager",
+            "hyped"
+        ],
+        "video": "Excited.mp4"
+    },
+    {
+        "phrases": [
+            "exit",
+            "leave",
+            "go out",
+            "depart",
+            "move out",
+            "escape"
+        ],
+        "video": "Exit.mp4"
+    },
+    {
+        "phrases": [
+            "exhausted",
+            "tired",
+            "drained",
+            "worn out",
+            "burnt out",
+            "fatigued"
+        ],
+        "video": "Exhausted.mp4"
+    },
+    {
+        "phrases": [
+            "explore",
+            "discover",
+            "search",
+            "investigate",
+            "look around",
+            "adventure"
+        ],
+        "video": "Explore.mp4"
+    },
+    {
+        "phrases": [
+            "example",
+            "sample",
+            "model",
+            "illustration",
+            "instance",
+            "case"
+        ],
+        "video": "Example.mp4"
+    },
+
+
+
+   
+    
+    {
+            "phrases": [
+                "yak",
+                "chatter",
+                "gab",
+                "babble",
+                "ramble"
+            ],
+            "video": "Yak.mp4"
+        },
+        {
+            "phrases": [
+                "yell",
+                "shout",
+                "scream",
+                "holler",
+                "bellow",
+                "raise voice",
+                "bawl out",
+                "scold",
+                "tell off",
+                "yell at",
+                "howl",
+                "cry out"
+            ],
+            "video": "Yell.mp4"
+        },
+        {
+            "phrases": [
+                "yellow",
+                "golden",
+                "sunny",
+                "bright",
+                "lemon-colored",
+                "buttery"
+            ],
+            "video": "Yellow.mp4"
+        },
+        {
+            "phrases": [
+                "yearn",
+                "long for",
+                "desire",
+                "crave",
+                "hunger for",
+                "wish for",
+                "gulp", 
+                "swallow", 
+                "thirsty", 
+                "thirst for", 
+                "yearn for",
+                "want",
+                "long for"
+    
+            ],
+            "video": "Yearn.mp4"
+        },
+        {
+            "phrases": [
+                "yield",
+                "give way",
+                "surrender",
+                "submit",
+                "defer",
+                "let go",
+                "release",
+                "disconnect"
+            ],
+            "video": "Yield.mp4"
+        },
+        {
+            "phrases": [
+                "yikes",
+                "whoa",
+                "oh no",
+                "uh-oh",
+                "eek",
+                "yowza",
+                "ah", 
+                "oops", 
+                "uh oh", 
+                "whoops", 
+                "wow"
+            ],
+            "video": "Yikes.mp4"
+        },
+        {
+            "phrases": [
+                "youth",
+                "young",
+                "childhood",
+                "adolescence",
+                "teenage years",
+                "early age"
+            ],
+            "video": "Youth.mp4"
+        },
+        {
+            "phrases": [
+                "yummy",
+                "delicious",
+                "tasty",
+                "savory",
+                "flavorful",
+                "mouthwatering",
+                "good food", 
+                "yum"
+            ],
+            "video": "Yummy.mp4"
+        },
+
+
+
+        {
+            "phrases": [
+                "zany",
+                "quirky",
+                "wacky",
+                "eccentric",
+                "goofy",
+                "offbeat",
+                "strange",
+                "odd",
+                "unsual",
+                "weird"
+            ],
+            "video": "Zany.mp4"
+        },
+        {
+            "phrases": [
+                "zapped",
+                "drained",
+                "exhausted",
+                "worn out",
+                "burnt out",
+                "spent",
+                "tired",
+                "worn out",
+                "tire",
+                "yawn",
+                "sleepy",
+                "drowsy",
+                "ready for bed"
+            ],
+            "video": "Zapped.mp4"
+        },
+        {
+            "phrases": [
+                "zebra crossing",
+                "pedestrian crossing",
+                "crosswalk",
+                "road crossing",
+                "walkway",
+                "street crossing",
+                "avenue", 
+                "path",
+                "road", 
+                "street",
+                "way",
+                "driving", 
+                "freeway", 
+                "highway",
+                "road"
+            ],
+            "video": "Zebra-Crossing.mp4"
+        },
+        {
+            "phrases": [
+                "zen",
+                "calm",
+                "peace",
+                "serene",
+                "zen like",
+                "tranquil"
+            ],
+            "video": "Zen.mp4"
+        },
+        {
+            "phrases": [
+                "zest",
+                "enthusiasm",
+                "eagerness",
+                "excitement",
+                "excited",
+                "anticipate", 
+                "anticipation",
+                "exciting", 
+                "thrilled", 
+                "thrilling",
+                "zeal",
+                "spirit"
+            ],
+            "video": "Zest.mp4"
+        },
+        {
+            "phrases": [
+                "zip",
+                "fasten",
+                "close up",
+                "seal",
+                "tighten",
+                "secure",
+                "close",
+                "cover",
+                "lid",
+                "shut",
+                "close lid"
+            ],
+            "video": "Zip.mp4"
+        },
+        {
+            "phrases": [
+                "zone out",
+                "space out",
+                "daydream",
+                "lose focus",
+                "drift off",
+                "disconnect"
+            ],
+            "video": "Zone-Out.mp4"
+        },
+        {
+            "phrases": [
+                "zoom",
+                "rush",
+                "whiz",
+                "fly by",
+                "speed",
+                "dash"
+            ],
+            "video": "Zoom.mp4"
+        }
+]
+    
