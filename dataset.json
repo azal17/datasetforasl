@@ -2315,8 +2315,7 @@
             "ooh",
             "ouch",
             "pain",
-            "ow",
-            "i(ow)"
+            "ow"
         ],
         "video": "Ow.mp4"
     },
@@ -2370,7 +2369,43 @@
         ],
         "video": "Policy.mp4"
     },
+    
+
     {
+        "phrases": [
+          "hmm",
+          "I'm not sure",
+          "thinking about it",
+          "let me think",
+          "wondering",
+          "brainstorm", 
+          "consider", 
+          "contemplate", 
+          "going through the mind", 
+          "mull over", 
+          "ponder", 
+          "pondering", 
+          "reflect", 
+          "reflection",
+          "think about", 
+          "thinking", 
+          "thoughts"
+
+        ],
+        "video": "Ponder.mp4"
+      },
+      {
+        "phrases": [
+          "pouting",
+          "not happy",
+          "displeased",
+          "sulking",
+          "frown"
+         
+        ],
+        "video": "Pout.mp4"
+      },
+      {
         "phrases": [
             "presentation",
             "address",
@@ -2418,7 +2453,28 @@
         ],
         "video": "Program.mp4"
     },
-    {
+      {
+        "phrases": [
+          "thinking",
+          "hmm",
+          "puckered lips",
+          "uncertain",
+          "interjection", 
+          "pucker"
+        ],
+        "video": "Pucker.mp4"
+      },
+      {
+        "phrases": [
+          "tired",
+          "frustrated",
+          "stressed",
+          "I don't know",
+          "puffed out"
+        ],
+        "video": "Puff.mp4"
+      },
+      {
         "phrases": [
             "establish",
             "founded",
@@ -2427,6 +2483,18 @@
         ],
         "video": "Put-In-Place.mp4"
     },
+
+
+    {
+        "phrases": [
+          "raspberry",
+          "pfft",
+          "nope",
+          "dislike",
+          "ugh"
+        ],
+        "video": "Raspberry.mp4"
+      },
     {
         "phrases": [
             "answer",
@@ -2499,6 +2567,11 @@
         ],
         "video": "Revise.mp4"
     }, 
+
+
+
+
+
     {
         "phrases": [
             "afraid", 
@@ -2513,6 +2586,17 @@
         ],
         "video": "Scare.mp4"
     }, 
+     
+    {
+        "phrases": [
+          "shocked",
+          "gasp",
+          "yikes",
+          "oh no",
+          "distressed"
+        ],
+        "video": "Shocked.mp4"
+    },
     {
         "phrases": [
             "clever", 
@@ -2523,7 +2607,19 @@
             "wise"
         ],
         "video": "Sight.mp4"
-    }, 
+    },
+    {
+        "phrases": [
+          "silly",
+          "goofy",
+          "nah nah nah",
+          "playful",
+          "silly face"
+        ],
+        "video": "Silly.mp4"
+    },
+   
+
     {
         "phrases": [
             "book it", 
@@ -2557,6 +2653,16 @@
     }, 
     {
         "phrases": [
+          "oh snap",
+          "dang",
+          "drats",
+          "shoot",
+          "snap"
+        ],
+        "video": "Snap.mp4"
+    },
+    {
+        "phrases": [
             "discipline", 
             "field", 
             "profession", 
@@ -2565,6 +2671,26 @@
         ],
         "video": "Specialist.mp4"
     }, 
+    {
+    "phrases": [
+      "oh snap",
+      "dang",
+      "drats",
+      "shoot",
+      "snap"
+    ],
+    "video": "Snap.mp4"
+    },
+    {
+        "phrases": [
+          "sorry",
+          "my bad",
+          "I didn't mean to",
+          "oops",
+          "okay okay"
+        ],
+        "video": "Sorry.mp4"
+    },
     {
         "phrases": [
             "divide", 
@@ -2624,6 +2750,16 @@
     },
     {
         "phrases": [
+          "thumbs up",
+          "okay",
+          "good job",
+          "all done",
+          "great"
+        ],
+        "video": "Thumbs-Up.mp4"
+      },
+    {
+        "phrases": [
             "tutor",
             "teach",
             "instruct",
@@ -2631,7 +2767,16 @@
         ],
         "video": "Tutor.mp4"
     },
-
+    {
+        "phrases": [
+          "umm",
+          "uh",
+          "filler",
+          "not sure",
+          "what to say"
+        ],
+        "video": "Umm.mp4"
+      },
     {
         "phrases": [
             "common", 
@@ -2659,6 +2804,16 @@
         ],
         "video": "Uplift.mp4"
     },
+    {
+        "phrases": [
+          "upset",
+          "mad",
+          "worried",
+          "troubled",
+          "distressed"
+        ],
+        "video": "Upset.mp4"
+      },
     {
         "phrases": [
             "adapt", 
@@ -2977,6 +3132,358 @@
     },
     {
         "phrases": [
+          "Wednesday",
+          "midweek"
+        ],
+        "video": "Wednesday.mp4"
+      },
+
+    {
+        "phrases": [
+          "week",
+          "weekly",
+          "every week"
+        ],
+        "video": "Week.mp4"
+    },
+    {
+        "phrases": [
+          "weekend",
+          "Saturday and Sunday",
+          "end of the week"
+        ],
+        "video": "Weekend.mp4"
+      },
+      {
+        "phrases": [
+          "weird",
+          "odd",
+          "unusual",
+          "strange"
+        ],
+        "video": "Weird.mp4"
+      },
+      {
+        "phrases": [
+          "welcome",
+          "you're welcome",
+          "greeting",
+          "salutation",
+          "thank you"
+        ],
+        "video": "Welcome.mp4"
+      },
+      {
+        "phrases": [
+          "we",
+          "us",
+          "our group"
+        ],
+        "video": "We.mp4"
+      },    
+      {
+        "phrases": [
+          "whale",
+          "mammal",
+          "large sea creature"
+        ],
+        "video": "Whale.mp4"
+      },
+      {
+        "phrases": [
+          "when",
+          "at what time",
+          "time of"
+        ],
+        "video": "When.mp4"
+      },{
+        "phrases": [
+          "where",
+          "location",
+          "place"
+        ],
+        "video": "Where.mp4"
+      },
+      {
+        "phrases": [
+          "which",
+          "which one",
+          "choice between"
+        ],
+        "video": "Which.mp4"
+      },
+      {
+        "phrases": [
+          "while",
+          "during",
+          "meanwhile"
+        ],
+        "video": "While.mp4"
+      },
+      {
+        "phrases": [
+          "whiskey",
+          "alcohol",
+          "drink"
+        ],
+        "video": "Whiskey.mp4"
+      },
+      {
+        "phrases": [
+          "white",
+          "color white"
+        ],
+        "video": "White.mp4"
+      },
+      {
+        "phrases": [
+          "white person",
+          "caucasian"
+        ],
+        "video": "WhitePerson.mp4"
+      },
+      {
+        "phrases": [
+          "whole",
+          "entire",
+          "global",
+          "world"
+        ],
+        "video": "Whole.mp4"
+      },{
+        "phrases": [
+          "who",
+          "whose",
+          "whom"
+        ],
+        "video": "Who.mp4"
+      },
+      
+      
+      
+
+      
+      
+      
+      
+      
+
+      
+        
+      
+      
+      
+      
+      
+    {
+        "phrases": ["because","interrogative", "question", "reason", "why"],
+        "video": "WHY.mp4"
+      },
+      {
+        "phrases": ["why not"],
+        "video": "WHY-NOT.mp4"
+      },
+    {
+        "phrases": ["female", "married", "marry", "wife", "WIFEth", "woman"],
+        "video": "WIFE.mp4"
+      },
+      {
+        "phrases": ["give in", "inclined", "willing"],
+        "video": "WILLING.mp4"
+      },
+      {
+        "phrases": ["game", "sports", "victory", "win"],
+        "video": "WIN.mp4"
+      },
+      {
+        "phrases": ["air", "blow", "wind", "windy"],
+        "video": "WIND.mp4"
+      },
+      {
+        "phrases": ["panes", "window", "window panes"],
+        "video": "WINDOW.mp4"
+      },
+      {
+        "phrases": ["alcohol", "wine"],
+        "video": "WINE.mp4"
+      },
+      {
+        "phrases": ["flap", "wing", "wing it", "wings"],
+        "video": "WING.mp4"
+      },
+      {
+        "phrases": ["eye blink", "blinking", "close eye", "eye", "wink", "winking"],
+        "video": "WINK.mp4"
+      },
+      {
+        "phrases": ["winter", "weather"],
+        "video": "WINTER.mp4"
+      },
+      {
+        "phrases": ["clean", "erase", "polish", "rub", "scrub", "wash", "wipe"],
+        "video": "WIPE.mp4"
+      },
+      {
+        "phrases": ["clever", "insightful", "intelligent", "smart", "wisdom", "wise"],
+        "video": "WISE.mp4"
+      },
+      {
+        "phrases": ["middle school", "Pennsylvania School for the Deaf", "PSD", "Wissinoming"],
+        "video": "WISSINOMING.mp4"
+      },
+    {
+        "phrases": [
+          "witch",
+          "warlock",
+          "halloween"
+        ],
+        "video": "Witch.mp4"
+      },
+      {
+        "phrases": [
+          "and",
+          "put with",
+          "together",
+          "with"
+        ],
+        "video": "With.mp4"
+      },
+      {
+        "phrases": [
+          "leave",
+          "take out",
+          "withdraw",
+          "withdrawal"
+        ],
+        "video": "Withdraw.mp4"
+      },
+      {
+        "phrases": [
+          "lacking",
+          "not have",
+          "without"
+        ],
+        "video": "Without.mp4"
+      },
+      {
+        "phrases": [
+          "court",
+          "eyewitness",
+          "observe",
+          "testify",
+          "testimony",
+          "view",
+          "witness",
+          "witnessed",
+          "see"
+        ],
+        "video": "Witness.mp4"
+      },
+      {
+        "phrases": [
+          "animal",
+          "canine",
+          "wolf"
+        ],
+        "video": "Wolf.mp4"
+      },
+      {
+        "phrases": [
+          "female",
+          "girl",
+          "lady",
+          "woman"
+        ],
+        "video": "Woman.mp4"
+      },
+      {
+        "phrases": [
+          "consider",
+          "contemplate",
+          "ponder",
+          "thinking",
+          "think about",
+          "thoughts",
+          "wonder"
+        ],
+        "video": "Wonder.mp4"
+      },
+      {
+        "phrases": [
+          "amazing",
+          "awesome",
+          "excellent",
+          "fantastic",
+          "good",
+          "great",
+          "outstanding",
+          "phenomenal",
+          "wonderful"
+        ],
+        "video": "Wonderful.mp4"
+      },
+      {
+        "phrases": [
+          "cut",
+          "saw",
+          "tree",
+          "wood",
+          "wooden"
+        ],
+        "video": "Wood.mp4"
+      },
+      {
+        "phrases": [
+          "morpheme",
+          "morphology",
+          "term",
+          "word"
+        ],
+        "video": "Word.mp4"
+      },
+      {
+        "phrases": [
+          "gulp",
+          "humbled",
+          "quiet",
+          "oops",
+          "shouldn't have said or done that",
+          "speechless",
+          "wordless"
+        ],
+        "video": "Wordless.mp4"
+      },      
+    {
+        "phrases": [
+          "what?",
+          "huh?",
+          "question",
+          "I don't understand",
+          "okay?"
+        ],
+        "video": "What.mp4"
+    },
+    {
+        "phrases": [
+          "what's up",
+          "acknowledgement",
+          "nod",
+          "yeah",
+          "yo"
+        ],
+        "video": "What-Up.mp4"
+    },
+    {
+        "phrases": [
+          "whatever",
+          "meh",
+          "indifference",
+          "I don't care"
+        ],
+        "video": "Whatever.mp4"
+    },
+    {
+        "phrases": [
             "whisper",
             "speak softly",
             "murmur",
@@ -3004,11 +3511,66 @@
         ],
         "video": "Worry.mp4"
     },
-
-
-
-
+    {
+        "phrases": ["career", "employment", "job", "profession", "work", "working"],
+        "video": "WORK.mp4"
+      },
+      {
+        "phrases": ["employee", "job", "work", "worker"],
+        "video": "WORKER.mp4"
+      },
     
+      {
+        "phrases": ["earth", "globe", "world"],
+        "video": "WORLD.mp4"
+      },
+      {
+        "phrases": ["bug", "caterpillar", "insect", "worm"],
+        "video": "WORM.mp4"
+      },
+      {
+        "phrases": ["depleted", "effort", "energy", "exhausted", "tired", "worn out", "burnt out"],
+        "video": "WORN-OUT.mp4"
+      },
+      {
+        "phrases": ["concerned", "trouble", "worry"],
+        "video": "WORRY.mp4"
+      },  
+      {
+        "phrases": ["comparative", "intensity", "more", "worse", "worst"],
+        "video": "WORSE.mp4"
+      },
+      {
+        "phrases": ["ineffective", "not worth it", "pointless", "unimportant", "useless", "worthless"],
+        "video": "WORTHLESS.mp4"
+      },
+      {
+        "phrases": ["time", "timepiece", "watch", "wristwatch"],
+        "video": "WRISTWATCH.mp4"
+      },
+      {
+        "phrases": ["author", "draw", "drawing", "handwritten", "pen", "write", "writing","author", "writer"],
+        "video": "WRITE.mp4"
+      },
+      {
+        "phrases": ["incorrect", "mistake", "what's the matter?", "what's wrong?", "wrong"],
+        "video": "WRONG.mp4"
+      },
+      {
+        "phrases": [
+          "angry",
+          "dissatisfaction",
+          "exasperated",
+          "what do you mean?",
+          "what do you want?",
+          "what the hell",
+          "why"
+        ],
+        "video": "WTH.mp4"
+      },
+      
+    
+
     {
         "phrases": [
             "x marks the spot",
@@ -3122,8 +3684,18 @@
 
 
 
-   
-    
+    {
+        "phrases": ["time", "year"],
+        "video": "YEAR.mp4"
+    },
+    {
+        "phrases": ["past", "time", "yesterday"],
+        "video": "YESTERDAY.mp4"
+    },
+    {
+        "phrases": ["get out", "out", "you're out", "E(out)", "emblem"],
+        "video": "YOU'RE-OUT.mp4"
+    },
     {
             "phrases": [
                 "yak",
@@ -3134,6 +3706,7 @@
             ],
             "video": "Yak.mp4"
         },
+        
         {
             "phrases": [
                 "yell",
@@ -3235,8 +3808,8 @@
             "video": "Yummy.mp4"
         },
 
-
-
+       
+          
         {
             "phrases": [
                 "zany",
@@ -3271,6 +3844,11 @@
             "video": "Zapped.mp4"
         },
         {
+            "phrases": ["zebra"],
+            "video": "ZEBRA.mp4"
+        },
+          
+        {
             "phrases": [
                 "zebra crossing",
                 "pedestrian crossing",
@@ -3290,6 +3868,7 @@
             ],
             "video": "Zebra-Crossing.mp4"
         },
+        
         {
             "phrases": [
                 "zen",
@@ -3301,6 +3880,10 @@
             ],
             "video": "Zen.mp4"
         },
+        {
+            "phrases": ["0", "none", "number", "zero", "zilch","all-gone", "blow hand", "depleted", "empty", "finished", "gone", "none", "nothing"],
+            "video": "ZERO.mp4"
+          },
         {
             "phrases": [
                 "zest",
@@ -3355,6 +3938,18 @@
                 "dash"
             ],
             "video": "Zoom.mp4"
+        },
+        {
+            "phrases": [
+              "leave",
+              "sprint",
+              "take off",
+              "zoom off",
+              "long time",
+              "train gone"
+            ],
+            "video": "ZOOM-OFF.mp4"
         }
+          
 ]
     
