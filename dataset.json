@@ -2767,30 +2767,59 @@
         ],
         "video": "Tutor.mp4"
     },
-    {
-        "phrases": [
-          "umm",
-          "uh",
-          "filler",
-          "not sure",
-          "what to say"
-        ],
-        "video": "Umm.mp4"
-      },
-    {
-        "phrases": [
-            "common", 
-            "conform", 
-            "convention", 
-            "conventionalized", 
-            "norms", 
-            "pattern", 
-            "standard", 
-            "standardize",
-            "universal"
-        ],
-        "video": "Universal.mp4"
-    },
+  { "phrases": ["uganda"], "video": "UGANDA.mp4" }, 
+  { "phrases": ["dislike", "hideous", "not beautiful", "ugly"], "video": "UGLY.mp4" },
+  { "phrases": ["Ukraine", "Ukrainean"], "video": "UKRAINE.mp4" },
+  { "phrases": ["accessory", "rain", "umbrella"], "video": "UMBRELLA.mp4" },
+  {
+    "phrases": [
+      "umm",
+      "uh",
+      "filler",
+      "not sure",
+      "what to say"
+    ],
+    "video": "Umm.mp4"
+  },
+  { "phrases": ["clueless", "don't know", "ignorance", "ignorant", "no idea", "nothing", "oblivious", "unaware"], "video": "UNAWARE.mp4" },
+  { "phrases": ["ambivalent", "hesitant", "indecisive", "not sure", "uncertain", "undecided", "unsure", "waver", "vacillate"], "video": "UNCERTAIN.mp4" },
+  { "phrases": ["family", "male relative", "relative", "uncle"], "video": "UNCLE.mp4" },
+  { "phrases": ["below", "beneath", "under", "underneath"], "video": "UNDER.mp4" },
+  { "phrases": ["college", "school", "undergraduate", "university"], "video": "UNDERGRADUATE.mp4" },
+  { "phrases": ["clothes", "undergarments", "underpants", "underwear"], "video": "UNDERPANTS.mp4" },
+  { "phrases": ["clothes", "undergarments", "underpants", "underwear"], "video": "UNDERWEAR.mp4" },
+  { "phrases": ["demote", "disdain", "inferior", "marginalized", "not equal", "oppressed", "superior", "unequal", "uneven"], "video": "UNEQUAL.mp4" },
+  { "phrases": ["abrupt", "caught off guard", "frustrated", "not bargained for", "startled", "surprised", "surprising", "unanticipated", "unexpected", "unforeseen"], "video": "UNEXPECTED.mp4" },
+  { "phrases": ["special", "unique", "novel"], "video": "UNIQUE.mp4" },
+  {
+    "phrases": [
+        "common", 
+        "conform", 
+        "convention", 
+        "conventionalized", 
+        "norms", 
+        "pattern", 
+        "standard", 
+        "standardize",
+        "universal"
+    ],
+    "video": "Universal.mp4"
+},
+  { "phrases": ["college", "higher learning", "school", "university"], "video": "UNIVERSITY.mp4" },
+  { "phrases": ["cruel", "mean", "not nice", "unkind"], "video": "UNKIND.mp4" },
+  { "phrases": ["luggage", "sift through", "take apart", "unpack"], "video": "UNPACK.mp4" },
+  { "phrases": ["disconnect", "turn off", "unplug", "charger"], "video": "UNPLUG.mp4" },
+  { "phrases": ["to", "to that time", "until"], "video": "UNTIL.mp4" },
+  { "phrases": ["disrobe", "reveal", "take off", "unmask", "unveil", "be honest"], "video": "UNVEIL.mp4" },
+  { "phrases": ["move up", "up", "upward", "upstairs"], "video": "UP.mp4" },
+  { "phrases": ["at the most", "maximum", "up to"], "video": "UP-TO.mp4" },
+  { "phrases": ["before then", "leading up to that time", "over time", "prior to", "progression", "up to that time"], "video": "UP-TO-THAT-TIMEarc.mp4" },
+  { "phrases": ["digital", "files", "put in", "transfer", "upload", "post"], "video": "UPLOAD.mp4" },
+  { "phrases": ["Uruguay", "country"], "video": "URUGUAY.mp4" },
+  { "phrases": ["pronoun", "us", "we"], "video": "US.mp4" },
+  { "phrases": ["accustomed", "custom", "habit", "routine", "tradition", "typical", "used to", "usual"], "video": "USED-TO.mp4" },
+    
+    
     {
         "phrases": [
             "boost", 
@@ -2838,22 +2867,14 @@
         "video": "Vacation.mp4"
     },
     {
-        "phrases": [
-            "vanish",
-            "disappear",
-            "fade away",
-            "go missing",
-            "evaporate",
-            "be gone",
-            "all out",
-            "depleted", 
-            "gone", 
-            "not there"
-
-        ],
-        "video": "Vanish.mp4"
-    },
-    {
+        "phrases": ["inject", "vaccinate", "vaccine", "needle", "shot", "drug", "medicine"],
+        "video": "VACCINE.mp4"
+      },
+      {
+        "phrases": ["clean", "hoover", "vacuum"],
+        "video": "VACUUM.mp4"
+      },
+      {
         "phrases": [
             "value",
             "worth",
@@ -2866,7 +2887,11 @@
         ],
         "video": "Value.mp4"
     },
-    {
+      {
+        "phrases": ["go", "go out", "head out", "leave", "let's go", "take off", "vamoose", "zoom off"],
+        "video": "VAMOOSE.mp4"
+      },
+      {
         "phrases": [
             "van",
             "vehicle",
@@ -2878,7 +2903,21 @@
         ],
         "video": "Van.mp4"
     },
-    {
+    
+      {
+        "phrases": ["Vancouver"],
+        "video": "VANCOUVER.mp4"
+      },
+
+      {
+        "phrases": ["flavor", "vanilla", "vanilla bean", "vanilla extract","vanillabean"],
+        "video": "VANILLA.mp4"
+      },
+      {
+        "phrases": ["all out", "depleted", "disappear", "empty", "gone", "invisible", "not there", "vanish"],
+        "video": "VANISH.mp4"
+      },
+      {
         "phrases": [
             "vanity",
             "pride",
@@ -2903,46 +2942,6 @@
         "video": "Variety.mp4"
     },
     {
-        "phrases": [
-            "venture",
-            "journey",
-            "adventure",
-            "undertake",
-            "explore",
-            "go out",
-            "travel",
-            "trip",
-            "trajectory",
-            "field trip"
-        ],
-        "video": "Venture.mp4"
-    },
-
-    {
-        "phrases": [
-            "verify",
-            "check",
-            "confirm",
-            "validate",
-            "prove",
-            "double-check",
-            "check on",
-            "inspect"
-        ],
-        "video": "Verify.mp4"
-    },
-    {
-        "phrases": [
-            "very",
-            "extremely",
-            "super",
-            "really",
-            "highly",
-            "so"
-        ],
-        "video": "Very.mp4"
-    },
-    {
         "phrases": ["food", "greens", "vegetable", "vegetarian", "veggie"],
         "video": "VEGETABLE.mp4"
       },
@@ -2959,6 +2958,21 @@
         "video": "VENEZUELA.mp4"
       },
       {
+        "phrases": [
+            "venture",
+            "journey",
+            "adventure",
+            "undertake",
+            "explore",
+            "go out",
+            "travel",
+            "trip",
+            "trajectory",
+            "field trip"
+        ],
+        "video": "Venture.mp4"
+    },
+      {
         "phrases": ["action", "linguistics", "part of speech", "verb"],
         "video": "VERB.mp4"
       },
@@ -2974,6 +2988,30 @@
         "phrases": ["vertical mode", "portrait mode", "photograph", "layout", "upright"],
         "video": "VERTICAL-MODE.mp4"
       },
+      {
+        "phrases": [
+            "very",
+            "extremely",
+            "super",
+            "really",
+            "highly",
+            "so"
+        ],
+        "video": "Very.mp4"
+    },
+    {
+        "phrases": [
+            "verify",
+            "check",
+            "confirm",
+            "validate",
+            "prove",
+            "double-check",
+            "check on",
+            "inspect"
+        ],
+        "video": "Verify.mp4"
+    },
       {
         "phrases": ["turn off video", "power off", "turn off", "stop video feed"],
         "video": "VIDEO-OFF.mp4"
