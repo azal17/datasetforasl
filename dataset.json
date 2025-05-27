@@ -2855,42 +2855,6 @@
     },
     {
         "phrases": [
-            "very",
-            "extremely",
-            "super",
-            "really",
-            "highly",
-            "so"
-        ],
-        "video": "Very.mp4"
-    },
-    {
-        "phrases": [
-            "vote",
-            "elect",
-            "choose",
-            "cast a ballot",
-            "decide",
-            "make a choice",
-            "election"
-        ],
-        "video": "Vote.mp4"
-    },
-    {
-        "phrases": [
-            "visit",
-            "drop by",
-            "stop in",
-            "come over",
-            "go see",
-            "pay a visit"
-        ],
-        "video": "Visit.mp4"
-    },
-   
-    
-    {
-        "phrases": [
             "value",
             "worth",
             "importance",
@@ -2901,64 +2865,6 @@
             "merit"
         ],
         "video": "Value.mp4"
-    },
-    
-    {
-        "phrases": [
-            "voice",
-            "speak",
-            "say",
-            "talk",
-            "express",
-            "communicate",
-            "chat", 
-            "conversation", 
-            "converse", 
-            "socialize", 
-            "to converse with", 
-            "to talk with"
-        ],
-        "video": "Voice.mp4"
-    },
-
-    {
-        "phrases": [
-            "venture",
-            "journey",
-            "adventure",
-            "undertake",
-            "explore",
-            "go out",
-            "travel",
-            "trip",
-            "trajectory",
-            "field trip"
-        ],
-        "video": "Venture.mp4"
-    },
-    {
-        "phrases": [
-            "vivid",
-            "bright",
-            "colorful",
-            "intense",
-            "vibrant",
-            "clear",
-            "clarify"
-        ],
-        "video": "Vivid.mp4"
-    },
-    {
-        "phrases": [
-            "vulnerable",
-            "exposed",
-            "at risk",
-            "unprotected",
-            "fragile",
-            "sensitive",
-            "sensitivity"
-        ],
-        "video": "Vulnerable.mp4"
     },
     {
         "phrases": [
@@ -2971,38 +2877,6 @@
             "automobile"
         ],
         "video": "Van.mp4"
-    },
-    
-   
-    {
-        "phrases": [
-            "vow",
-            "promise",
-            "pledge",
-            "swear",
-            "commit",
-            "declare",
-            "swear",
-            "tell the truth",
-            "cross heart"
-        ],
-        "video": "Vow.mp4"
-    },
-    {
-        "phrases": [
-            "vibrate",
-            "buzz",
-            "quiver",
-            "shake",
-            "tremble",
-            "hum",
-            "rumble", 
-            "shake", 
-            "shaking", 
-            "tremor", 
-            "vibration"
-        ],
-        "video": "Vibrate.mp4"
     },
     {
         "phrases": [
@@ -3030,6 +2904,22 @@
     },
     {
         "phrases": [
+            "venture",
+            "journey",
+            "adventure",
+            "undertake",
+            "explore",
+            "go out",
+            "travel",
+            "trip",
+            "trajectory",
+            "field trip"
+        ],
+        "video": "Venture.mp4"
+    },
+
+    {
+        "phrases": [
             "verify",
             "check",
             "confirm",
@@ -3041,9 +2931,206 @@
         ],
         "video": "Verify.mp4"
     },
+    {
+        "phrases": [
+            "very",
+            "extremely",
+            "super",
+            "really",
+            "highly",
+            "so"
+        ],
+        "video": "Very.mp4"
+    },
+    {
+        "phrases": ["food", "greens", "vegetable", "vegetarian", "veggie"],
+        "video": "VEGETABLE.mp4"
+      },
+      {
+        "phrases": ["vegetarian"],
+        "video": "VEGETARIAN.mp4"
+      },
+      {
+        "phrases": ["food", "greens", "vegetable", "veggie", "vitamin", "vanilla"],
+        "video": "VEGGIE.mp4"
+      },
+      {
+        "phrases": ["Venezuela"],
+        "video": "VENEZUELA.mp4"
+      },
+      {
+        "phrases": ["action", "linguistics", "part of speech", "verb"],
+        "video": "VERB.mp4"
+      },
+      {
+        "phrases": ["line", "sentence", "text", "verse"],
+        "video": "VERSE.mp4"
+      },
+      {
+        "phrases": ["blinds", "curtains", "shades", "window"],
+        "video": "VERTICAL-BLINDS.mp4"
+      },
+      {
+        "phrases": ["vertical mode", "portrait mode", "photograph", "layout", "upright"],
+        "video": "VERTICAL-MODE.mp4"
+      },
+      {
+        "phrases": ["turn off video", "power off", "turn off", "stop video feed"],
+        "video": "VIDEO-OFF.mp4"
+      },
+      {
+        "phrases": ["VP", "VRS", "be on video call", "to call", "video conference", "video phone", "video relay", "videophone"],
+        "video": "VIDEOCALL.mp4"
+      },
+      {
+        "phrases": ["camera", "film", "filming", "video", "video camera", "videorecorder", "VIDEORECORDEReye"],
+        "video": "VIDEORECORDER.mp4"
+      },
+      {
+        "phrases": ["camera", "film", "movie", "reel", "video", "videotape", "VIDEOs"],
+        "video": "VIDEO.mp4"
+      },
+      {
+        "phrases": ["Vietnam", "VIETNAMsh"],
+        "video": "VIETNAM.mp4"
+      },
+      {
+        "phrases": ["outlook", "point of view", "stance", "understanding", "vantage", "view", "viewpoint", "way of thinking"],
+        "video": "VIEW.mp4"
+      },
+      {
+        "phrases": ["viral", "virus", "coronavirus", "infection", "sickness", "illness", "contagious"],
+        "video": "VIRAL.mp4"
+      },
+      {
+        "phrases": ["virus", "viral", "infection", "sickness", "illness", "coronavirus"],
+        "video": "VIRUS.mp4"
+      },
 
-
-
+    {
+        "phrases": [
+            "vibrate",
+            "buzz",
+            "quiver",
+            "shake",
+            "tremble",
+            "hum",
+            "rumble", 
+            "shake", 
+            "shaking", 
+            "tremor", 
+            "vibration"
+        ],
+        "video": "Vibrate.mp4"
+    },
+    {
+        "phrases": ["see", "visible", "vision", "visual"],
+        "video": "VISION.mp4"
+      },
+      {
+        "phrases": ["guest", "person", "visit", "visitor"],
+        "video": "VISITOR.mp4"
+      },
+      {
+        "phrases": ["call on", "drop by", "stay in", "stop by", "visible", "visit", "visitor"],
+        "video": "VISIT.mp4"
+      },
+      {
+        "phrases": ["envision", "evoke", "ideal", "imagination", "imagine", "think of", "vision", "visualization", "visualize", "VISUALIZEix", "💭", "🧐"],
+        "video": "VISUALIZE.mp4"
+      },
+      {
+        "phrases": ["vitamin", "vitamins"],
+        "video": "VITAMIN.mp4"
+      },
+      {
+        "phrases": [
+            "vivid",
+            "bright",
+            "colorful",
+            "intense",
+            "vibrant",
+            "clear",
+            "clarify"
+        ],
+        "video": "Vivid.mp4"
+    },
+      {
+        "phrases": ["blog", "internet", "social media", "video", "vlog"],
+        "video": "VLOG.mp4"
+      },
+      {
+        "phrases": ["lexicon", "terminology", "vocab", "vocabulary", "words"],
+        "video": "VOCABULARY.mp4"
+      },
+      {
+        "phrases": [
+            "voice",
+            "speak",
+            "say",
+            "talk",
+            "express",
+            "communicate",
+            "chat", 
+            "conversation", 
+            "converse", 
+            "socialize", 
+            "to converse with", 
+            "to talk with"
+        ],
+        "video": "Voice.mp4"
+    },
+      {
+        "phrases": ["sports", "volleyball", "VOLLEYBALL-SET"],
+        "video": "VOLLEYBALL-SET.mp4"
+      },
+      {
+        "phrases": ["sports", "volleyball", "VOLLEYBALL7b"],
+        "video": "VOLLEYBALL.mp4"
+      },
+      {
+        "phrases": ["sports", "volleyball", "VOLLEYBALLflick"],
+        "video": "VOLLEYBALLflick.mp4"
+      },
+      {
+        "phrases": ["applicant", "apply", "candidate", "eligible", "volunteer"],
+        "video": "VOLUNTEER.mp4"
+      },
+      {
+        "phrases": ["hurl", "throw up", "vomit"],
+        "video": "VOMIT.mp4"
+      },
+      {
+        "phrases": ["elect", "election", "vote", "voting"],
+        "video": "VOTE.mp4"
+      },
+      {
+        "phrases": [
+            "vow",
+            "promise",
+            "pledge",
+            "swear",
+            "commit",
+            "declare",
+            "swear",
+            "tell the truth",
+            "cross heart"
+        ],
+        "video": "Vow.mp4"
+    },
+    
+    {
+        "phrases": [
+            "vulnerable",
+            "exposed",
+            "at risk",
+            "unprotected",
+            "fragile",
+            "sensitive",
+            "sensitivity"
+        ],
+        "video": "Vulnerable.mp4"
+    },
 
     {
         "phrases": [
@@ -3057,6 +3144,18 @@
             
         ],
         "video": "Wait.mp4"
+    },
+    {
+        "phrases": ["server", "waiter", "waitress"],
+        "video": "WAITER.mp4"
+    },
+    {
+        "phrases": ["surface", "wall", "border"],
+        "video": "WALL.mp4"
+    },
+    {
+        "phrases": [ "wallet"],
+        "video": "WALLET.mp4"
     },
     {
         "phrases": [
@@ -3075,6 +3174,10 @@
     },
   
     {
+        "phrases": ["explore", "journey", "navigate", "search", "travel", "walk", "wander"],
+        "video": "WANDER.mp4"
+    },
+    {
         "phrases": [
             "warm",
             "cozy",
@@ -3084,6 +3187,34 @@
             "lukewarm"
         ],
         "video": "Warm.mp4"
+    },
+    {
+        "phrases": ["warn", "warning"],
+        "video": "WARN.mp4"
+    },
+    {
+        "phrases": ["battle", "conflict", "war"],
+        "video": "WAR.mp4"
+    },
+    {
+        "phrases": ["lather", "rinse", "scrub", "wash"],
+        "video": "WASH.mp4"
+    },
+    {
+        "phrases": ["clean", "towel", "wash", "washcloth", "washing", "wash face"],
+        "video": "WASH-FACE.mp4"
+    },
+    {
+        "phrases": ["handwashing", "soap", "wash hands", "washing"],
+        "video": "WASH-HANDS.mp4"
+    },
+    {
+        "phrases": ["state", "Washington", "Washington DC", "Washington state"],
+        "video": "WASHINGTON.mp4"
+    },
+    {
+        "phrases": ["waste"],
+        "video": "WASTE.mp4"
     },
     {
         "phrases": [
@@ -3101,6 +3232,10 @@
         "video": "Watch.mp4"
     },
     {
+        "phrases": ["liquid", "water"],
+        "video": "WATER.mp4"
+    },
+    {
         "phrases": [
             "wave",
             "greet",
@@ -3115,6 +3250,22 @@
             "greetings"
         ],
         "video": "Wave.mp4"
+    },
+    {
+        "phrases": ["manner", "method", "path", "street", "way", "WAYb"],
+        "video": "WAY.mp4"
+    },
+    {
+        "phrases": ["frail", "vulnerable", "weak", "weakness"],
+        "video": "WEAK.mp4"
+    },
+    {
+        "phrases": ["wear", "get dressed", "dress", "to-wear", "to wear"],
+        "video": "WEAR.mp4"
+    },
+    {
+        "phrases": ["climate", "weather"],
+        "video": "WEATHER.mp4"
     },
     {
         "phrases": [
@@ -3222,14 +3373,6 @@
       },
       {
         "phrases": [
-          "whiskey",
-          "alcohol",
-          "drink"
-        ],
-        "video": "Whiskey.mp4"
-      },
-      {
-        "phrases": [
           "white",
           "color white"
         ],
@@ -3258,23 +3401,6 @@
         ],
         "video": "Who.mp4"
       },
-      
-      
-      
-
-      
-      
-      
-      
-      
-
-      
-        
-      
-      
-      
-      
-      
     {
         "phrases": ["because","interrogative", "question", "reason", "why"],
         "video": "WHY.mp4"
@@ -3304,7 +3430,7 @@
         "video": "WINDOW.mp4"
       },
       {
-        "phrases": ["alcohol", "wine"],
+        "phrases": ["alcohol", "wine", "vodka", "whiskey"],
         "video": "WINE.mp4"
       },
       {
