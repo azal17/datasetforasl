@@ -2767,6 +2767,106 @@
         ],
         "video": "Tutor.mp4"
     },
+
+    {
+        "phrases": [
+            "2 o'clock",
+            "2:00",
+            "o'clock",
+            "time",
+            "two o'clock",
+            "TWO-OCLOCK"
+        ],
+        "video": "TWO-OCLOCK.mp4"
+    },
+    {
+        "phrases": [
+            "both",
+            "both of them",
+            "pronoun",
+            "them",
+            "they",
+            "together",
+            "two",
+            "two of them",
+            "two of you"
+        ],
+        "video": "TWO-OF-THEM.mp4"
+    },
+    {
+        "phrases": [
+            "both",
+            "both of us",
+            "pronoun",
+            "together",
+            "two",
+            "two of us",
+            "us",
+            "we"
+        ],
+        "video": "TWO-OF-US.mp4"
+    },
+    {
+        "phrases": [
+            "2000",
+            "number",
+            "two-thousand",
+            "two thousand"
+        ],
+        "video": "TWO-THOUSAND.mp4"
+    },
+    {
+        "phrases": [
+            "2001",
+            "time",
+            "two thousand one",
+            "year"
+        ],
+        "video": "TWO-THOUSAND-ONE.mp4"
+    },
+    {
+        "phrases": [
+            "2002",
+            "time",
+            "two thousand two",
+            "year"
+        ],
+        "video": "TWO-THOUSAND-TWO.mp4"
+    },
+    {
+        "phrases": [
+            "biweekly",
+            "time",
+            "two",
+            "two weeks",
+            "weekly",
+            "week"
+        ],
+        "video": "TWO-WEEKS.mp4"
+    },
+    {
+        "phrases": [
+            "two weeks ago",
+            "time",
+            "WEEKS-AGOarc"
+        ],
+        "video": "TWO-WEEKS.mp4"
+    },
+    {
+        "phrases": [
+            "age",
+            "child",
+            "kid",
+            "toddler",
+            "two",
+            "two years old"
+        ],
+        "video": "TWO-YEARS-OLD.mp4"
+    },
+
+
+
+
   { "phrases": ["uganda"], "video": "UGANDA.mp4" }, 
   { "phrases": ["dislike", "hideous", "not beautiful", "ugly"], "video": "UGLY.mp4" },
   { "phrases": ["Ukraine", "Ukrainean"], "video": "UKRAINE.mp4" },
