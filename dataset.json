@@ -2757,7 +2757,214 @@
           "great"
         ],
         "video": "Thumbs-Up.mp4"
+    },
+      {
+        "phrases": ["the"],
+        "video": "THE.mp4"
       },
+      {
+        "phrases": ["thief", "robber", "criminal"],
+        "video": "THIEF.mp4"
+      },
+      {
+        "phrases": ["brain", "mind", "remember", "think", "thought", "mental"],
+        "video": "THINK.mp4"
+      },
+    {
+        "phrases": ["skinny,","thin","THIN"],
+        "video": "THIN.mp4"
+    },
+    {
+        "phrases": ["third", "third in order", "third place","3rd","3"],
+        "video": "THIRD.mp4"
+    },
+    {
+        "phrases": ["drink", "gulp", "swallow", "thirst", "thirsty"],
+        "video": "THIRSTY.mp4"
+    },
+    {
+        "phrases": ["13", "thirteen"],
+        "video": "THIRTEEN.mp4"
+    },
+    {
+        "phrases": ["thinking", "thoughts", "ideas"],
+        "video": "THOUGHTS.mp4"
+    },
+    {
+        "phrases": ["3", "three"],
+        "video": "THREE.mp4"
+    },
+    
+
+
+
+
+    {
+        "phrases": ["clock,","time","TIME"],
+        "video": "TIME.mp4"
+    },
+    {
+        "phrases": ["length of time", "over time", "progression", "progress of time", "time elapse,","time progress"],
+        "video": "TIME-ELAPSE.mp4"
+    },
+    {
+        "phrases": ["time change", "time shift", "shifting"],
+        "video": "TIME-SHIFT.mp4"
+    },
+
+    {
+        "phrases": ["feeling", "numb", "numbness", "tingle", "tingling"],
+        "video": "TINGLE.mp4"
+    },
+    {
+        "phrases": ["diminutive", "little", "miniature", "small", "teeny-weeny", "tiny"],
+        "video": "TINY.mp4"
+    },
+    {
+        "phrases": ["tiny bit", "little", "teeny", "a bit", "minuscule", "microscopic"],
+        "video": "TINY-BIT.mp4"
+    },
+    {
+        "phrases": ["exhausted", "tire", "tired", "worn out"],
+        "video": "TIRED.mp4"
+    },
+    {
+        "phrases": ["destination", "to", "until", "up to"],
+        "video": "TO.mp4"
+    },
+    {
+        "phrases": ["be called", "call", "called", "mention", "name", "to name"],
+        "video": "TO-NAME.mp4"
+    },
+    {
+        "phrases": ["toast", "bread"],
+        "video": "TOAST.mp4"
+    },
+    {
+        "phrases": ["fruit", "tomato", "vegetable"],
+        "video": "TOMATO.mp4"
+    },
+    {
+        "phrases": ["day", "future", "time", "tomorrow"],
+        "video": "TOMORROW.mp4"
+    },
+    {
+        "phrases": ["body part", "eat", "food", "mouth", "taste", "tongue"],
+        "video": "TONGUE.mp4"
+    },
+    {
+        "phrases": ["evening", "night", "time", "tonight"],
+        "video": "TONIGHT.mp4"
+    },
+    {
+        "phrases": ["bored", "dry", "had enough", "done", "easy", "expert", "finished", "not challenging", "too easy"],
+        "video": "TOO-EASY.mp4"
+    },
+    {
+        "phrases": ["best", "top", "top of the line"],
+        "video": "TOP.mp4"
+    },
+      {
+        "phrases": ["cyclone", "storm", "tornado", "twister"],
+        "video": "TORNADO.mp4"
+      },
+      {
+        "phrases": ["Toronto", "city"],
+        "video": "TORONTO.mp4"
+      },
+      {
+        "phrases": ["discard", "get rid of", "throw away", "throw out", "toss"],
+        "video": "TOSS.mp4"
+      },
+      {
+        "phrases": ["discard", "get rid of", "remove", "throw out", "toss", "toss out"],
+        "video": "TOSS-OUT.mp4"
+      },
+      {
+        "phrases": ["altogether", "combined", "comprehensive", "total"],
+        "video": "TOTAL.mp4"
+      },
+      {
+        "phrases": ["deaf", "no hearing", "profoundly deaf", "totally deaf"],
+        "video": "TOTALLY-DEAF.mp4"
+      },
+      {
+        "phrases": ["contact", "have been there", "have visited", "hold down", "press", "tactile", "touch"],
+        "video": "TOUCH.mp4"
+      },
+      {
+        "phrases": ["iPad", "iPhone", "smart device", "smart screen", "swipe", "touch screen", "touchscreen", "click"],
+        "video": "TOUCH-SCREEN.mp4"
+      },
+      {
+        "phrases": ["competition", "sports", "tournament"],
+        "video": "TOURNAMENT.mp4"
+      },
+      {
+        "phrases": ["practice", "to train", "training"],
+        "video": "TRAINING.mp4"
+      },
+      {
+        "phrases": ["LGBTQIA", "person", "trans", "transgender"],
+        "video": "TRANSGENDER.mp4"
+      },
+      {
+        "phrases": ["envision", "interpret", "interpretation", "understanding", "viewpoint", "TRANSLATEix"],
+        "video": "TRANSLATE.mp4"
+      },
+      {
+        "phrases": ["adventure", "journey", "move", "tourist", "transfer", "travel", "trip", "trajectory"],
+        "video": "TRAVEL.mp4"
+      },
+      {
+        "phrases": ["forest", "nature", "plant", "tree", "woods"],
+        "video": "TREE.mp4"
+      },
+      {
+        "phrases": ["city", "place name", "Trenton"],
+        "video": "TRENTON.mp4"
+      },
+      {
+        "phrases": ["commute", "go to", "journey", "transit", "travel", "trip"],
+        "video": "TRIP.mp4"
+      },
+      {
+        "phrases": ["difficulty", "predicament", "problem", "trouble", "worry"],
+        "video": "TROUBLE.mp4"
+    },
+    {
+        "phrases": ["semi-truck", "truck", "TRUCKtvehicle","lorry","tempo"],
+        "video": "TRUCK.mp4"
+    },
+    {
+        "phrases": ["attempt", "effort", "try", "try out"],
+        "video": "TRY.mp4"
+    },
+    {
+        "phrases": ["E(tsk-tsk)", "scold", "shame on you", "tsk tsk", "emblem"],
+        "video": "TSK-TSK.mp4"
+    },
+    {
+        "phrases": ["day", "day of the week", "week", "time", "Tuesday"],
+        "video": "TUESDAY.mp4"
+    },
+    {
+        "phrases": ["animal", "bird", "turkey", "TURKEY"],
+        "video": "TURKEY.mp4"
+    },
+    {
+        "phrases": ["around", "around here", "point", "rotate", "rotation", "spin", "turn", "turn around", "twirl"],
+        "video": "TURN-AROUND.mp4"
+    },
+    {
+        "phrases": ["off", "on", "get started", "lock", "locked", "open", "start", "switch off", "switch on", "turn off", "turn on", "unlock"],
+        "video": "TURN-ON.mp4"
+    },
+
+    {
+        "phrases": ["animal", "reptile", "shell", "turtle"],
+        "video": "TURTLE.mp4"
+    },
     {
         "phrases": [
             "tutor",
@@ -2767,13 +2974,99 @@
         ],
         "video": "Tutor.mp4"
     },
+    {
+        "phrases": ["TV", "television"],
+        "video": "TV.mp4"
+    },
+    {
+        "phrases": ["12",  "twelve"],
+        "video": "TWELVE.mp4"
+    },
+    {
+        "phrases": ["28", "twenty-eight", "twenty eight"],
+        "video": "TWENTY-EIGHT.mp4"
+    },
+    {
+        "phrases": ["25", "quarter", "twenty-five", "twenty five" ],
+        "video": "TWENTY-FIVE.mp4"
+    },
+    {
+        "phrases": ["24", "twenty-four", "twenty four"],
+        "video": "TWENTY-FOUR.mp4"
+    },
+    {
+        "phrases": ["29", "twenty-nine", "twenty nine"],
+        "video": "TWENTY-NINE.mp4"
+    },
+    {
+        "phrases": ["21", "twenty-one", "twenty one"],
+        "video": "TWENTY-ONE.mp4"
+    },
+    {
+        "phrases": ["27", "twenty-seven", "twenty seven"],
+        "video": "TWENTY-SEVEN.mp4"
+    },
+    {
+        "phrases": ["26", "twenty-six", "twenty six"],
+        "video": "TWENTY-SIX.mp4"
+    },
+    {
+        "phrases": ["23", "twenty-three", "twenty three"],
+        "video": "TWENTY-THREE.mp4"
+    },
+    {
+        "phrases": ["2020","two thousand twenty","twenty-twenty", "bird bird", "bird-bird"],
+        "video": "TWENTY-TWENTY.mp4"
+    },
+    {
+        "phrases": ["2021","two thousand twenty one","bird pew pew", "bird-bird pew-pew"],
+        "video": "TWENTY-TWENTY-ONE.mp4"
+    },
+    {
+        "phrases": ["2022", "bird peace peace", "bird-bird peace-peace","two thousand twenty two","2020 too", "twenty-twenty too"],
+        "video": "TWENTY-TWENTY-TWO.mp4"
+    },
+    {
+        "phrases": ["22", "twenty-two", "twenty two"],
+        "video": "TWENTY-TWO.mp4"
+    },
+    {
+        "phrases": [ "siblings", "twins"],
+        "video": "TWINS.mp4"
+    },
+    {
+        "phrases": ["around", "revolve", "rotate", "spin", "spin around", "swivel", "turn", "turn around", "twirl", "twist", "whirl"],
+        "video": "TWIRL.mp4"
+    },
+    {
+        "phrases": ["2",  "two"],
+        "video": "TWO.mp4"
+    },
+    {
+        "phrases": ["two", "two days"],
+        "video": "TWO-DAYS.mp4"
+    },
+    {
+        "phrases": ["before", "time", "two days ago"],
+        "video": "TWO-DAYS-AGO.mp4"
+    },
+    {
+        "phrases": ["2 hours", "two hours", "time"],
+        "video": "TWO-HOURS.mp4"
+    },
+    {
+        "phrases": ["200", "number", "two-hundred", "two hundred"],
+        "video": "TWO-HUNDRED.mp4"
+    },
+    {
+        "phrases": ["natural disaster", "tornado", "TORNADO-COLUMN"],
+        "video": "TORNADO-COLUMN.mp4"
+      },
 
     {
         "phrases": [
             "2 o'clock",
             "2:00",
-            "o'clock",
-            "time",
             "two o'clock",
             "TWO-OCLOCK"
         ],
@@ -2783,7 +3076,6 @@
         "phrases": [
             "both",
             "both of them",
-            "pronoun",
             "them",
             "they",
             "together",
@@ -2797,7 +3089,6 @@
         "phrases": [
             "both",
             "both of us",
-            "pronoun",
             "together",
             "two",
             "two of us",
@@ -2809,7 +3100,6 @@
     {
         "phrases": [
             "2000",
-            "number",
             "two-thousand",
             "two thousand"
         ],
@@ -2818,55 +3108,39 @@
     {
         "phrases": [
             "2001",
-            "time",
-            "two thousand one",
-            "year"
+            "two thousand one"
         ],
         "video": "TWO-THOUSAND-ONE.mp4"
     },
     {
         "phrases": [
             "2002",
-            "time",
-            "two thousand two",
-            "year"
+            "two thousand two"
+
         ],
         "video": "TWO-THOUSAND-TWO.mp4"
     },
     {
         "phrases": [
             "biweekly",
-            "time",
-            "two",
-            "two weeks",
-            "weekly",
-            "week"
+            "two weeks"
+
         ],
         "video": "TWO-WEEKS.mp4"
     },
     {
         "phrases": [
             "two weeks ago",
-            "time",
-            "WEEKS-AGOarc"
+            "WEEKS-AGO"
         ],
         "video": "TWO-WEEKS.mp4"
     },
     {
         "phrases": [
-            "age",
-            "child",
-            "kid",
-            "toddler",
-            "two",
             "two years old"
         ],
         "video": "TWO-YEARS-OLD.mp4"
     },
-
-
-
-
   { "phrases": ["uganda"], "video": "UGANDA.mp4" }, 
   { "phrases": ["dislike", "hideous", "not beautiful", "ugly"], "video": "UGLY.mp4" },
   { "phrases": ["Ukraine", "Ukrainean"], "video": "UKRAINE.mp4" },
