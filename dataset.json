@@ -2568,10 +2568,372 @@
         "video": "Revise.mp4"
     }, 
 
+    {
+        "phrases": [
+           "discontinue", "cut it out", "end", "finish", "halt","quit it", "stop"
 
+        ],
+        "video": "STOP.mp4"
+      },
 
+    {
+        "phrases": [
+          "account",
+          "anecdote",
+          "comment",
+          "commentary",
+          "message",
+          "narrative",
+          "recount",
+          "relate",
+          "statement",
+          "story",
+          "tale",
+          "tell a story"
+        ],
+        "video": "STORY.mp4"
+      },
+      {
+        "phrases": [
+          "odd",
+          "strange",
+          "unusual",
+          "weird"
+        ],
+        "video": "STRANGE.mp4"
+      },
+      {
+        "phrases": [
+          "choke",
+          "frustrated",
+          "squeeze a neck",
+          "strangle"
+        ],
+        "video": "STRANGLE.mp4"
+      },
+      {
+        "phrases": [
+          "food",
+          "fruit",
+          "strawberry"
+        ],
+        "video": "STRAWBERRY.mp4"
+      },
+      {
+        "phrases": [
+          "pressure",
+          "stress",
+          "suppress"
+        ],
+        "video": "STRESS.mp4"
+      },
+      {
+        "phrases": [
+          "rigorous",
+          "severe",
+          "strict",
+          "uncompromising"
+        ],
+        "video": "STRICT.mp4"
+      },
+      {
+        "phrases": [
+          "brave",
+          "flex",
+          "power",
+          "strength",
+          "strong", 
+          "stronger",
+          "more formidable"
+        ],
+        "video": "STRONG.mp4"
+      },
+      {
+        "phrases": [
+          "arrangement",
+          "configuration",
+          "constitution",
+          "construction",
+          "structure"
+        ],
+        "video": "STRUCTURE.mp4"
+      },
+      {
+        "phrases": [
+          "battle",
+          "endeavor",
+          "go back-and-forth",
+          "grapple",
+          "scramble",
+          "struggle",
+          "tension",
+          "toil",
+          "tug-of-war"
+        ],
+        "video": "STRUGGLEarc.mp4"
+      },
+      {
+        "phrases": [
+          "battle",
+          "endeavor",
+          "go back-and-forth",
+          "grapple",
+          "scramble",
+          "struggle",
+          "tension",
+          "toil",
+          "tug-of-war",
+          "STRUGGLEstr"
+        ],
+        "video": "STRUGGLEstr.mp4"
+      },
+      {
+        "phrases": [
+          "donkey",
+          "determined",
+          "hard-headed",
+          "obstinate",
+          "stubborn"
+        ],
+        "video": "STUBBORN.mp4"
+      },
+      {
+        "phrases": [
+          "STUDYstr",
+          "education",
+          "learning",
+          "schooling",
+          "studies",
+          "study"
+        ],
+        "video": "STUDY.mp4"
+      },
+      {
+        "phrases": [
+          "a mess",
+          "at a loss",
+          "awkward",
+          "clumsy",
+          "not sure what to do",
+          "out of place",
+          "stumble",
+          "taken aback",
+          "uncertain",
+          "unexpected",
+          "unsure",
+          "whoa"
+        ],
+        "video": "STUMBLE.mp4"
+      },
+      {
+        "phrases": [
+          "confused",
+          "flabbergasted",
+          "flummoxed",
+          "hands in dirty dishwater",
+          "shocked",
+          "speechless",
+          "stumped",
+          "stunned",
+          "surprised",
+          "taken aback",
+          "unsure",
+          "whoa",
+          "wow",
+          "dumbfounded"
+        ],
+        "video": "STUNNED.mp4"
+      },
+      {
+        "phrases": [
+          "dumb",
+          "stupid"
+        ],
+        "video": "STUPID.mp4"
+      },
+      {
+        "phrases": [
+          "dumb",
+          "stupid",
+          "stupidity"
+        ],
+        "video": "STUPIDITYa.mp4"
+      },
+      {
+        "phrases": [
+          "dense person",
+          "dumb",
+          "stupid"
+        ],
+        "video": "STUPIDITYv.mp4"
+      },
+      {
+        "phrases": [
+          "deduct",
+          "remove",
+          "subtract",
+          "take away"
+        ],
+        "video": "SUBTRACT.mp4"
+      },
+      {
+        "phrases": [
+          "absorb",
+          "drink",
+          "evaporate",
+          "suck",
+          "suction",
+          "take in",
+          "withdraw",
+          "vacuum"
+        ],
+        "video": "SUCK.mp4"
+      },
+      {
+        "phrases": [
+          "endure",
+          "patient",
+          "patience",
+          "suffer",
+          "suffering",
+          "hurt",
+          "in pain",
+          "painful"
+        ],
+        "video": "SUFFER.mp4"
+      },
+      {
+        "phrases": [
+          "abbreviate",
+          "abbreviation",
+          "compress",
+          "concise",
+          "condense",
+          "for-short",
+          "in closing",
+          "summarize",
+          "summary"
+        ],
+        "video": "SUMMARIZE.mp4"
+      },
 
+    {
+        "phrases": ["Sunday", "weekend"],
+        "video": "SUNDAY.mp4"
+      },
+      {
+        "phrases": ["dawn", "daybreak", "horizon", "morning", "natural phenomenon", "oversleep", "sleep in", "sun", "sunrise"],
+        "video": "SUNRISE.mp4"
+      },
+      {
+        "phrases": ["dusk", "evening", "gloaming", "horizon", "natural phenomenon", "nightfall", "sun", "sundown", "sunset", "twilight"],
+        "video": "SUNSET.mp4"
+      },
+      {
+        "phrases": ["sun", "sunshine", "sunlight", "SUNc"],
+        "video": "SUN.mp4"
+      },
+      {
+        "phrases": ["experienced", "expert", "proficient", "skill", "skilled", "super-skill", "talented"],
+        "video": "SUPER-SKILL.mp4"
+      },
+      {
+        "phrases": ["above", "authority", "boss", "chief", "executive", "foremost", "higher up", "higher-up", "in charge", "oversee", "superior"],
+        "video": "SUPERIOR.mp4"
+      },
+      {
+        "phrases": ["-er", "-est", "comparative", "intensifier", "more", "superlative"],
+        "video": "SUPERLATIVE.mp4"
+      },
+      {
+        "phrases": ["careful", "monitor", "supervise", "take care", "watch"],
+        "video": "SUPERVISE.mp4"
+      },
+      {
+        "phrases": ["babysitter", "boss", "monitor", "supervise", "supervisor"],
+        "video": "SUPERVISOR.mp4"
+      },
+      {
+        "phrases": ["advocate", "assist", "help", "in favor of", "justify", "reinforce", "support"],
+        "video": "SUPPORTrep.mp4"
+      },
+      {
+        "phrases": ["surf", "surfing"],
+        "video": "SURF.mp4"
+      },
+      {
+        "phrases": ["doctor", "medicine", "surgery", "surgeon"],
+        "video": "SURGEON.mp4"
+      },
+      {
+        "phrases": ["alert", "awake", "open-eyes", "open your eyes", "shocked", "surprise", "surprised", "wake up"],
+        "video": "SURPRISE.mp4"
+      },
+      {
+        "phrases": ["food", "sushi"],
+        "video": "SUSHI.mp4"
+      },
+      {
+        "phrases": ["suspect", "suspicion", "suspicious"],
+        "video": "SUSPECT.mp4"
+      },    
 
+    {
+        "phrases": ["hang out", "hold", "pause", "suspend", "to hang from"],
+        "video": "SUSPEND.mp4"
+      },
+      {
+        "phrases": ["eat food", "gulp", "swallow"],
+        "video": "SWALLOW.mp4"
+      },
+      {
+        "phrases": ["switch", "swap", "change", "exchange"],
+        "video": "SWAP.mp4"
+      },
+      {
+        "phrases": ["inauguration", "promise", "swear in", "testify", "testimony"],
+        "video": "SWEAR-IN.mp4"
+      },
+      {
+        "phrases": ["hot", "humid", "moisture", "perspiration", "perspire", "sweat", "sweaty"],
+        "video": "SWEAT.mp4"
+      },
+      {
+        "phrases": ["Sweden", "country"],
+        "video": "SWEDEN.mp4"
+      },
+      {
+        "phrases": ["broom", "clean", "sweep"],
+        "video": "SWEEP.mp4"
+      },
+      {
+        "phrases": ["cake", "dessert", "food", "sweetcake"],
+        "video": "SWEETCAKE.mp4"
+      },
+      {
+        "phrases": ["awesome", "cool", "fine", "neat", "swell"],
+        "video": "SWELL.mp4"
+      },
+      {
+        "phrases": ["swim", "swimming"],
+        "video": "SWIM.mp4"
+      },
+      {
+        "phrases": ["cheat", "deceive", "hoodwink", "lie", "swindle"],
+        "video": "SWINDLE.mp4"
+      },
+      {
+        "phrases": ["alternate", "change", "jump over", "jump to", "switch", "switch over", "switch to", "transfer", "change roles"],
+        "video": "SWITCH.mp4"
+      },
+      {
+        "phrases": ["lights off", "off", "switch off", "turn off"],
+        "video": "SWITCH-OFF.mp4"
+      },
+      {
+        "phrases": ["city", "Sydney"],
+        "video": "SYDNEY.mp4"
+      },
     {
         "phrases": [
             "afraid", 
@@ -2748,7 +3110,7 @@
         ],
         "video": "Tall.mp4"
     },
-    
+
       {
         "phrases": ["animal", "appendage", "tail", "wag"],
         "video": "TAIL.mp4"
