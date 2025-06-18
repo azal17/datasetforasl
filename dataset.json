@@ -2748,6 +2748,124 @@
         ],
         "video": "Tall.mp4"
     },
+    
+      {
+        "phrases": ["animal", "appendage", "tail", "wag"],
+        "video": "TAIL.mp4"
+      },
+      {
+        "phrases": ["tail", "tailshape"],
+        "video": "TAILSHAPE.mp4"
+      },
+      {
+        "phrases": ["look", "look around", "look on", "look over", "observation", "observe", "review", "take a look", "take-look"],
+        "video": "TAKE-LOOK.mp4"
+      },
+      {
+        "phrases": ["delete", "knock off", "remove", "take off"],
+        "video": "TAKE-OFF.mp4"
+      },
+      {
+        "phrases": ["ingest", "medicine", "pill", "take medicine", "take orally"],
+        "video": "TAKE-ORALLY.mp4"
+      },
+      {
+        "phrases": ["arrest", "capture", "grab", "hold", "seize", "snatch", "take hold of", "overtake", "take over", "TAKE-OVER"],
+        "video": "TAKE-OVER.mp4"
+      },
+      {
+        "phrases": ["photograph", "picture", "screenshot", "take-picture", "take a picture"],
+        "video": "TAKE-PICTURE.mp4"
+      },
+      {
+        "phrases": ["alternate", "back and forth", "take-turn", "take turns"],
+        "video": "TAKE-TURN.mp4"
+      },
+      {
+        "phrases": ["speak", "speak with", "talk", "talk to"],
+        "video": "TALK.mp4"
+      },
+      {
+        "phrases": ["height", "tall"],
+        "video": "TALL.mp4"
+      },
+      {
+        "phrases": ["adult", "big", "older", "tall", "tall person"],
+        "video": "TALL-PERSON.mp4"
+      },
+      {
+        "phrases": ["Tanzania", "Tanzanian", "country"],
+        "video": "TANZANIA.mp4"
+      },
+    {
+        "phrases": ["adhesive", "bandage", "band-aid", "tape"],
+        "video": "TAPE.mp4"
+      },
+      {
+        "phrases": ["aim", "bullseye", "focus", "goal", "harass", "mark", "target", "zoom in on"],
+        "video": "TARGET.mp4"
+      },
+      {
+        "phrases": ["favorite", "flavor", "prefer", "preference", "taste"],
+        "video": "TASTE.mp4"
+      },
+      {
+        "phrases": ["educator", "instructor", "professor", "teacher"],
+        "video": "TEACHER.mp4"
+      },
+      {
+        "phrases": ["teach"],
+        "video": "TEACH.mp4"
+      },
+      {
+        "phrases": ["tear", "cry", "tear drop", "teardrop", "sad"],
+        "video": "TEAR.mp4"
+      },
+      {
+        "phrases": ["adolescent", "puberty", "teen", "teenager"],
+        "video": "TEENAGER.mp4"
+      },
+      {
+        "phrases": ["a little bit", "diminutive", "little", "miniature", "small", "teeny-weeny", "tiny", "very small", "TINYbox"],
+        "video": "TEENY.mp4"
+      },
+      {
+        "phrases": ["teeny bit", "tiny", "a little bit", "morsel", "just a bit", "slight"],
+        "video": "TEENY-BIT.mp4"
+      },
+      {
+        "phrases": ["teeth", "tooth"],
+        "video": "TEETH.mp4"
+      },
+      {
+        "phrases": ["(movie/TV) credits", "caption", "move up", "screen", "teleprompter", "text"],
+        "video": "TELEPROMPTER.mp4"
+      },
+      {
+        "phrases": ["say to", "tell"],
+        "video": "TELL.mp4"
+      },
+      {
+        "phrases": ["blow up", "explode with anger", "flare up", "get angry", "go off", "lose temper", "tantrum", "temper blow up"],
+        "video": "TEMPER-BLOW-UP.mp4"
+      },
+      {
+        "phrases": ["before long", "in a bit", "shortly", "soon", "temporary"],
+        "video": "TEMPORARY.mp4"
+      },
+      {
+        "phrases": ["10", "number", "ten"],
+        "video": "TEN.mp4"
+      },
+      {
+        "phrases": ["BING", "bing", "habit", "likely", "tendency", "tend to", "typical", "typically"],
+        "video": "TEND-TO.mp4"
+      },
+      {
+        "phrases": ["cabin", "camp", "camping", "tent"],
+        "video": "TENT.mp4"
+      },
+
     {
         "phrases": [
           "thumbs up",
@@ -2794,7 +2912,101 @@
         "phrases": ["3", "three"],
         "video": "THREE.mp4"
     },
+    {
+        "phrases": ["event", "excited", "thrill", "thrilled", "what's up"],
+        "video": "THRILL.mp4"
+      },
+      {
+        "phrases": ["in and out of", "through", "throughout"],
+        "video": "THROUGH.mp4"
+      },
+      {
+        "phrases": [
+          "advance", "attend school", "freshman", "go through college", "go through high school",
+          "go to school", "going to university", "grade", "junior", "matriculate", "senior", "sophomore"
+        ],
+        "video": "THROUGH-SCHOOL.mp4"
+      },
+      {
+        "phrases": ["throw", "toss", "trash"],
+        "video": "THROW.mp4"
+      },
+      {
+        "phrases": [
+          "collect", "compile", "put together", "throw in", "throw together",
+          "mishmash", "mix", "assortment"
+        ],
+        "video": "THROW-TOGETHER.mp4"
+      },
+      {
+        "phrases": ["throw up", "vomit"],
+        "video": "THROW-UP.mp4"
+      },
+      {
+        "phrases": [ "Thursday", "THURSDAY"],
+        "video": "THURSDAY.mp4"
+      },
+      {
+        "phrases": ["citation", "fare", "pass", "ticket", "voucher"],
+        "video": "TICKET.mp4"
+      },
+      {
+        "phrases": ["tickle", "tickling"],
+        "video": "TICKLE.mp4"
+      },
+      {
+        "phrases": ["tie", "tie game", "tied up", "turn", "twist", "wrap up"],
+        "video": "TIE.mp4"
+      },
+      {
+        "phrases": ["tiger"],
+        "video": "TIGER.mp4"
+      },
+      {
+        "phrases": ["mobile", "mobile device", "page", "pager", "texting", "text"],
+        "video": "TEXT.mp4"
+      },
+      {
+        "phrases": ["comparative", "conjunction", "than"],
+        "video": "THAN.mp4"
+      },
+      {
+        "phrases": ["holiday", "Thanksgiving"],
+        "video": "THANKS-GIVING.mp4"
+      },
+      {
+        "phrases": ["deictic", "indexical", "pronoun", "that", "that one", "that's it"],
+        "video": "THAT.mp4"
+      },
+      {
+        "phrases": ["hell", "hellish"],
+        "video": "THE-HELL.mp4"
+      },
+      {
+        "phrases": ["afterward", "at that time", "next", "then"],
+        "video": "THEN.mp4"
+      },
+      {
+        "phrases": ["hypothesis", "system of ideas", "theoretical", "theory", "thesis"],
+        "video": "THEORY.mp4"
+      },
+      {
+        "phrases": ["therapeutic", "therapy", "treatment"],
+        "video": "THERAPY.mp4"
+      },
+      {
+        "phrases": ["after", "from then on", "thereafter", "hereafter", "from now on"],
+        "video": "THEREAFTER.mp4"
+      },
+      {
+        "phrases": ["texas"],
+        "video": "TEXAS.mp4"
+      },
+      
+
+
     
+
 
 
 
