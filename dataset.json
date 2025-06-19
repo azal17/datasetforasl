@@ -2568,14 +2568,542 @@
         "video": "Revise.mp4"
     }, 
 
+
+
+    {
+        "phrases": ["SIGNboard", "billboard", "board", "board-sign", "document", "form", "notice", "road sign", "screen", "sign", "signage", "square", "traffic sign"],
+        "video": "SIGNAGE.mp4"
+      },
+      {
+        "phrases": ["autograph", "contract", "sign", "sign a paper", "signature", "SIGNpaper"],
+        "video": "SIGNATURE.mp4"
+      },
+      {
+        "phrases": ["signer", "sign language"],
+        "video": "SIGNER.mp4"
+      },
+      {
+        "phrases": ["foolish", "goofy", "ridiculous", "silly"],
+        "video": "SILLY.mp4"
+      },
+      {
+        "phrases": [ "silver", "SILVER"],
+        "video": "SILVER.mp4"
+      },
+      {
+        "phrases": ["with ease", "easy", "simple"],
+        "video": "SIMPLE.mp4"
+      },
+      {
+        "phrases": ["all along", "during that time", "have been", "lately", "since", "since then", "so far"],
+        "video": "SINCE.mp4"
+      },
+      {
+        "phrases": ["music", "sing", "singing", "song"],
+        "video": "SING.mp4"
+      },
+      {
+        "phrases": ["Singapore", "Singaporean", "country"],
+        "video": "SINGAPORE.mp4"
+      },
+      {
+        "phrases": ["country", "Singapore", "Singaporean"],
+        "video": "SINGAPORE-COUNTRY.mp4"
+      },
+      {
+        "phrases": ["be a regular", "favor", "frequent", "go often", "habit", "habitual", "patronize", "single out", "target"],
+        "video": "SINGLE-OUT.mp4"
+      },
+      {
+        "phrases": ["ambulance", "paramedics", "siren"],
+        "video": "SIREN.mp4"
+      },
+      {
+        "phrases": ["family", "female", "relative", "sibling", "sister", "SISTERth"],
+        "video": "SISTER.mp4"
+      },
+      {
+        "phrases": ["chair", "seat", "sit", "sit down"],
+        "video": "SIT.mp4"
+      },
+      {
+        "phrases": ["event", "occurrence", "scenario", "situation", "social", "society"],
+        "video": "SITUATION.mp4"
+      },
+    {
+        "phrases": ["six","6","SIX"],
+        "video": "SIX.mp4"
+      },
+    {
+        "phrases": ["do not believe", "don't believe", "doubt", "skeptical", "unsure"],
+        "video": "SKEPTICAL.mp4"
+      },
+      {
+        "phrases": ["ethnicity", "race", "skin"],
+        "video": "SKIN.mp4"
+      },
+      {
+        "phrases": ["skinny", "thin"],
+        "video": "SKINNY.mp4"
+      },
+    {
+        "phrases": ["absent", "do not include", "ignore", "omit", "skip", "to ditch"],
+        "video": "SKIP.mp4"
+      },
+      {
+        "phrases": ["animal", "skunk"],
+        "video": "SKUNK.mp4"
+      },
+      {
+        "phrases": ["heaven", "sky"],
+        "video": "SKY.mp4"
+      },
+      {
+        "phrases": ["SLAAASh", "SLAASh", "and", "diacritic", "either", "or", "punctuation", "slash", "symbol"],
+        "video": "SLASH.mp4"
+      },
+      {
+        "phrases": ["bound", "chains", "enslave", "enslavement", "servant", "slave", "slavery", "SLAVEver"],
+        "video": "SLAVE.mp4"
+      },
+      {
+        "phrases": ["asleep", "fall asleep", "nap", "sleep", "sleeping", "sleepy"],
+        "video": "SLEEP.mp4"
+      },
+      {
+        "phrases": ["cut up", "section", "slice"],
+        "video": "SLICE.mp4"
+      },
+      {
+        "phrases": ["bread", "loaf", "sliced bread"],
+        "video": "SLICED-BREAD.mp4"
+      },
+      {
+        "phrases": ["fall", "slide", "slip", "slippery"],
+        "video": "SLIP.mp4"
+      },
+      {
+        "phrases": ["Slovakia", "country"],
+        "video": "SLOVAKIA.mp4"
+      },
+      {
+        "phrases": ["country", "Slovenia", "Slovenian"],
+        "video": "SLOVENIA.mp4"
+      },
+      {
+        "phrases": ["slow"],
+        "video": "SLOW.mp4"
+      },
+      {
+        "phrases": ["little", "miniature", "small", "tiny"],
+        "video": "SMALL.mp4"
+      },
+      {
+        "phrases": ["child", "kid", "little person", "person", "short", "small", "small-person", "small person"],
+        "video": "SMALL-PERSON.mp4"
+      },
+      {
+        "phrases": ["brilliant", "clever", "intellectual", "intelligence", "intelligent", "smart"],
+        "video": "SMART.mp4"
+      },
+      {
+        "phrases": ["odor", "scent", "smell", "smelly"],
+        "video": "SMELL.mp4"
+      },
+      {
+        "phrases": ["cigarette", "smoking", "to smoke"],
+        "video": "SMOKING.mp4"
+      },
+      {
+        "phrases": ["fluency", "fluent", "fluid", "smooth"],
+        "video": "SMOOTH.mp4"
+      },
+      {
+        "phrases": ["food", "meal", "snack"],
+        "video": "SNACK.mp4"
+      },
+      {
+        "phrases": ["food", "meal", "snack"],
+        "video": "SNACK-FOOD.mp4"
+      },
+      {
+        "phrases": ["animal", "mollusk", "snail"],
+        "video": "SNAIL.mp4"
+      },
+      {
+        "phrases": ["animal", "reptile", "snake", "SNAKEbv"],
+        "video": "SNAKE.mp4"
+      },
+      {
+        "phrases": ["achoo", "sneeze", "SNEEZEix"],
+        "video": "SNEEZE.mp4"
+      },
+      {
+        "phrases": ["fancy", "snob", "snobby", "snooty", "sophisticated"],
+        "video": "SNOB.mp4"
+      },
+      {
+        "phrases": ["snowboard", "snowboarding", "sports"],
+        "video": "SNOWBOARD.mp4"
+      },
+      {
+        "phrases": ["snow", "snowman", "SNOWMANsh"],
+        "video": "SNOWMAN.mp4"
+      },
+      {
+        "phrases": ["football", "futbol", "soccer", "sports"],
+        "video": "SOCCER.mp4"
+      },
+      {
+        "phrases": ["social", "social work", "social worker", "worker", "SOCIAL-WORKERra"],
+        "video": "SOCIAL-WORKER.mp4"
+      },
+      {
+        "phrases": ["hang out", "interact", "mingle", "social", "socialize"],
+        "video": "SOCIAL.mp4"
+      },
+      {
+        "phrases": ["gentle", "soft", "softly"],
+        "video": "SOFT.mp4"
+      },
+      {
+        "phrases": ["concrete", "dense", "durable", "firm", "hard", "heavy duty", "really hard", "resilient", "rigid", "solid", "sturdy", "tough"],
+        "video": "SOLID.mp4"
+      },
+      {
+        "phrases": ["inner monologue", "isolated", "solitary", "talking to oneself", "talk to yourself"],
+        "video": "SOLITARY.mp4"
+      },
+      {
+        "phrases": ["every so often", "from time to time", "occasionally", "once in a while", "periodically", "sometime", "sometimes", "sporadically"],
+        "video": "SOMETIME.mp4"
+      },
+      {
+        "phrases": ["offspring", "son", "boy", "child"],
+        "video": "SON.mp4"
+      },
+      {
+        "phrases": ["kind of", "kind of thing", "kinda", "so to speak", "sorta", "quote", "quotation mark"],
+        "video": "SORTA.mp4"
+      },
+      {
+        "phrases": ["all right"," and", "and so", "are you with me", "but", "but wait", "hold on", "so", "that's all", "that's that", "there's more", "wait", "wait a minute", "with that", "with that point"],
+        "video": "SO.mp4"
+      },
+      {
+        "phrases": ["cereal", "eat", "soup", "spoon", "SOUPcir"],
+        "video": "SOUP.mp4"
+      },
+      {
+        "phrases": ["South Africa", "South African", "country"],
+        "video": "SOUTH-AFRICA.mp4"
+      },
+      {
+        "phrases": ["South Korea", "South Korean", "country"],
+        "video": "SOUTH-KOREA.mp4"
+      },
+      {
+        "phrases": ["southerner"],
+        "video": "SOUTHERNER.mp4"
+      },
+      {
+        "phrases": ["noodles", "pasta", "spaghetti"],
+        "video": "SPAGHETTI.mp4"
+      },
+      {
+        "phrases": ["Hispanic", "Spanish"],
+        "video": "SPANISH.mp4"
+      },
+      {
+        "phrases": ["speech", "speak", "talk", "use voice", "verbal"],
+        "video": "SPEAK.mp4"
+      },
+      {
+        "phrases": ["special", "unique","especially", "except"],
+        "video": "SPECIAL.mp4"
+      },
+      {
+        "phrases": ["discipline", "expert", "field", "professional", "profession", "specialist", "SPECIALISTix", "specialty"],
+        "video": "SPECIALIST.mp4"
+      },
+      {
+        "phrases": ["at a loss for words", "no reply possible", "shocked", "speechless", "stunned"],
+        "video": "SPEECHLESS.mp4"
+      },
+      {
+        "phrases": ["expend", "give", "spend", "spend money", "spend time"],
+        "video": "SPEND.mp4"
+      },
+      {
+        "phrases": ["fire breather", "hot", "spicy","spice","hot flavor"],
+        "video": "SPICY.mp4"
+      },
+      {
+        "phrases": ["animal", "arachnid", "spider"],
+        "video": "SPIDER.mp4"
+      },
+      {
+        "phrases": ["spit", "saliva", "spit test", "covid test"],
+        "video": "SPIT.mp4"
+      },
+      {
+        "phrases": ["immediately", "impromptu", "impulsive", "instantly", "right away", "snap", "spontaneous", "spur of the moment", "straight away", "unplanned", "suddenly"],
+        "video": "SPONTANEOUS.mp4"
+      },
+      {
+        "phrases": ["spoon", "utensil"],
+        "video": "SPOON.mp4"
+      },
+      {
+        "phrases": ["feed", "give food to", "spoonfeed", "spoon-feed", "SPOONFEEDasym"],
+        "video": "SPOONFEED.mp4"
+      },
+      {
+        "phrases": ["compete", "competition", "competitive", "race", "sports", "marathon"],
+        "video": "SPORTS.mp4"
+      },
+      {
+        "phrases": ["spotlight", "Zoom", "focus"],
+        "video": "SPOTLIGHT.mp4"
+      },
+      {
+        "phrases": ["spray", "spray bottle", "spray paint"],
+        "video": "SPRAY.mp4"
+      },
+      {
+        "phrases": ["season", "spring", "time of year"],
+        "video": "SPRING.mp4"
+      },
+      {
+        "phrases": ["seasoning", "spread", "sprinkle on", "sprinkles", "powder", "toppings"],
+        "video": "SPRINKLES.mp4"
+      },
+    {
+        "phrases": [
+          "animal",
+          "squirrel"
+        ],
+        "video": "SQUIRREL.mp4"
+      },
+      {
+        "phrases": [
+          "crush",
+          "mashed",
+          "mush",
+          "smash",
+          "squish"
+        ],
+        "video": "SQUISH.mp4"
+      },
+      {
+        "phrases": [
+          "Sri Lanka"
+        ],
+        "video": "SRI-LANKA.mp4"
+      },
+      {
+        "phrases": [
+          "board",
+          "committee",
+          "council",
+          "employees",
+          "staff",
+          "workforce"
+        ],
+        "video": "STAFF.mp4"
+      },
+      {
+        "phrases": [
+          "platform",
+          "stage",
+          "surface",
+          "theater",
+          "theatre"
+        ],
+        "video": "STAGE.mp4"
+      },
+      {
+        "phrases": [
+          "stamp",
+          "letter",
+          "mail",
+          "postage",
+          "STAMP"
+        ],
+        "video": "STAMP.mp4"
+      },
+      {
+        "phrases": [
+          "stand",
+          "stand up",
+          "upright"
+        ],
+        "video": "STAND.mp4"
+      },
+      {
+        "phrases": [
+          "heavenly body",
+          "light",
+          "night sky",
+          "star",
+          "stars",
+          "twinkling"
+        ],
+        "video": "STAR.mp4"
+      },
+      {
+        "phrases": [
+          "begin",
+          "beginning",
+          "commence",
+          "inception",
+          "initiate",
+          "original",
+          "outset",
+          "start"
+        ],
+        "video": "START.mp4"
+      },
+      {
+        "phrases": [
+          "semester",
+          "state",
+          "subject"
+        ],
+        "video": "STATE.mp4"
+      },
+      {
+        "phrases": [
+          "don't move",
+          "remain",
+          "stay",
+          "stay there"
+        ],
+        "video": "STAY.mp4"
+      },
+      {
+        "phrases": [
+          "isolation",
+          "quarantine",
+          "remain in place",
+          "stay home",
+          "stay in place",
+          "stay there"
+        ],
+        "video": "STAY-HOME.mp4"
+      },
+      {
+        "phrases": [
+          "food",
+          "meat",
+          "steak"
+        ],
+        "video": "STEAK.mp4"
+      },
+      {
+        "phrases": [
+          "burglarize",
+          "loot",
+          "misappropriate",
+          "pilfer",
+          "pillage",
+          "plunder",
+          "purloin",
+          "rob",
+          "steal",
+          "stolen",
+          "theft",
+          "thief",
+          "thieve"
+        ],
+        "video": "STEAL.mp4"
+      },
+      {
+        "phrases": [
+          "advance",
+          "footsteps",
+          "gain access",
+          "initiated",
+          "make strides",
+          "move forward",
+          "steps",
+          "stomp",
+          "walking",
+          "take a step",
+          "step",
+          "step forward"
+        ],
+        "video": "STEPS.mp4"
+      },
+      {
+        "phrases": [
+          "doctor",
+          "ear buds",
+          "ears",
+          "headphones",
+          "medicine",
+          "stethoscope",
+          "tool"
+        ],
+        "video": "STETHOSCOPE.mp4"
+      },
+      {
+        "phrases": [
+          "STICK-MIND",
+          "it just stuck",
+          "remember",
+          "remembered",
+          "stick",
+          "stuck",
+          "stick to mind"
+        ],
+        "video": "STICK-MIND.mp4"
+      },
+      {
+        "phrases": [
+          "input",
+          "prompt",
+          "stimulate",
+          "stimulating",
+          "stimulus",
+          "trigger"
+        ],
+        "video": "STIMULATE.mp4"
+      },
+      {
+        "phrases": [
+          "smells bad",
+          "smelly",
+          "stink",
+          "stinky"
+        ],
+        "video": "STINK.mp4"
+      },
+      {
+        "phrases": [
+          "blend",
+          "eat",
+          "food",
+          "meal",
+          "mix",
+          "stir"
+        ],
+        "video": "STIR.mp4"
+      },
+    {
+        "phrases": [
+           "anatomy", "belly", "body", "organ", "stomach"
+        ],
+        "video": "STOMACH.mp4"
+    },
+      
     {
         "phrases": [
            "discontinue", "cut it out", "end", "finish", "halt","quit it", "stop"
 
         ],
         "video": "STOP.mp4"
-      },
-
+    },
     {
         "phrases": [
           "account",
@@ -2670,22 +3198,7 @@
           "toil",
           "tug-of-war"
         ],
-        "video": "STRUGGLEarc.mp4"
-      },
-      {
-        "phrases": [
-          "battle",
-          "endeavor",
-          "go back-and-forth",
-          "grapple",
-          "scramble",
-          "struggle",
-          "tension",
-          "toil",
-          "tug-of-war",
-          "STRUGGLEstr"
-        ],
-        "video": "STRUGGLEstr.mp4"
+        "video": "STRUGGLE.mp4"
       },
       {
         "phrases": [
@@ -2757,15 +3270,7 @@
           "stupid",
           "stupidity"
         ],
-        "video": "STUPIDITYa.mp4"
-      },
-      {
-        "phrases": [
-          "dense person",
-          "dumb",
-          "stupid"
-        ],
-        "video": "STUPIDITYv.mp4"
+        "video": "STUPIDITY.mp4"
       },
       {
         "phrases": [
