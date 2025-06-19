@@ -2568,8 +2568,218 @@
         "video": "Revise.mp4"
     }, 
 
-
-
+    {
+        "phrases": ["deliver", "dispatch", "forward", "send", "to mail"],
+        "video": "SEND.mp4"
+      },
+      {
+        "phrases": ["forward", "message", "note", "send", "send email", "send message", "send text", "send to", "text message"],
+        "video": "SEND-TO.mp4"
+      },
+      {
+        "phrases": ["elder", "senior citizen"],
+        "video": "SENIOR-CITIZEN.mp4"
+      },
+      {
+        "phrases": ["sensitive", "sensitivity", "sensory", "tend", "tends to"],
+        "video": "SENSITIVE.mp4"
+      },
+      {
+        "phrases": ["extreme", "intense", "serious", "severe"],
+        "video": "SERIOUS.mp4"
+      },
+      {
+        "phrases": ["serve", "server", "service", "waiter", "waitress"],
+        "video": "SERVE.mp4"
+      },
+      {
+        "phrases": ["champion", "record-breaking", "set a record", "winner", "break a record", "record breaking", "break record"],
+        "video": "SET-RECORD.mp4"
+      },
+      {
+        "phrases": ["based on", "establish", "place", "set", "set up", "foundation"],
+        "video": "SET-UP.mp4"
+      },
+      {
+        "phrases": ["calm down", "chill", "relax", "settle", "settle down"],
+        "video": "SETTLE.mp4"
+      },
+      {
+        "phrases": ["7", "number", "seven"],
+        "video": "SEVEN.mp4"
+      },
+      {
+        "phrases": ["7 hours", "seven hours"],
+        "video": "SEVEN-HOURS.mp4"
+      },
+      {
+        "phrases": ["700", "number", "seven-hundred", "seven hundred"],
+        "video": "SEVEN-HUNDRED.mp4"
+      },
+      {
+        "phrases": ["7 minutes", "seven minutes", "time"],
+        "video": "SEVEN-MINUTES.mp4"
+      },
+      {
+        "phrases": ["7 o'clock", "7:00", "o'clock", "seven o'clock", "time", "SEVEN-OCLOCK"],
+        "video": "SEVEN-OCLOCK.mp4"
+      },
+      {
+        "phrases": ["7000", "number", "seven-thousand", "seven thousand"],
+        "video": "SEVEN-THOUSAND.mp4"
+      },
+      {
+        "phrases": ["seven", "seven weeks", "time", "week", "weekly"],
+        "video": "SEVEN-WEEKS.mp4"
+      },
+      {
+        "phrases": ["age", "seven", "seven years old"],
+        "video": "SEVEN-YEARS-OLD.mp4"
+      },
+      {
+        "phrases": ["17", "seventeen", "SEVENTEENrep"],
+        "video": "SEVENTEEN.mp4"
+      },
+      {
+        "phrases": ["number", "ordinal number", "seven", "seventh", "seventh place"],
+        "video": "SEVENTH.mp4"
+      },
+      {
+        "phrases": ["78", "number", "seventy-eight", "seventy eight"],
+        "video": "SEVENTY-EIGHT.mp4"
+      },
+      {
+        "phrases": ["79", "number", "seventy-nine", "seventy nine"],
+        "video": "SEVENTY-NINE.mp4"
+      },
+      {
+        "phrases": ["71", "number", "seventy-one", "seventy one"],
+        "video": "SEVENTY-ONE.mp4"
+      },
+      {
+        "phrases": ["76", "number", "seventy-six", "seventy six"],
+        "video": "SEVENTY-SIX.mp4"
+      },
+      {
+        "phrases": ["73", "number", "seventy-three", "seventy three"],
+        "video": "SEVENTY-THREE.mp4"
+      },
+      {
+        "phrases": ["72", "number", "seventy-two", "seventy two"],
+        "video": "SEVENTY-TWO.mp4"
+      },
+      {
+        "phrases": ["needle", "sew", "sewing", "stitch", "stitches"],
+        "video": "SEW.mp4"
+      },
+      {
+        "phrases": ["gender", "sex", "sexual"],
+        "video": "SEX.mp4"
+      },
+      {
+        "phrases": ["conditioner", "shampoo", "wash hair", "wash head"],
+        "video": "SHAMPOO.mp4"
+      },
+      {
+        "phrases": ["share"],
+        "video": "SHARE.mp4"
+      },
+      {
+        "phrases": ["animal", "dorsal fin", "shark"],
+        "video": "SHARK.mp4"
+      },
+      {
+        "phrases": ["animal", "shark", "SHARK-SWIM"],
+        "video": "SHARK-SWIM.mp4"
+      },
+      {
+        "phrases": ["razor-edged", "sharp", "sharp edge"],
+        "video": "SHARP.mp4"
+      },
+      {
+        "phrases": ["cut", "razor", "shave beard", "shave face"],
+        "video": "SHAVE.mp4"
+      },
+      {
+        "phrases": ["animal", "sheep"],
+        "video": "SHEEP.mp4"
+      },
+      {
+        "phrases": ["shift", "move"],
+        "video": "SHIFT.mp4"
+      },
+      {
+        "phrases": ["bright", "brilliant", "glow", "reflective", "shine", "shiny"],
+        "video": "SHINY.mp4"
+      },
+      {
+        "phrases": ["attire", "clothes", "clothing", "costume", "dress", "garb", "garment", "getup", "outfit", "shirt", "top", "wear"],
+        "video": "SHIRT.mp4"
+      },
+      {
+        "phrases": ["oh no", "oops", "shit", "uh-oh", "oh crap", "messed up", "mistake"],
+        "video": "SHIT.mp4"
+      },
+      {
+        "phrases": ["amazing", "awesome", "eye opening", "in awe", "orange eyes", "shock", "shocked", "surprised", "whoa", "wow"],
+        "video": "SHOCKED.mp4"
+      },
+      {
+        "phrases": ["caught off guard", "shocked", "shook up", "surprised"],
+        "video": "SHOOK-UP.mp4"
+      },
+      {
+        "phrases": ["market", "marketing", "sell", "shop", "shopping", "store"],
+        "video": "SHOP.mp4"
+      },
+      {
+        "phrases": ["buy", "shop", "shopping", "shopping spree", "store", "to go shopping"],
+        "video": "SHOPPING.mp4"
+      },
+      {
+        "phrases": ["brief", "for a short time", "quick", "short", "shortly"],
+        "video": "SHORT.mp4"
+      },
+      {
+        "phrases": ["almost", "close", "close by", "just there", "near", "nearby", "nearly", "not far", "short", "short distance"],
+        "video": "SHORT-DISTANCE.mp4"
+      },
+      {
+        "phrases": ["body part", "shoulder"],
+        "video": "SHOULDER.mp4"
+      },
+      {
+        "phrases": ["cry out", "howl", "scream", "shout", "yell"],
+        "video": "SHOUT.mp4"
+      },
+      {
+        "phrases": ["demonstrate", "display", "example", "exhibit", "indicate", "model", "represent", "show", "sign", "symptom"],
+        "video": "SHOW.mp4"
+      },
+      {
+        "phrases": ["bathe", "shower", "take a shower"],
+        "video": "SHOWER.mp4"
+      },
+      {
+        "phrases": ["close", "closed", "disbanded", "fall down", "go out of business", "shut down", "shutdown", "shuttered", "terminated", "lockdown"],
+        "video": "SHUTDOWN.mp4"
+      },
+      {
+        "phrases": ["bashful", "reticent", "shy", "timid"],
+        "video": "SHY.mp4"
+      },
+      {
+        "phrases": ["disease", "hospital", "ill", "illness", "sick", "sickness", "unwell"],
+        "video": "SICK.mp4"
+      },
+      {
+        "phrases": ["sign", "sign language", "signing"],
+        "video": "SIGN.mp4"
+      },
+      {
+        "phrases": ["sign language", "sign-language"],
+        "video": "SIGN-LANGUAGE.mp4"
+      },
     {
         "phrases": ["SIGNboard", "billboard", "board", "board-sign", "document", "form", "notice", "road sign", "screen", "sign", "signage", "square", "traffic sign"],
         "video": "SIGNAGE.mp4"
