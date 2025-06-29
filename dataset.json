@@ -2113,6 +2113,68 @@
 
 
 
+{
+      "phrases": [
+          "mail", "stamp"
+      ],
+      "video": "MAIL.mp4"
+}, 
+{
+    "phrases": [
+      "career", "field", "main", "major", "primary", "specialty"
+    ],
+    "video": "MAJOR.mp4"
+},   
+{
+  "phrases": [
+     "creation", "make", "MAKE", "manufacture", "produce", "production"
+  ],
+  "video": "MAKE.mp4"
+}, 
+{
+  "phrases": [
+    "creative", "fake", "imaginary", "invent", "made up", "make believe", "make up","not real", "pretend"
+  ],
+  "video": "MAKE-BELIEVE.mp4"
+}, 
+{
+  "phrases": [
+    "give a hard time", "have fun with", "joke", "make fun of", "taunt", "tease", "teasing", "schmooth"
+  ],
+  "video": "MAKE-FUN.mp4"
+}, 
+{
+  "phrases": [
+   "gentleman", "male", "man", "masculine"
+  ],
+  "video": "MAN.mp4"
+}, 
+{
+  "phrases": [
+    "MANAGE", "administrate", "administrator", "control", "deal with","handle", "manage", "manipulate", "regulate", "regulation", "take care of", "tyranny"
+  ],
+  "video": "MANAGE.mp4"
+}, 
+{
+  "phrases": [
+    "a lot", "how much", "many", "multiple", "numerous", "quantity", "volume"
+  ],
+  "video": "MANY.mp4"
+}, 
+{
+  "phrases": ["maple", "maple syrup", "pancakes","stick", "sticky", "syrup"
+  ],
+  "video": "MAPLE-SYRUP.mp4"
+}, 
+{
+  "phrases": ["march"],
+  "video": "MARCH.mp4"
+}, 
+{
+  "phrases": ["marry","marriage","married"],
+  "video": "MARRY.mp4"
+}, 
+
     
     {
         "phrases": [
@@ -2781,135 +2843,248 @@
   { "phrases": ["doll", "plastic", "rubber", "toy", "playtoy"], "video": "PLAYTOY.mp4" },
   {
     "phrases": ["PLUNGER", "bathroom", "cleaning", "fixing", "toilet", "tool"],
-    "video": "PLUNGER.MP4"
+    "video": "PLUNGER.mp4"
   },
   {
     "phrases": ["PLURAL", "lots", "many", "more than one", "multiple"],
-    "video": "PLURAL.MP4"
+    "video": "PLURAL.mp4"
   },
   {
     "phrases": ["POLICE5", "badge", "cop", "patrol", "police", "police officer", "security"],
-    "video": "POLICE.MP4"
+    "video": "POLICE.mp4"
   },
   {
     "phrases": ["POLITE", "appropriate", "courteous", "formal", "formality", "manners", "officially", "politeness", "proper", "well-behaved"],
-    "video": "POLITE.MP4"
+    "video": "POLITE.mp4"
   },
   {
     "phrases": ["PONDER", "brainstorm", "consider", "contemplate", "going through the mind", "mull over", "pondering", "reflect", "reflection", "think about", "thinking", "thoughts", "wondering", "🤔"],
-    "video": "PONDER.MP4"
+    "video": "PONDER.mp4"
   },
   {
     "phrases": ["POOL-GAME", "billards", "play pool", "pool", "shoot pool"],
-    "video": "POOL-GAME.MP4"
+    "video": "POOL-GAME.mp4"
   },
   {
     "phrases": ["POOP", "defecate", "going number two", "shit"],
-    "video": "POOP.MP4"
+    "video": "POOP.mp4"
   },
   {
     "phrases": ["POOR", "impoverished", "poverty"],
-    "video": "POOR.MP4"
+    "video": "POOR.mp4"
   },
   {
     "phrases": ["POP", "balloon", "burst", "deflate", "prick", "puncture", "to pop"],
-    "video": "POP.MP4"
+    "video": "POP.mp4"
   },
   {
     "phrases": ["POPCORN", "food"],
-    "video": "POPCORN.MP4"
+    "video": "POPCORN.mp4"
   },
   {
     "phrases": ["POPSICLE", "frozen pop", "ice cream stick"],
-    "video": "POPSICLE.MP4"
+    "video": "POPSICLE.mp4"
   },
   {
     "phrases": ["POPULAR", "famous", "popularity", "well-known"],
-    "video": "POPULAR.MP4"
+    "video": "POPULAR.mp4"
   },
   {
     "phrases": ["PORCUPINE", "animal"],
-    "video": "PORCUPINE.MP4"
+    "video": "PORCUPINE.mp4"
   },
   {
     "phrases": ["PORTUGAL"],
-    "video": "PORTUGAL.MP4"
+    "video": "PORTUGAL.mp4"
   },
   {
     "phrases": ["POSSIBLE", "ability", "able", "can", "possibility", "potential", "potentially"],
-    "video": "POSSIBLE.MP4"
+    "video": "POSSIBLE.mp4"
   },
   {
     "phrases": ["POSSUM", "animal", "opossum"],
-    "video": "POSSUM.MP4"
+    "video": "POSSUM.mp4"
   },
   {
     "phrases": ["POST", "poster", "put up", "wall hanging"],
-    "video": "POST.MP4"
+    "video": "POST.mp4"
   },
   {
     "phrases": ["POTATO", "chips", "Idaho", "Ireland", "Irish", "potato chips"],
-    "video": "POTATO.MP4"
+    "video": "POTATO.mp4"
   },
   {
     "phrases": ["POURa", "pour", "POUR"],
-    "video": "POUR.MP4"
+    "video": "POUR.mp4"
   },
   {
     "phrases": ["POW", "argue", "banter", "debate", "got you", "insult", "knock out", "rejoinder", "render speechless", "victory", "win argument", "win debate", "zap", "touche", "zinger", "hah"],
-    "video": "POW.MP4"
+    "video": "POW.mp4"
   },
   {
     "phrases": ["POWER", "potent", "powerful", "strength", "strong"],
-    "video": "POWER.MP4"
+    "video": "POWER.mp4"
   },
   {
     "phrases": ["POWER-THROUGH", "completed", "finish everything", "get this done", "go through", "make progress", "proceed", "full speed ahead", "get things done", "finish at once", "complete at once", "get it done"],
-    "video": "POWER-THROUGH.MP4"
+    "video": "POWER-THROUGH.mp4"
   },
   {
     "phrases": ["PRAY", "church", "prayer", "religion", "sermon", "worship"],
-    "video": "PRAYER.MP4"
+    "video": "PRAYER.mp4"
   },
   {
     "phrases": ["PREACH", "religion", "church", "sermon", "lecture", "prescribe", "prescription", "prescriptive"],
-    "video": "PREACH.MP4"
+    "video": "PREACH.mp4"
   },
   {
     "phrases": ["PREACHER", "church", "minister", "pastor", "preacher", "priest", "temple"],
-    "video": "PREACHER.MP4"
+    "video": "PREACHER.mp4"
   },
   {
     "phrases": ["PRECIOUS", "care", "cherish", "conserve", "dear", "save", "to treasure", "value"],
-    "video": "PRECIOUS.MP4"
+    "video": "PRECIOUS.mp4"
   },
   {
     "phrases": ["PREDICT", "anticipate", "foresee", "future", "look", "look ahead", "prediction", "see"],
-    "video": "PREDICT.MP4"
+    "video": "PREDICT.mp4"
   },
   {
     "phrases": ["PREFER", "better", "preference"],
-    "video": "PREFER.MP4"
+    "video": "PREFER.mp4"
   },
   {
     "phrases": ["PREPARE", "arrange", "in order", "organize", "preparation"],
-    "video": "PREPARE.MP4"
+    "video": "PREPARE.mp4"
   },
   {
     "phrases": ["PRESBYTERIAN", "church", "religion", "religious"],
-    "video": "PRESBYTERIAN.MP4"
+    "video": "PRESBYTERIAN.mp4"
   },
   {
     "phrases": ["PRESIDENT"],
-    "video": "PRESIDENT.MP4"
+    "video": "PRESIDENT.mp4"
   },
   {
     "phrases": ["PRESS", "click", "hold down", "poke", "press button", "push", "remote", "tap"],
-    "video": "PRESS.MP4"
+    "video": "PRESS.mp4"
   },
   {
     "phrases": ["PRETEND", "fake", "imagine", "play", "not real"],
-    "video": "PRETEND.MP4"
+    "video": "PRETEND.mp4"
+  },
+  {
+    "phrases": ["PRETZEL", "pretzel"],
+    "video": "PRETZEL.mp4"
+  },
+  {
+    "phrases": ["PRIDE", "pride", "proud"],
+    "video": "PRIDE.mp4"
+  },
+  {
+    "phrases": ["PRINT", "print", "publish"],
+    "video": "PRINT.mp4"
+  },
+  {
+    "phrases": ["PRIOR-TO", "before", "past", "previous", "prior to", "time", "time-to-time past","PREVIOUS", "before", "in the past", "just (said, did)", "previous", "previously", "prior"],
+    "video": "PRIOR-TO.mp4"
+  },
+  {
+    "phrases": ["PRISON", "bars", "cage", "jail", "prison"],
+    "video": "PRISON.mp4"
+  },
+  {
+    "phrases": ["PRIVILEGE", "advantage", "benefit from", "privilege"],
+    "video": "PRIVILEGE.mp4"
+  },
+  {
+    "phrases": ["PRODUCE-SIGN", "able to sign", "articulate-sign", "capable of signing", "chat", "conversation", "discuss", "fluency", "fluent", "produce-sign", "sign", "signing", "talk", "to perform in sign", "to pronounce", "to sign something"],
+    "video": "PRODUCE-SIGN.mp4"
+  },
+  {
+    "phrases": ["PROMOTE", "advance", "advanced", "elevate", "high", "increase", "level up", "more difficult", "next up", "promote", "upgrade"],
+    "video": "PROMOTE.mp4"
+  },
+  {
+    "phrases": ["PROPERTIES", "features", "properties", "criteria", "ingredients", "list", "markers"],
+    "video": "PROPERTIES.mp4"
+  },
+  {
+    "phrases": ["PROPORTION", "according to", "akin to", "analogue", "in a way", "in proportion to", "just like that", "likewise", "proportion", "proportional", "similar to", "parallel"],
+    "video": "PROPORTION.mp4"
+  },
+
+  {
+    "phrases": ["PROTACTILE", "deafblind", "protactile", "PT ASL", "tactile signing"],
+    "video": "PROTACTILE.mp4"
+  },
+  {
+    "phrases": ["PROTECTION", "barrier", "block", "defend", "defensive", "don't", "obstruct", "prevent", "prevention", "protect", "protection", "restrict", "restriction", "stop"],
+    "video": "PROTECTION.mp4"
+  },
+  {
+    "phrases": ["PROTECT", "defend", "defense", "defensive", "guard", "protect", "protection", "secure", "security", "PROTECTcross"],
+    "video": "PROTECT.mp4"
+  },
+  {
+    "phrases": ["PROTEST", "object", "protest", "rebel", "rebellion", "revolt", "revolution", "strike"],
+    "video": "PROTEST.mp4"
+  },
+  {
+    "phrases": ["PROVIDE", "disperse", "give", "give out", "grant", "hand out", "offer", "pass out", "present", "provide"],
+    "video": "PROVIDE.mp4"
+  },
+  {
+    "phrases": ["PROXIMALIZATION", "move", "proximalization", "switch"],
+    "video": "PROXIMALIZATION.mp4"
+  },
+  {
+    "phrases": ["PSYCHOLOGIST", "psychology", "psychologist"],
+    "video": "PSYCHOLOGIST.mp4"
+  },
+  {
+    "phrases": ["PUBLICATION", "journal", "magazine", "newspaper", "printer", "publication"],
+    "video": "PUBLICATION.mp4"
+  },
+  {
+    "phrases": ["PUERTO-RICO", "Puerto Rico", "Puerto-Rico", "Puerto Rican"],
+    "video": "PUERTO-RICO.mp4"
+  },
+  {
+    "phrases": ["PULL", "drag", "draw", "draw out", "elicit", "elicitation", "get", "get out", "haul", "jerk", "lug", "pull", "pull out", "recruit", "tow", "tug", "yank"],
+    "video": "PULL.mp4"
+  },
+  {
+    "phrases": ["PUMPKIN", "melon", "pumpkin"],
+    "video": "PUMPKIN.mp4"
+  },
+  {
+    "phrases": ["PUNCH", "fruit drink", "hit", "hitting", "jab", "knock", "punch"],
+    "video": "PUNCH.mp4"
+  },
+  {
+    "phrases": ["PUNISH", "detention", "discipline", "penalty", "punish"],
+    "video": "PUNISH.mp4"
+  },
+  {
+    "phrases": ["PURE", "clean", "pristine", "pure", "PUREb"],
+    "video": "PURE.mp4"
+  },
+  {
+    "phrases": ["PURPLE", "color", "purple","lilac", "violet"],
+    "video": "PURPLE.mp4"
+  },
+  {
+    "phrases": ["PURPOSE", "intend", "intent", "purpose", "intentional"],
+    "video": "PURPOSE.mp4"
+  },
+  {
+    "phrases": ["PUSH", "press", "push", "shove"],
+    "video": "PUSH.mp4"
+  },
+  {
+    "phrases": ["PUT-IN", "implant", "in", "include", "insert", "inside", "instill", "involve", "move", "place", "plant", "put", "put in", "save", "save up", "seed"],
+    "video": "PUT-IN.mp4"
   },
     {
         "phrases": [
@@ -3038,6 +3213,103 @@
         "video": "Put-In-Place.mp4"
     },
 
+
+    {
+      "phrases": ["QATAR", "Qatar", "Qatari country"],
+      "video": "QATAR.mp4"
+    },
+    {
+      "phrases": ["QTIP", "cotton swab", "qtip", "q-tip"],
+      "video": "QTIP.mp4"
+    },
+    {
+      "phrases": ["QUARANTINE", "isolation", "quarantine", "stay home"],
+      "video": "QUARANTINE.mp4"
+    },
+    {
+      "phrases": ["QUEEN", "female", "princess", "queen", "royalty", "woman"],
+      "video": "QUEEN.mp4"
+    },
+    {
+      "phrases": ["QUESTION", "ask", "interrogative", "punctuation", "question", "question mark", "sentence type"],
+      "video": "QUESTION.mp4"
+    },
+    {
+      "phrases": ["QUICK", "automatic", "fast", "quick", "rapid", "right away", "speed", "speedy", "sudden", "swift", "QUICKflex"],
+      "video": "QUICK.mp4"
+    },
+    {
+      "phrases": ["QUIET", "calm", "quiet", "silence", "silent", "to be still"],
+      "video": "QUIET.mp4"
+    },
+    {
+      "phrases": ["QUIT", "quit"],
+      "video": "QUIT.mp4"
+    },
+
+
+
+
+    {
+      "phrases": ["RABBIT", "bunny", "hare", "rabbit"],
+      "video": "RABBIT.mp4"
+    },
+    {
+      "phrases": ["RABBIT-EARS", "bunny", "ears", "hare", "rabbit"],
+      "video": "RABBIT-EARS.mp4"
+    },
+    {
+      "phrases": ["RACCOON", "raccoon"],
+      "video": "RACCOON.mp4"
+    },
+    {
+      "phrases": ["RACE", "compete", "competition", "game", "match", "meet", "pageant", "race", "running", "sports", "track"],
+      "video": "RACE.mp4"
+    },
+    {
+      "phrases": ["RAINBOW", "rainbow"],
+      "video": "RAINBOW.mp4"
+    },
+    {
+      "phrases": ["RAISINS", "food", "fruit", "raisins","RAISIN", "raisin"],
+      "video": "RAISINS.mp4"
+    },
+    {
+      "phrases": ["RAKE", "collect leaves", "garden work", "rake"],
+      "video": "RAKE.mp4"
+    },
+    {
+      "phrases": ["RANGE", "a range of", "a variety of", "between", "from here to there", "gradient", "range", "register", "scope", "spectrum", "to", "variation"],
+      "video": "RANGE.mp4"
+    },
+    {
+      "phrases": ["REACT", "react", "reply", "report", "respond", "responsive"],
+      "video": "REACT.mp4"
+    },
+    {
+      "phrases": ["READ", "look through", "read", "skim"],
+      "video": "READ.mp4"
+    },
+    {
+      "phrases": ["READY", "all set", "get set", "ready", "prepare", "prepared"],
+      "video": "READY.mp4"
+    },
+    {
+      "phrases": ["RECENT", "just", "just finished", "just happened", "recent", "recently", "short time ago"],
+      "video": "RECENT.mp4"
+    },
+    {
+      "phrases": ["RECHARGE", "charge", "power up", "recharge"],
+      "video": "RECHARGE.mp4"
+    },
+    {
+      "phrases": ["RECITE", "inform", "list", "list out", "recite", "say", "sign", "sign to me", "sign to you", "tell", "tell me", "tell name", "tell number", "tell you", "cite"],
+      "video": "RECITE.mp4"
+    },
+    {
+      "phrases": ["RECORD", "cassette", "computer", "record", "recorder", "tape"],
+      "video": "RECORD.mp4"
+    },
 
     {
         "phrases": [
