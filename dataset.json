@@ -2248,6 +2248,7 @@
     },
   
 
+
     {
         "phrases": [
             "disbelief",
@@ -2355,6 +2356,561 @@
         ],
         "video": "Pinch.mp4"
     },
+
+    {
+      "phrases": ["food", "onion"],
+      "video": "ONION.mp4"
+    },
+    {
+      "phrases": ["ONLY-SELF", "alone", "isolated", "just", "lonely", "one", "only", "only one", "only self", "single"],
+      "video": "ONLY-SELF.mp4"
+    },
+    {
+      "phrases": ["intensity", "intensive", "oh", "ooh","ohhhhh","ohhhh","ohhh","ooohhh","ohhhhh","oooh", "recognizing intensity", "ridiculous", "yikes", "whoa", "wow"],
+      "video": "OOH.mp4"
+    },
+    {
+      "phrases": ["open", "open-book", "open the book", "open book", "book"],
+      "video": "OPEN-BOOK.mp4"
+    },
+    {
+      "phrases": ["open", "open-door", "open the door"],
+      "video": "OPEN-DOOR.mp4"
+    },
+    {
+      "phrases": ["open", "open-window", "open the window", "window"],
+      "video": "OPEN-WINDOW.mp4"
+    },
+    {
+      "phrases": ["facilitate", "operate", "run"],
+      "video": "OPERATE.mp4"
+    },
+    {
+      "phrases": ["opinion", "opinionated", "perspective", "point of view", "position", "view", "viewpoint", "stance"],
+      "video": "OPINION.mp4"
+    },
+    {
+      "phrases": ["chance", "opportunity", "option", "possibility"],
+      "video": "OPPORTUNITY.mp4"
+    },
+    {
+      "phrases": ["pressure", "oppress", "oppression", "suppress"],
+      "video": "OPPRESS.mp4"
+    },
+    {
+      "phrases": ["lipread", "mouth", "oral", "oralism", "pronounce", "pronunciation", "speech", "talk"],
+      "video": "ORALb.mp4"
+    },
+    {
+      "phrases": ["color", "orange fruit","orange-fruit", "orange"],
+      "video": "ORANGE.mp4"
+    },
+    {
+      "phrases": ["command", "imperative", "order", "react", "reaction", "reply", "report", "respond"],
+      "video": "ORDER.mp4"
+    },
+    {
+      "phrases": ["bake", "cook", "food", "oven"],
+      "video": "OVEN.mp4"
+    },
+    {
+      "phrases": ["confused", "don't get it", "don't understand", "lost", "over my head", "over your head", "over head", "too difficult", "OVER-HEADhead"],
+      "video": "OVER-HEADhead.mp4"
+    },
+    {
+      "phrases": ["confused", "don't get it", "don't understand", "lost", "over my head", "over your head", "over head", "too difficult"],
+      "video": "OVER-HEADix.mp4"
+    },
+    {
+      "phrases": ["bored with it", "done", "fed up", "finished", "over it", "sick of it", "tired of it", "OVER-IT"],
+      "video": "OVER-IT.mp4"
+    },
+    {
+      "phrases": ["common ground", "cover", "layer", "overlap", "similarity"],
+      "video": "OVERLAP.mp4"
+    },
+    {
+      "phrases": ["all night", "evening", "late night", "night", "overnight", "throughout the night", "time"],
+      "video": "OVERNIGHT.mp4"
+    },
+    {
+      "phrases": [
+        "across",
+        "after",
+        "come over",
+        "go over",
+        "next",
+        "over"
+      ],
+      "video": "OVER.mp4"
+    },
+    {
+      "phrases": [
+        "afford",
+        "debt",
+        "due",
+        "owe"
+      ],
+      "video": "OWE.mp4"
+    },
+    {
+      "phrases": [
+        "animal",
+        "owl"
+      ],
+      "video": "OWL.mp4"
+    },
+    {
+      "phrases": [
+        "accept",
+        "own",
+        "possess",
+        "take"
+      ],
+      "video": "OWN.mp4"
+    },
+    {
+      "phrases": [
+        "dwell",
+        "imagine",
+        "neurotic",
+        "obsess",
+        "overthink",
+        "preoccupied",
+        "thinking about",
+        "illusion",
+        "delusion",
+        "misbelief",
+        "figment of the imagination"
+      ],
+      "video": "OVERTHINK"
+    },
+    {
+      "phrases": ["animal", "fish", "ocean", "octopus", "squid", "water"],
+      "video": "OCTOPUS.mp4"
+    },
+    {
+      "phrases": ["off", "removed", "take off"],
+      "video": "OFF.mp4"
+    },
+    {
+      "phrases": ["impermanent", "off and on", "on and off", "once in a while", "sometimes"],
+      "video": "OFF-AND-ON.mp4"
+    },
+    {
+      "phrases": [
+        "change the point",
+        "change the topic",
+        "not on topic",
+        "not relevant",
+        "off point",
+        "off the point",
+        "off topic",
+        "random"
+      ],
+      "video": "OFF-THE-POINT.mp4"
+    },
+    {
+      "phrases": ["insult", "offend", "offense", "offensive", "rude"],
+      "video": "OFFEND.mp4"
+    },
+    {
+      "phrases": ["office", "organize"],
+      "video": "OFFICE.mp4"
+    },
+    {
+      "phrases": ["conference badge", "delegate", "official", "representative"],
+      "video": "OFFICIAL.mp4"
+    },
+    {
+      "phrases": [
+        "gesture",
+        "it's fine",
+        "leave it alone",
+        "leave it there",
+        "let them be",
+        "okay",
+        "okay okay!",
+        "E(okay)",
+        "emblem"
+      ],
+      "video": "OKAY.mp4"
+    },
+    {
+      "phrases": ["ancient", "age", "old"],
+      "video": "OLD.mp4"
+    },
+    {
+      "phrases": ["elder", "old", "older", "oldest", "superlative"],
+      "video": "OLDEST.mp4"
+    },
+    {
+      "phrases": ["on", "on top of", "onto"],
+      "video": "ON.mp4"
+    },
+    {
+      "phrases": ["impermanent", "off and on", "on and off", "once in a while", "sometimes"],
+      "video": "OFF-AND-ON.mp4"
+    },
+    {
+      "phrases": ["at one time", "frequency", "once", "one time"],
+      "video": "ONCE.mp4"
+    },
+    {
+      "phrases": ["1", "number", "one"],
+      "video": "ONE.mp4"
+    },
+    {
+      "phrases": [
+        "Barack Obama",
+        "44th US president"
+      ],
+      "video": "OBAMA.mp4"
+    },
+    {
+      "phrases": [
+        "be vague",
+        "cover up",
+        "lie",
+        "obfuscate",
+        "prevaricate",
+        "vague"
+      ],
+      "video": "OBFUSCATE.mp4"
+    },
+    {
+      "phrases": [
+        "dwell on",
+        "obsess",
+        "obsessed",
+        "OBSESS"
+      ],
+      "video": "OBSESS.mp4"
+    },
+    {
+      "phrases": [
+        "every now and then",
+        "few",
+        "from time to time",
+        "occasionally",
+        "once in a while",
+        "rarely",
+        "sometime",
+        "sometimes"
+      ],
+      "video": "OCCASIONALLY.mp4"
+    },
+    {
+      "phrases": [
+        "ocean",
+        "sea",
+        "water"
+      ],
+      "video": "OCEAN.mp4"
+    },
+
+
+
+    {
+      "phrases": ["pinky", "pacifier", "PACIFIER", "teething ring"],
+      "video": "PACIFIER.mp4"
+    },
+    {
+      "phrases": ["arrange", "bag", "fill", "fill in", "luggage", "moving", "organize", "pack", "packing", "put in", "put together", "stuff"],
+      "video": "PACK.mp4"
+    },
+    {
+      "phrases": ["ache", "hurt", "injure", "injury", "pain"],
+      "video": "PAIN.mp4"
+    },
+    {
+      "phrases": ["hurts", "in pain", "not comfortable", "painful"],
+      "video": "PAINFUL.mp4"
+    },
+    {
+      "phrases": ["paint", "paint the wall", "painting", "PAINTb"],
+      "video": "PAINT.mp4"
+    },
+    {
+      "phrases": ["Pakistan", "Pakistani", "country"],
+      "video": "PAKISTAN.mp4"
+    },
+    {
+      "phrases": ["discussion", "forum", "meeting", "panel", "panel discussion", "roundtable", "seminar"],
+      "video": "PANEL.mp4"
+    },
+    {
+      "phrases": ["corduroys", "jeans", "khakis", "pants"],
+      "video": "PANTS-LEG.mp4"
+    },
+    {
+      "phrases": ["corduroys", "jeans", "khakis", "pants", "PANTS"],
+      "video": "PANTS.mp4"
+    },
+    {
+      "phrases": ["calendar", "paper calendar", "PAPER-CALENDAR"],
+      "video": "PAPER-CALENDAR.mp4"
+    },
+    {
+      "phrases": ["Paraguay", "Paraguaya", "country"],
+      "video": "PARAGUAY.mp4"
+    },
+    {
+      "phrases": ["align", "alignment", "along with", "in the meantime", "parallel", "same thing"],
+      "video": "PARALLEL.mp4"
+    },
+    {
+      "phrases": ["parents"],
+      "video": "PARENTS.mp4"
+    },
+    {
+      "phrases": ["park", "parking", "park the car", "vehicle"],
+      "video": "PARK.mp4"
+    },
+    {
+      "phrases": ["Parliament"],
+      "video": "PARLIAMENT.mp4"
+    },
+    {
+      "phrases": ["participate", "participant", "subject", "partaker", "involve", "include", "member"],
+      "video": "PARTICIPANT.mp4"
+    },
+    {
+      "phrases": ["couple", "pair", "partner", "spouse", "sweethearts", "two"],
+      "video": "PARTNER.mp4"
+    },
+    {
+      "phrases": ["celebration", "party"],
+      "video": "PARTY.mp4"
+    },
+    {
+      "phrases": ["complete", "finish", "pass", "passed", "passing", "to pass"],
+      "video": "PASS.mp4"
+    },
+    {
+      "phrases": ["blackout", "faint", "pass out"],
+      "video": "PASS-OUT.mp4"
+    },
+    {
+      "phrases": ["ID", "identification", "passport", "travel"],
+      "video": "PASSPORT.mp4"
+    },
+    {
+      "phrases": ["ago", "before", "former", "in the past", "last", "last time", "long ago", "past", "previous", "prior", "used to"],
+      "video": "PAST.mp4"
+    },
+    {
+      "phrases": ["endure", "patience", "patient", "resolved", "suffer", "tolerant", "tolerate"],
+      "video": "PATIENT.mp4"
+    },
+    {
+      "phrases": ["paid off", "pay off", "pay off bills"],
+      "video": "PAY-OFF.mp4"
+    },
+    {
+      "phrases": ["give money", "paid", "pay", "payment", "spend", "spent"],
+      "video": "PAYMENT.mp4"
+    },
+    {
+      "phrases": ["bill", "check", "money", "pay", "payment", "PAYp"],
+      "video": "PAY.mp4"
+    },
+    {
+      "phrases": ["dumb", "gullible", "idiot", "peabrain", "small brain", "stupid", "stupidity", "PEABRAINb"],
+      "video": "PEABRAIN.mp4"
+    },
+    {
+      "phrases": ["calm", "nonviolent", "peace", "peaceful", "✌️", "☮️"],
+      "video": "PEACE.mp4"
+    },
+    {
+      "phrases": ["fruit", "peach", "PEACHrot"],
+      "video":"PEACH.mp4"
+    },
+    {
+    "phrases": ["fruit", "pear"],
+    "video": "PEAR.mp4"
+    },
+    {
+    "phrases": ["bathroom", "pee", "pee-pee", "penis", "toilet", "urine"],
+    "video": "PEE.mp4"
+    },
+    { "phrases": ["dumb", "gullible", "idiot", "nitwit", "peabrain", "small brain", "stupid", "stupidity", "PEABRAIN"], "video": "PEARBRAIN.mp4" },
+    { "phrases": ["peel"], "video": "PEEL.mp4" },
+    { "phrases": ["animal", "penguin", "waddle"], "video": "PENGUIN.mp4" },
+    { "phrases": ["Pennsylvania", "Pennsylvania School for the Deaf", "Philadelphia", "place name", "PSD", "state"], "video": "PENNSYLVANIA.mp4" },
+    { "phrases": ["benefit", "pension", "receive money", "social security", "SSI", "income", "subscribe", "take from"], "video": "PENSION.mp4" },
+    { "phrases": ["folks", "people", "persons"], "video": "PEOPLE.mp4" },
+    { "phrases": ["condiment", "ingredient", "pepper", "seasoning", "spices", "PEPPER"], "video": "PEPPER.mp4" },
+    { "phrases": ["listen", "receive", "reception", "perceive", "perception", "understand", "receptive", "listen with the eyes"], "video": "PERCEIVE.mp4" },
+    { "phrases": ["%", "percentage", "percent", "punctuation", "symbol"], "video": "PERCENT.mp4" },
+    { "phrases": ["to permit", "permit (thing)"], "video": "PERMIT.mp4" },
+    { "phrases": ["consistent", "continue", "endure", "indefinite", "keep happening", "ongoing", "persevere", "persist", "persistent", "repeatedly"], "video": "PERSIST.mp4" },
+    { "phrases": ["characteristics", "persona", "personal", "personality", "personally"], "video": "PERSONALITY.mp4" },
+    { "phrases": ["agent", "individual", "person"], "video": "PERSON.mp4" },
+    { "phrases": ["browse", "examine", "look", "peruse", "read", "scrutinize", "skim", "study", "survey"], "video": "PERUSE.mp4" },
+    { "phrases": ["animal", "caress", "pet", "spoil"], "video": "PET.mp4" },
+    { "phrases": ["amazing", "awesome", "good", "great", "incredible", "phenomenal", "really amazing", "stunning", "wonderful"], "video": "PHENOMENAL.mp4" },
+    { "phrases": ["city", "Philadelphia", "Philly"], "video": "PHILADELPHIA.mp4" },
+    { "phrases": ["Philippines", "Republic of the Philippines"], "video": "PHILIPPINES.mp4" },
+    { "phrases": ["baseball", "Phillies", "sports", "team"], "video": "PHILLIES.mp4" },
+    { "phrases": ["phonology"], "video": "PHONOLOGY.mp4" },
+    { "phrases": ["body", "health", "physical health", "PHYSICAL-HEALTH8"], "video": "PHYSICAL-HEALTH.mp4" },
+    { "phrases": ["piano", "to play piano"], "video": "PIANO.mp4" },
+    { "phrases": ["bother", "pick on", "tease", "bully", "taunt"], "video": "PICK-ON.mp4" },
+    { "phrases": ["food", "pickle"], "video": "PICKLE.mp4" },
+    { "phrases": ["eat pie", "pastry", "pie", "sweets"], "video": "PIE.mp4" },
+  { "phrases": ["dessert", "pie", "pie-slice", "slice"], "video": "PIE-SLICE.mp4" },
+  { "phrases": ["animal", "pig", "pork"], "video": "PIG.mp4" },
+  { "phrases": ["drops", "medicine", "pill", "take orally"], "video": "PILL.mp4" },
+  { "phrases": ["pinch", "squeeze", "St. Patrick's Day", "to pinch"], "video": "PINCH.mp4" },
+  { "phrases": ["animal", "crab", "crustacean", "grab", "lobster", "pincher"], "video": "PINCHER.mp4" },
+  { "phrases": ["food", "fruit", "pineapple", "PINEAPPLE-CUT"], "video": "PINEAPPLE-CUT.mp4" },
+  { "phrases": ["food", "fruit", "pineapple", "PINEAPPLE-LEAVES"], "video": "PINEAPPLE-LEAVES.mp4" },
+  { "phrases": ["color", "pink"], "video": "PINK.mp4" },
+  { "phrases": ["compassion", "pity", "poor", "poor thing", "sympathy"], "video": "PITY.mp4" },
+  { "phrases": ["food", "pizza"], "video": "PIZZA.mp4" },
+  { "phrases": ["food", "pizza", "PIZZA-SPIN"], "video": "PIZZA-SPIN.mp4" },
+  { "phrases": ["plain"], "video": "PLAIN.mp4" },
+  { "phrases": ["earth", "geography", "globe", "planet"], "video": "PLANET.mp4" },
+  { "phrases": ["bendable", "flexible", "malleable", "pliable", "plastic"], "video": "PLASTIC.mp4" },
+  { "phrases": ["dish", "plate", "platter"], "video": "PLATE.mp4" },
+  { "phrases": ["goof off", "party", "play"], "video": "PLAY.mp4" },
+  { "phrases": ["agent", "athlete", "person", "play", "player", "sports"], "video": "PLAYER.mp4" },
+  { "phrases": ["playground"], "video": "PLAYGROUND.mp4" },
+  { "phrases": ["doll", "plastic", "rubber", "toy", "playtoy"], "video": "PLAYTOY.mp4" },
+  {
+    "phrases": ["PLUNGER", "bathroom", "cleaning", "fixing", "toilet", "tool"],
+    "video": "PLUNGER.MP4"
+  },
+  {
+    "phrases": ["PLURAL", "lots", "many", "more than one", "multiple"],
+    "video": "PLURAL.MP4"
+  },
+  {
+    "phrases": ["POLICE5", "badge", "cop", "patrol", "police", "police officer", "security"],
+    "video": "POLICE.MP4"
+  },
+  {
+    "phrases": ["POLITE", "appropriate", "courteous", "formal", "formality", "manners", "officially", "politeness", "proper", "well-behaved"],
+    "video": "POLITE.MP4"
+  },
+  {
+    "phrases": ["PONDER", "brainstorm", "consider", "contemplate", "going through the mind", "mull over", "pondering", "reflect", "reflection", "think about", "thinking", "thoughts", "wondering", "🤔"],
+    "video": "PONDER.MP4"
+  },
+  {
+    "phrases": ["POOL-GAME", "billards", "play pool", "pool", "shoot pool"],
+    "video": "POOL-GAME.MP4"
+  },
+  {
+    "phrases": ["POOP", "defecate", "going number two", "shit"],
+    "video": "POOP.MP4"
+  },
+  {
+    "phrases": ["POOR", "impoverished", "poverty"],
+    "video": "POOR.MP4"
+  },
+  {
+    "phrases": ["POP", "balloon", "burst", "deflate", "prick", "puncture", "to pop"],
+    "video": "POP.MP4"
+  },
+  {
+    "phrases": ["POPCORN", "food"],
+    "video": "POPCORN.MP4"
+  },
+  {
+    "phrases": ["POPSICLE", "frozen pop", "ice cream stick"],
+    "video": "POPSICLE.MP4"
+  },
+  {
+    "phrases": ["POPULAR", "famous", "popularity", "well-known"],
+    "video": "POPULAR.MP4"
+  },
+  {
+    "phrases": ["PORCUPINE", "animal"],
+    "video": "PORCUPINE.MP4"
+  },
+  {
+    "phrases": ["PORTUGAL"],
+    "video": "PORTUGAL.MP4"
+  },
+  {
+    "phrases": ["POSSIBLE", "ability", "able", "can", "possibility", "potential", "potentially"],
+    "video": "POSSIBLE.MP4"
+  },
+  {
+    "phrases": ["POSSUM", "animal", "opossum"],
+    "video": "POSSUM.MP4"
+  },
+  {
+    "phrases": ["POST", "poster", "put up", "wall hanging"],
+    "video": "POST.MP4"
+  },
+  {
+    "phrases": ["POTATO", "chips", "Idaho", "Ireland", "Irish", "potato chips"],
+    "video": "POTATO.MP4"
+  },
+  {
+    "phrases": ["POURa", "pour", "POUR"],
+    "video": "POUR.MP4"
+  },
+  {
+    "phrases": ["POW", "argue", "banter", "debate", "got you", "insult", "knock out", "rejoinder", "render speechless", "victory", "win argument", "win debate", "zap", "touche", "zinger", "hah"],
+    "video": "POW.MP4"
+  },
+  {
+    "phrases": ["POWER", "potent", "powerful", "strength", "strong"],
+    "video": "POWER.MP4"
+  },
+  {
+    "phrases": ["POWER-THROUGH", "completed", "finish everything", "get this done", "go through", "make progress", "proceed", "full speed ahead", "get things done", "finish at once", "complete at once", "get it done"],
+    "video": "POWER-THROUGH.MP4"
+  },
+  {
+    "phrases": ["PRAY", "church", "prayer", "religion", "sermon", "worship"],
+    "video": "PRAYER.MP4"
+  },
+  {
+    "phrases": ["PREACH", "religion", "church", "sermon", "lecture", "prescribe", "prescription", "prescriptive"],
+    "video": "PREACH.MP4"
+  },
+  {
+    "phrases": ["PREACHER", "church", "minister", "pastor", "preacher", "priest", "temple"],
+    "video": "PREACHER.MP4"
+  },
+  {
+    "phrases": ["PRECIOUS", "care", "cherish", "conserve", "dear", "save", "to treasure", "value"],
+    "video": "PRECIOUS.MP4"
+  },
+  {
+    "phrases": ["PREDICT", "anticipate", "foresee", "future", "look", "look ahead", "prediction", "see"],
+    "video": "PREDICT.MP4"
+  },
+  {
+    "phrases": ["PREFER", "better", "preference"],
+    "video": "PREFER.MP4"
+  },
+  {
+    "phrases": ["PREPARE", "arrange", "in order", "organize", "preparation"],
+    "video": "PREPARE.MP4"
+  },
+  {
+    "phrases": ["PRESBYTERIAN", "church", "religion", "religious"],
+    "video": "PRESBYTERIAN.MP4"
+  },
+  {
+    "phrases": ["PRESIDENT"],
+    "video": "PRESIDENT.MP4"
+  },
+  {
+    "phrases": ["PRESS", "click", "hold down", "poke", "press button", "push", "remote", "tap"],
+    "video": "PRESS.MP4"
+  },
+  {
+    "phrases": ["PRETEND", "fake", "imagine", "play", "not real"],
+    "video": "PRETEND.MP4"
+  },
     {
         "phrases": [
             "policy",
@@ -2369,8 +2925,6 @@
         ],
         "video": "Policy.mp4"
     },
-    
-
     {
         "phrases": [
           "hmm",
@@ -2515,7 +3069,6 @@
             "reputation",
             "possession",
             "tendency",
-            "their",
             "typical of"
         ],
         "video": "Reputation.mp4"
@@ -2567,6 +3120,7 @@
         ],
         "video": "Revise.mp4"
     }, 
+
 
     {
         "phrases": ["deliver", "dispatch", "forward", "send", "to mail"],
