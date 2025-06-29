@@ -2111,13 +2111,41 @@
 
 
 
-
-
+{
+      "phrases": [
+          "macau"
+      ],
+      "video": "MACAU.mp4"
+}, 
+{
+  "phrases": [
+    "crazy", "craziness", "insane", "mad", "nuts"
+  ],
+  "video": "MAD.mp4"
+}, 
+{
+  "phrases": [
+    "journal", "magazine", "newspaper", "publication"
+  ],
+  "video": "MAGAZINE.mp4"
+},
 {
       "phrases": [
           "mail", "stamp"
       ],
       "video": "MAIL.mp4"
+}, 
+{
+  "phrases": [
+      "maine"
+  ],
+  "video": "MAINE.mp4"
+}, 
+{
+  "phrases": [
+    "assimilate", "blend", "blend in", "combine", "consolidate", "integrate", "mainstream", "mainstream education","mainstreamed", "mainstreamed alone", "merge"
+  ],
+  "video": "MAINSTREAMED.mp4"
 }, 
 {
     "phrases": [
@@ -2143,6 +2171,14 @@
   ],
   "video": "MAKE-FUN.mp4"
 }, 
+{
+  "phrases": ["Malaysia"],
+  "video": "MALAYSIA.mp4"
+},
+{
+  "phrases": ["flexible", "malleable", "plasticity", "adjustable"],
+  "video": "MALLEABLE.mp4"
+},
 {
   "phrases": [
    "gentleman", "male", "man", "masculine"
@@ -2174,6 +2210,243 @@
   "phrases": ["marry","marriage","married"],
   "video": "MARRY.mp4"
 }, 
+{
+  "phrases": ["wearing mask", "mask on", "masked"],
+  "video": "MASK-ON.mp4"
+},
+{
+  "phrases": ["face covering", "face mask", "mask"],
+  "video": "MASK.mp4"
+},
+{
+  "phrases": ["lower mask", "put mask down", "remove mask", "take off mask"],
+  "video": "MASK-DOWN.mp4"
+},
+{
+  "phrases": ["chew", "digest", "eating", "masticate"],
+  "video": "MASTICATE.mp4"
+},
+{
+  "phrases": ["combine", "compatible", "correspond", "fit", "go with", "match"],
+  "video": "MATCH.mp4"
+},
+{
+  "phrases": ["McDonalds", "McDonald's", "Mickey D's"],
+  "video": "MCDONALD'S.mp4"
+},
+{
+  "phrases": ["cruel", "mean", "not nice", "unkind"],
+  "video": "MEAN.mp4"
+},
+{
+  "phrases": ["inch", "measure", "measurement", "size"],
+  "video": "MEASURE.mp4"
+},
+{
+  "phrases": ["content", "food", "meat", "steak"],
+  "video": "MEAT.mp4"
+},
+{
+  "phrases": ["fix", "handyman", "mechanic", "plumbing", "tool", "wrench"],
+  "video": "MECHANIC.mp4"
+},
+{
+  "phrases": ["approach", "meet", "met"],
+  "video": "MEET.mp4"
+},
+{
+  "phrases": ["Melbourne"],
+  "video": "MELBOURNE.mp4"
+},
+{
+  "phrases": ["member", "membership"],
+  "video": "MEMBER.mp4"
+},
+{
+  "phrases": ["memorization", "memorize", "memory", "recall", "remember"],
+  "video": "MEMORIZE.mp4"
+},
+{
+  "phrases": ["MENTIONix", "allude to", "mention", "name", "refer to", "say", "state", "to name", "touch upon", "to be called"],
+  "video": "MENTION.mp4"
+},
+{
+  "phrases": ["follow", "mentor", "pursue"],
+  "video": "MENTOR.mp4"
+},
+{
+  "phrases": ["chaos", "chaotic", "disrupt", "hectic", "mess", "messed up", "mess up", "messy", "thrown off"],
+  "video": "MESS.mp4"
+},
+{
+  "phrases": ["metal", "solid","metallic"],
+  "video": "METAL-SOLID.mp4"
+},
+{
+  "phrases": ["country", "Mexican", "Mexico"],
+  "video": "MEXICAN.mp4"
+},
+{
+  "phrases": ["country", "Mexican", "Mexico"],
+  "video": "MEXICO.mp4"
+},
+{
+  "phrases": ["cartoon", "Disney", "Mickey Mouse"],
+  "video": "MICKEY-MOUSE.mp4"
+},
+{
+  "phrases": ["lens", "microscrope", "telescope", "MICROSCOPEwig"],
+  "video": "MICROSCOPE.mp4"
+},
+{
+  "phrases": ["appliance", "microwave","microwave oven"],
+  "video": "MICROWAVE.mp4"
+},
+{
+  "phrases": ["center", "central", "median", "middle"],
+  "video": "MIDDLE.mp4"
+},
+{
+  "phrases": ["dairy", "milk", "MILKasym"],
+  "video": "MILK.mp4"
+},
+{
+  "phrases": ["million", "millions"],
+  "video": "MILLION.mp4"
+},
+{
+  "phrases": ["a load off your mind", "amnesia", "bad memory", "blank mind", "do not remember", "forget", "forgotten", "MIND-BLANK", "relief"],
+  "video": "MIND-BLANK.mp4"
+},
+{
+  "phrases": ["assume", "fail to catch", "fail to get", "guess", "miss"],
+  "video": "MISS-GET.mp4"
+},
+{
+  "phrases": ["misunderstand", "misunderstanding", "change mind"],
+  "video": "MISUNDERSTAND.mp4"
+},
+{
+  "phrases": ["gloves", "mittens"],
+  "video": "MITTEN.mp4"
+},
+{
+  "phrases": ["combine", "mix", "scramble"],
+  "video": "MIX.mp4"
+},
+{
+  "phrases": ["talk on phone", "phone call", "cell phone", "mobile", "cellular", "phone"],
+  "video": "MOBILE-PHONE.mp4"
+},
+{
+  "phrases": ["make fun of", "mock", "ridicule", "taunt", "tease", "torment"],
+  "video": "MOCK.mp4"
+},
+{
+  "phrases": ["fashion model", "model"],
+  "video": "MODEL.mp4"
+},
+{
+  "phrases": ["demonstrate", "example", "model", "model type", "show"],
+  "video": "MODEL-TYPE.mp4"
+},
+{
+  "phrases": ["day", "day of the week", "Monday"],
+  "video": "MONDAY.mp4"
+},
+{
+  "phrases": ["currency", "finance", "financial", "funding", "funds", "money"],
+  "video": "MONEY.mp4"
+},
+{
+  "phrases": ["animal", "chimpanzee", "gorilla", "monkey", "orangutan"],
+  "video": "MONKEY.mp4"
+},
+{
+  "phrases": ["Montana"],
+  "video": "MONTANA.mp4"
+},
+{
+  "phrases": ["month", "monthly", "one month"],
+  "video": "MONTH.mp4"
+},
+{
+  "phrases": ["moon"],
+  "video": "MOON.mp4"
+},
+{
+  "phrases": ["broom", "clean", "mop", "sweep", "wipe"],
+  "video": "MOP.mp4"
+},
+{
+  "phrases": ["AM", "morning", "time"],
+  "video": "MORNING.mp4"
+},
+{
+  "phrases": ["Morocco"],
+  "video": "MOROCCO.mp4"
+},
+{
+  "phrases": ["bug", "insect", "mosquito", "mosquito hand"],
+  "video": "MOSQUITO-HAND.mp4"
+},
+{
+  "phrases": ["bug", "insect", "mosquito", "mosquito nose", "mosquito-nose"],
+  "video": "MOSQUITO-NOSE.mp4"
+},
+{
+  "phrases": ["almost all", "greatest", "most", "nearly all"],
+  "video": "MOST.mp4"
+},
+{
+  "phrases": ["mama", "maternal", "mom", "mommy", "mother"],
+  "video": "MOTHER.mp4"
+},
+
+{
+  "phrases": ["encouraged", "enthusiastic", "involved", "motivate", "motivated"],
+  "video": "MOTIVATE.mp4"
+},
+{
+  "phrases": ["mountain"],
+  "video": "MOUNTAIN.mp4"
+},
+{
+  "phrases": ["body part", "lips", "mouth"],
+  "video": "MOUTH.mp4"
+},
+{
+  "phrases": ["blah blah blah", "speak", "speaking", "talk", "talking mouth", "yada yada"],
+  "video": "MOUTH-TALK.mp4"
+},
+{
+  "phrases": ["install", "move", "put", "put away", "put on", "put over there", "relocate"],
+  "video": "MOVE.mp4"
+},
+{
+  "phrases": ["Mozambique", "Mozambican", "country"],
+  "video": "MOZAMBIQUE.mp4"
+},
+{
+  "phrases": ["muscle"],
+  "video": "MUSCLE.mp4"
+},
+{
+  "phrases": ["museum"],
+  "video": "MUSEUM.mp4"
+},
+{
+  "phrases": ["music", "poetry", "song"],
+  "video": "MUSIC.mp4"
+},
+{
+  "phrases": ["facial hair", "moustache", "mustache", "MUSTACHE"],
+  "video": "MUSTACHE.mp4"
+},
+{
+  "phrases": ["my bad", "oops", "MY-BADb"],
+  "video": "MY-BAD.mp4"
+},
 
     
     {
@@ -2235,7 +2508,171 @@
     },
     
     
-  
+
+    {
+      "phrases": ["clip nails", "cut nails", "nail clippers"],
+      "video": "NAIL-CLIPPERS.mp4"
+    },
+    {
+      "phrases": ["bare", "blank", "empty", "naked", "nude"],
+      "video": "NAKED.mp4"
+    },
+    {
+      "phrases": ["covid test", "nasal swab"],
+      "video": "NASAL-SWAB.mp4"
+    },
+    {
+      "phrases": ["natural", "naturally", "of course", "normal"],
+      "video": "NORMAL.mp4"
+    },
+    {
+      "phrases": ["nature", "natural", "of course", "normal"],
+      "video": "NATURE.mp4"
+    },
+    {
+      "phrases": ["body part", "neck"],
+      "video": "NECK.mp4"
+    },
+    {
+      "phrases": ["jewelry", "necklace"],
+      "video": "NECKLACE.mp4"
+    },
+    {
+      "phrases": ["angry", "minus", "negation", "negative", "pessimistic", "punctuation", "symbol"],
+      "video": "NEGATIVE.mp4"
+    },
+    {
+      "phrases": ["Nepal", "nepali", "country"],
+      "video": "NEPAL.mp4"
+    },
+    {
+      "phrases": ["boy", "family", "kinship", "nephew", "relative"],
+      "video": "NEPHEW.mp4"
+    },
+    {
+      "phrases": ["nerve", "nerves", "the nerve"],
+      "video": "NERVE.mp4"
+    },
+    {
+      "phrases": ["anxiety", "anxious", "apprehensive", "fearful", "frightened", "nervous", "scared"],
+      "video": "NERVOUS.mp4"
+    },
+    {
+      "phrases": ["Dutch", "Holland", "The Netherlands"],
+      "video": "NETHERLANDS.mp4"
+    },
+    {
+      "phrases": ["association", "communication", "connect", "connection", "contact", "network", "online", "outreach", "similarity"],
+      "video": "NETWORK.mp4"
+    },
+    {
+      "phrases": ["ever", "never"],
+      "video": "NEVER.mp4"
+    },
+    {
+      "phrases": ["city", "London", "place name", "town"],
+      "video": "NEW-LONDON.mp4"
+    },
+    {
+      "phrases": ["New York", "place name", "state"],
+      "video": "NEW-YORK.mp4"
+    },
+    {
+      "phrases": ["New Zealand", "country"],
+      "video": "NEW-ZEALAND.mp4"
+    },
+    {
+      "phrases": ["close", "following", "forward", "further", "neighbor", "next", "next door", "upcoming"],
+      "video": "NEXT.mp4"
+    },
+    {
+      "phrases": ["adjacent", "besides", "by", "close", "near", "neighbor", "next", "next door", "next to", "proximate", "side"],
+      "video": "NEXT-TO.mp4"
+    },
+    {
+      "phrases": ["later", "next year", "year"],
+      "video": "NEXT-YEAR.mp4"
+    },
+    {
+      "phrases": ["Nicaragua", "Nicaraguan", "country"],
+      "video": "NICARAGUA.mp4"
+    },
+    {
+      "phrases": ["kind", "nice", "sweet", "clean"],
+      "video": "NICE.mp4"
+    },
+    {
+      "phrases": ["family", "girl", "kinship", "niece", "relative"],
+      "video": "NIECE.mp4"
+    },
+    {
+      "phrases": ["Nigeria", "Nigerian", "country"],
+      "video": "NIGERIA.mp4"
+    },
+    {
+      "phrases": ["9", "nine", "number"],
+      "video": "NINE.mp4"
+    },
+    {
+      "phrases": ["insignificant", "no big deal", "nothing", "not a problem", "oh it's all right", "trivial"],
+      "video": "NO-BIG-DEAL.mp4"
+    },
+    {
+      "phrases": ["ear vibrations", "noise", "sound"],
+      "video": "NOISE.mp4"
+    },
+    {
+      "phrases": ["North Korea", "North Korean", "country"],
+      "video": "NORTH-KOREA.mp4"
+    },
+    {
+      "phrases": ["Norway", "country"],
+      "video": "NORWAY.mp4"
+    },
+    {
+      "phrases": ["body part", "nose"],
+      "video": "NOSE.mp4"
+    },
+    {
+      "phrases": ["don't", "not", "won't"],
+      "video": "NOT.mp4"
+    },
+    {
+      "phrases": ["indifferent to", "mind closed", "mind shut", "not interested", "not motivated", "uninterested"],
+      "video": "NOT-INTERESTED.mp4"
+    },
+    {
+      "phrases": ["dislike", "don't like", "don't want", "I don't want that", "no", "not want"],
+      "video": "NOT-WANT.mp4"
+    },
+    {
+      "phrases": ["detect", "note", "notice", "recognition", "recognize"],
+      "video": "NOTICE.mp4"
+    },
+    {
+      "phrases": ["contemporary", "current", "modern", "now", "present", "this", "today"],
+      "video": "NOW.mp4"
+    },
+    {
+      "phrases": ["none", "nothing", "nothing at all", "nobody"],
+      "video": "NOTHING.mp4"
+    },
+    {
+      "phrases": ["annotation convention", "Julie's sign name", "namesign", "name sign", "NS"],
+      "video": "NS.mp4"
+    },
+    {
+      "phrases": ["number", "numerical", "quantity"],
+      "video": "NUMBER.mp4"
+    },
+    {
+      "phrases": ["huge mass of", "large number of", "lots of", "many", "numerous", "scads of"],
+      "video": "NUMEROUS.mp4"
+    },
+    {
+      "phrases": ["almond", "cashew", "nut", "nuts", "peanut"],
+      "video": "NUT.mp4"
+    },
     {
         "phrases": [
             "don't have",
@@ -2245,19 +2682,7 @@
             "no thank you",
             "cut throat",
             "cut off",
-            "cut it out"
-        ],
-        "video": "Nah.mp4"
-    },
-    {
-        "phrases": [
-            "New York",
-            "NYC"
-        ],
-        "video": "New-york.mp4"
-    },
-    {
-        "phrases": [
+            "cut it out",
             "head shake",
             "interjection",
             "negative",
@@ -2272,7 +2697,14 @@
             "I don't think so",
             "nope"
         ],
-        "video": "No.mp4"
+        "video": "Nah.mp4"
+    },
+    {
+        "phrases": [
+            "New York",
+            "NYC"
+        ],
+        "video": "New-york.mp4"
     },
     {
         "phrases": [
